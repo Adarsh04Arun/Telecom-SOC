@@ -1,4 +1,4 @@
-# 🛰️ Telecom SOC Copilot
+# 🛰️ Telecom SOC 
 
 ## 🔍 Overview
 This project is a **Security Operations Center (SOC) Copilot**.  
@@ -18,21 +18,6 @@ Analysts can upload events, score them for suspiciousness, retrieve relevant evi
 - ✅ **Copilot Explanation** — Optional integration with **IBM Granite** for concise guidance  
 - ✅ **Web UI** — Built-in HTML UI (no Streamlit needed)  
 - ✅ **API Endpoints** — `/score_one` and `/score_batch` (FastAPI + Swagger docs)  
-
----
-
-## 📂 Project Structure
-```
-.
-├── soc_copilot.py           # Single-file application
-├── model/
-│   └── model_pipeline.joblib
-├── knowledge/               # Your .md/.txt/.pdf playbooks
-├── docs/
-│   └── mitre_mapping_autodraft.csv
-├── rag_index/               # Generated embeddings + index
-└── README.md
-```
 
 ---
 
@@ -125,5 +110,3 @@ Without these, the Copilot still works with **RAG-only evidence**.
 
 ---
 
-## 📜 License
-MIT License (or your choice).
