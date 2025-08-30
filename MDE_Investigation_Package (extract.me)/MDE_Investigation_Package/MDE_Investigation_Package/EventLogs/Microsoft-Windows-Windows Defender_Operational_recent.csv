@@ -1,0 +1,744 @@
+"TimeCreated","Id","LevelDisplayName","Message"
+"07-08-2025 17:56:29","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.32.0
+ 	Antispyware security intelligence version: 1.435.32.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-07T04:34:07Z
+ 	Antispyware security intelligence creation time: 2025-08-07T04:34:07Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 17:00:02","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x1
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x0"
+"07-08-2025 16:56:29","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.32.0
+ 	Antispyware security intelligence version: 1.435.32.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-07T04:34:07Z
+ 	Antispyware security intelligence creation time: 2025-08-07T04:34:07Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 16:10:24","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x0
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x1"
+"07-08-2025 15:58:20","5001","Information","Microsoft Defender Antivirus Real-time Protection scanning for malware and other potentially unwanted software was disabled."
+"07-08-2025 15:56:29","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 1.1.25070.4
+ 	Antivirus security intelligence version: 1.435.32.0
+ 	Antispyware security intelligence version: 1.435.32.0
+ 	Network Realtime Inspection security intelligence version: 1.435.32.0
+ 	RTP state: Enabled
+ 	OA state: Enabled
+ 	IOAV state: Disabled
+ 	BM state: Enabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-07T04:34:07Z
+ 	Antispyware security intelligence creation time: 2025-08-07T04:34:07Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 15:56:29","1150","Information","Endpoint Protection client is up and running in a healthy state.
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Security intelligence version: 1.435.32.0
+"
+"07-08-2025 15:52:28","1117","Information","Microsoft Defender Antivirus has taken action to protect this machine from malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:PowerShell/Fleisnam.E&threatid=2147914208&enterprise=0
+ 	Name: Trojan:PowerShell/Fleisnam.E
+ 	ID: 2147914208
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\Admin\AppData\Local\Microsoft_Corporation\PowerShell_ISE.exe_StrongName_lw2v2vm3wmtzzpebq33gybmeoxukb04w\3.0.0.0\AutoSaveFiles\AutoSaved_a039000e-7c12-446d-abad-c7b79ec10a03_Untitled1.ps1->(UTF-8)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe
+ 	Action: Quarantine
+ 	Action Status:  No additional actions required
+ 	Error Code: 0x00000000
+ 	Error description: The operation completed successfully. 
+ 	Security intelligence Version: AV: 1.435.32.0, AS: 1.435.32.0, NIS: 1.435.32.0
+ 	Engine Version: AM: 1.1.25070.4, NIS: 1.1.25070.4"
+"07-08-2025 15:52:23","1116","Warning","Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:PowerShell/Fleisnam.E&threatid=2147914208&enterprise=0
+ 	Name: Trojan:PowerShell/Fleisnam.E
+ 	ID: 2147914208
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\Admin\AppData\Local\Microsoft_Corporation\PowerShell_ISE.exe_StrongName_lw2v2vm3wmtzzpebq33gybmeoxukb04w\3.0.0.0\AutoSaveFiles\AutoSaved_a039000e-7c12-446d-abad-c7b79ec10a03_Untitled1.ps1->(UTF-8)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: AVIRUP-1\Admin
+ 	Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe
+ 	Security intelligence Version: AV: 1.435.32.0, AS: 1.435.32.0, NIS: 1.435.32.0
+ 	Engine Version: AM: 1.1.25070.4, NIS: 1.1.25070.4"
+"07-08-2025 15:18:08","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x1
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x0"
+"07-08-2025 15:06:52","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x2
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x3"
+"07-08-2025 15:06:52","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0x16204DCC
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0x6E6410B5"
+"07-08-2025 15:06:52","2000","Information","Microsoft Defender Antivirus security intelligence version updated.
+ 	Current security intelligence Version: 1.435.32.0
+ 	Previous security intelligence Version: 1.435.25.0
+ 	Security intelligence Type: AntiSpyware
+ 	Update Type: Delta
+ 	User: NT AUTHORITY\SYSTEM
+ 	Current Engine Version: 1.1.25070.4
+ 	Previous Engine Version: 1.1.25070.4"
+"07-08-2025 15:06:52","2000","Information","Microsoft Defender Antivirus security intelligence version updated.
+ 	Current security intelligence Version: 1.435.32.0
+ 	Previous security intelligence Version: 1.435.25.0
+ 	Security intelligence Type: AntiVirus
+ 	Update Type: Delta
+ 	User: NT AUTHORITY\SYSTEM
+ 	Current Engine Version: 1.1.25070.4
+ 	Previous Engine Version: 1.1.25070.4"
+"07-08-2025 14:57:41","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceStartStates = 0x1
+ 	New value: Default\ServiceStartStates = 0x0"
+"07-08-2025 14:56:46","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x1
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x2"
+"07-08-2025 14:56:45","5000","Information","Microsoft Defender Antivirus Real-time Protection scanning for malware and other potentially unwanted software was enabled."
+"07-08-2025 14:56:43","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x4
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x1"
+"07-08-2025 14:56:43","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = LoadingEngine
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = ServiceStartedSuccessfully"
+"07-08-2025 14:56:43","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0x59397125
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0x16204DCC"
+"07-08-2025 14:56:40","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = InitService
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = LoadingEngine"
+"07-08-2025 14:56:40","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: Default\ServiceStartStates = 0x0
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceStartStates = 0x1"
+"07-08-2025 14:56:23","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = InitializeMiscConfigLibrary
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = PostPlatformUpdate"
+"07-08-2025 14:56:23","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0x16204DCC
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0x59397125"
+"07-08-2025 14:56:23","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: Default\IsServiceRunning = 0x0
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\IsServiceRunning = 0x1"
+"07-08-2025 14:56:02","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\CleanupComponentProgress = CleanupCompleted
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\CleanupComponentProgress = CleanupEngine"
+"07-08-2025 14:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 14:02:22","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x0
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x1"
+"07-08-2025 13:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 12:51:47","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 11:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 10:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 09:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 08:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 07:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 06:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 05:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.25.0
+ 	Antispyware security intelligence version: 1.435.25.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Antispyware security intelligence creation time: 2025-08-06T20:01:29Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 04:51:58","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x3
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x4"
+"07-08-2025 04:51:58","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0xCBAD83B
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0x16204DCC"
+"07-08-2025 04:51:58","2000","Information","Microsoft Defender Antivirus security intelligence version updated.
+ 	Current security intelligence Version: 1.435.25.0
+ 	Previous security intelligence Version: 1.435.14.0
+ 	Security intelligence Type: AntiSpyware
+ 	Update Type: Delta
+ 	User: NT AUTHORITY\SYSTEM
+ 	Current Engine Version: 1.1.25070.4
+ 	Previous Engine Version: 1.1.25070.4"
+"07-08-2025 04:51:58","2000","Information","Microsoft Defender Antivirus security intelligence version updated.
+ 	Current security intelligence Version: 1.435.25.0
+ 	Previous security intelligence Version: 1.435.14.0
+ 	Security intelligence Type: AntiVirus
+ 	Update Type: Delta
+ 	User: NT AUTHORITY\SYSTEM
+ 	Current Engine Version: 1.1.25070.4
+ 	Previous Engine Version: 1.1.25070.4"
+"07-08-2025 04:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.14.0
+ 	Antispyware security intelligence version: 1.435.14.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Antispyware security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 03:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.14.0
+ 	Antispyware security intelligence version: 1.435.14.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Antispyware security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 02:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.14.0
+ 	Antispyware security intelligence version: 1.435.14.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Antispyware security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 01:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.14.0
+ 	Antispyware security intelligence version: 1.435.14.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Antispyware security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 00:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 0.0.0.0
+ 	Antivirus security intelligence version: 1.435.14.0
+ 	Antispyware security intelligence version: 1.435.14.0
+ 	Network Realtime Inspection security intelligence version: 0.0.0.0
+ 	RTP state: Disabled
+ 	OA state: Disabled
+ 	IOAV state: Disabled
+ 	BM state: Disabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Antispyware security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"07-08-2025 00:06:13","5001","Information","Microsoft Defender Antivirus Real-time Protection scanning for malware and other potentially unwanted software was disabled."
+"07-08-2025 00:06:13","5004","Information","Microsoft Defender Antivirus Real-time Protection feature configuration has changed.
+ 	Feature: Behavior Monitoring
+ 	Configuration: 1"
+"07-08-2025 00:05:59","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x1
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration\ToastOrSsoTrigger = 0x0"
+"06-08-2025 23:51:48","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 1.1.25070.4
+ 	Antivirus security intelligence version: 1.435.14.0
+ 	Antispyware security intelligence version: 1.435.14.0
+ 	Network Realtime Inspection security intelligence version: 1.435.14.0
+ 	RTP state: Enabled
+ 	OA state: Enabled
+ 	IOAV state: Disabled
+ 	BM state: Enabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Antispyware security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"06-08-2025 23:51:48","1150","Information","Endpoint Protection client is up and running in a healthy state.
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Security intelligence version: 1.435.14.0
+"
+"06-08-2025 22:51:49","1151","Information","Endpoint Protection client health report (time in UTC):
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Network Realtime Inspection engine version: 1.1.25070.4
+ 	Antivirus security intelligence version: 1.435.14.0
+ 	Antispyware security intelligence version: 1.435.14.0
+ 	Network Realtime Inspection security intelligence version: 1.435.14.0
+ 	RTP state: Enabled
+ 	OA state: Enabled
+ 	IOAV state: Disabled
+ 	BM state: Enabled
+ 	Antivirus security intelligence age: 0
+ 	Antispyware security intelligence age: 0
+ 	Last quick scan age: 0
+ 	Last full scan age: 4294967295
+ 	Antivirus security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Antispyware security intelligence creation time: 2025-08-06T11:33:00Z
+ 	Last quick scan start time: 2025-08-06T16:26:14Z
+ 	Last quick scan end time: 2025-08-06T16:27:27Z
+ 	Last quick scan source: 2
+ 	Last full scan start time: 1601-01-01T00:00:00Z
+ 	Last full scan end time: 1601-01-01T00:00:00Z
+ 	Last full scan source: 0
+ 	Product status: 0x00080000
+"
+"06-08-2025 22:51:49","1150","Information","Endpoint Protection client is up and running in a healthy state.
+ 	Platform version: 4.18.25070.5
+ 	Engine version: 1.1.25070.4
+ 	Security intelligence version: 1.435.14.0
+"
+"06-08-2025 22:02:28","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x2
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x3"
+"06-08-2025 22:02:28","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0xBA63AC6A
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0xCBAD83B"
+"06-08-2025 22:02:27","2000","Information","Microsoft Defender Antivirus security intelligence version updated.
+ 	Current security intelligence Version: 1.435.14.0
+ 	Previous security intelligence Version: 1.435.11.0
+ 	Security intelligence Type: AntiSpyware
+ 	Update Type: Delta
+ 	User: NT AUTHORITY\SYSTEM
+ 	Current Engine Version: 1.1.25070.4
+ 	Previous Engine Version: 1.1.25070.4"
+"06-08-2025 22:02:27","2000","Information","Microsoft Defender Antivirus security intelligence version updated.
+ 	Current security intelligence Version: 1.435.14.0
+ 	Previous security intelligence Version: 1.435.11.0
+ 	Security intelligence Type: AntiVirus
+ 	Update Type: Delta
+ 	User: NT AUTHORITY\SYSTEM
+ 	Current Engine Version: 1.1.25070.4
+ 	Previous Engine Version: 1.1.25070.4"
+"06-08-2025 21:57:27","1001","Information","Microsoft Defender Antivirus scan has finished.
+ 	Scan ID: {63740EB2-096C-495B-A592-F25B8C2CB6AA}
+ 	Scan Type: Antimalware
+ 	Scan Parameters: Quick Scan
+ 	User: NT AUTHORITY\SYSTEM
+ 	Scan Time: 0:01:12"
+"06-08-2025 21:56:15","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\SpyNet\LastMAPSFailureTimeString = 2025-08-05T12:28:11Z
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\SpyNet\LastMAPSFailureTimeString = 2025-08-06T16:26:15Z"
+"06-08-2025 21:56:14","1000","Information","Microsoft Defender Antivirus scan has started.
+ 	Scan ID: {63740EB2-096C-495B-A592-F25B8C2CB6AA}
+ 	Scan Type: Antimalware
+ 	Scan Parameters: Quick Scan
+ 	Scan Resources: 
+  	User: NT AUTHORITY\SYSTEM
+ 	Scan Trigger: Scheduled maintenance
+ 	Scan Only If Idle: Enabled
+ 	Low CPU Priority for Scans: Disabled
+ 	Thread Priority: 7"
+"06-08-2025 21:56:14","1013","Information","Microsoft Defender Antivirus has removed history of malware and other potentially unwanted software.
+ 	Time: 2025-07-22T16:26:14Z
+ 	User: NT AUTHORITY\SYSTEM
+"
+"06-08-2025 21:52:58","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceStartStates = 0x1
+ 	New value: Default\ServiceStartStates = 0x0"
+"06-08-2025 21:52:05","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x1
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x2"
+"06-08-2025 21:52:04","5000","Information","Microsoft Defender Antivirus Real-time Protection scanning for malware and other potentially unwanted software was enabled."
+"06-08-2025 21:52:01","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x3
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\DLP Configs\Tag\Tag = 0x1"
+"06-08-2025 21:52:01","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = LoadingEngine
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = ServiceStartedSuccessfully"
+"06-08-2025 21:52:01","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0xF57A9083
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0xBA63AC6A"
+"06-08-2025 21:51:58","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = InitService
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = LoadingEngine"
+"06-08-2025 21:51:58","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceCrashExceptionCode = 0xC0000006
+ 	New value: Default\ServiceCrashExceptionCode = 0x0"
+"06-08-2025 21:51:58","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: Default\ServiceStartStates = 0x0
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceStartStates = 0x1"
+"06-08-2025 21:51:58","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceCrashExceptionOffset = 0x192281
+ 	New value: Default\ServiceCrashExceptionOffset = 0x0"
+"06-08-2025 21:51:58","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceCrashFaultingModuleName = mpengine.dll
+ 	New value: N/A\ServiceCrashFaultingModuleName = "
+"06-08-2025 21:51:55","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = InitializeMiscConfigLibrary
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\Diagnostics\InitializingComponentProgress = PostPlatformUpdate"
+"06-08-2025 21:51:55","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0xBA63AC6A
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\CoreService\WdConfigHash = 0xF57A9083"
+"06-08-2025 21:51:37","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: Default\ServiceCrashExceptionCode = 0x0
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceCrashExceptionCode = 0xC0000006"
+"06-08-2025 21:51:37","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: Default\ServiceCrashExceptionOffset = 0x0
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceCrashExceptionOffset = 0x192281"
+"06-08-2025 21:51:37","5007","Information","Microsoft Defender Antivirus Configuration has changed. If this is an unexpected event you should review the settings as this may be the result of malware.
+ 	Old value: N/A\ServiceCrashFaultingModuleName = 
+ 	New value: HKLM\SOFTWARE\Microsoft\Windows Defender\ServiceCrashFaultingModuleName = mpengine.dll"
+"06-08-2025 21:51:37","5008","Error","Microsoft Defender Antivirus engine has been terminated due to an unexpected error.
+ 	Failure Type: Crash
+ 	Exception code: 0xc0000006
+ 	Resource: file://C:\Windows\System32\Tasks\mimikatz.dll->(UTF-16LE)
+ 	Engine Code: 16422"

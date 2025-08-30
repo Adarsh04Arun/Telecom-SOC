@@ -1,0 +1,120 @@
+{
+  "name": "telecom_soc_events_realtime",
+  "shape": {
+    "rows": 50000,
+    "cols": 20
+  },
+  "null_counts": {
+    "timestamp": 0,
+    "date": 0,
+    "hour": 0,
+    "host": 0,
+    "user": 0,
+    "process": 45051,
+    "event_type": 0,
+    "action": 0,
+    "status": 0,
+    "severity": 0,
+    "severity_num": 0,
+    "protocol": 0,
+    "service": 0,
+    "src_ip": 0,
+    "dst_ip": 0,
+    "is_internal_src": 0,
+    "is_internal_dst": 0,
+    "tags": 0,
+    "msg": 0,
+    "label_suspicious": 0
+  },
+  "empty_string_counts": {
+    "timestamp": 0,
+    "date": 0,
+    "hour": 0,
+    "host": 0,
+    "user": 0,
+    "process": 0,
+    "event_type": 0,
+    "action": 0,
+    "status": 0,
+    "severity": 0,
+    "severity_num": 0,
+    "protocol": 0,
+    "service": 0,
+    "src_ip": 0,
+    "dst_ip": 0,
+    "is_internal_src": 0,
+    "is_internal_dst": 0,
+    "tags": 0,
+    "msg": 0,
+    "label_suspicious": 0
+  },
+  "class_balance": {
+    "0": 0.8224,
+    "1": 0.1776
+  },
+  "cardinality": {
+    "host": 10,
+    "user": 10,
+    "process": 10,
+    "event_type": 10,
+    "protocol": 6,
+    "service": 7
+  },
+  "column_types": {
+    "timestamp": "datetime",
+    "date": "string",
+    "hour": "integer",
+    "host": "string",
+    "user": "string",
+    "process": "string",
+    "event_type": "string",
+    "action": "string",
+    "status": "string",
+    "severity": "string",
+    "severity_num": "integer",
+    "protocol": "string",
+    "service": "string",
+    "src_ip": "string",
+    "dst_ip": "string",
+    "is_internal_src": "integer",
+    "is_internal_dst": "integer",
+    "tags": "string",
+    "msg": "string",
+    "label_suspicious": "integer"
+  },
+  "primary_keys_suggestion": [
+    "timestamp",
+    "host",
+    "event_type",
+    "src_ip",
+    "dst_ip"
+  ],
+  "target": "label_suspicious",
+  "feature_roles": {
+    "categorical": [
+      "host",
+      "user",
+      "process",
+      "event_type",
+      "action",
+      "status",
+      "severity",
+      "protocol",
+      "service",
+      "tags"
+    ],
+    "numerical": [
+      "severity_num",
+      "hour",
+      "is_internal_src",
+      "is_internal_dst"
+    ],
+    "text": [
+      "msg"
+    ],
+    "temporal": [
+      "timestamp",
+      "date"
+    ]
+  }
+}

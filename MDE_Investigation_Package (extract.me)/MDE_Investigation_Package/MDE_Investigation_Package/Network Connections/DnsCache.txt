@@ -1,0 +1,208 @@
+
+Windows IP Configuration
+
+    edr-eus3.us.endpoint.security.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : edr-eus3.us.endpoint.security.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 12908
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : md-prod-simcon-geoedr-tm-eastus3.trafficmanager.net
+
+
+    Record Name . . . . . : md-prod-simcon-geoedr-tm-eastus3.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 12908
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : md-prod-simcon-ip193.eastus2.cloudapp.azure.com
+
+
+    Record Name . . . . . : md-prod-simcon-ip193.eastus2.cloudapp.azure.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 12908
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.10.127.193
+
+
+    wpad
+    ----------------------------------------
+    Record Name . . . . . : wpad
+    Record Type . . . . . : 255
+    Time To Live  . . . . : 12694
+    Data Length . . . . . : 0
+    Section . . . . . . . : Answer
+    Record Name . . . . . : wpad
+    Record Type . . . . . : 255
+    Time To Live  . . . . : 12694
+    Data Length . . . . . : 0
+    Section . . . . . . . : Answer
+    us-v20.events.endpoint.security.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : us-v20.events.endpoint.security.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 12909
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : us-v20.events.data.trafficmanager.net
+
+
+    Record Name . . . . . : us-v20.events.data.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 12909
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : onedscolprdwus05.westus.cloudapp.azure.com
+
+
+    Record Name . . . . . : onedscolprdwus05.westus.cloudapp.azure.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 12909
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.189.173.6
+
+
+    Avirup-1.offense-AD.com
+    ----------------------------------------
+    Record Name . . . . . : Avirup-1.offense-AD.com
+    Record Type . . . . . : 6
+    Time To Live  . . . . : 19
+    Data Length . . . . . : 0
+    Section . . . . . . . : Answer
+    SOA Record  . . . . . : (null)
+                            (null)
+                            0
+                            0
+                            0
+                            0
+                            0
+
+
+    offense-AD.com
+    ----------------------------------------
+    Record Name . . . . . : offense-AD.com
+    Record Type . . . . . : 6
+    Time To Live  . . . . : 19
+    Data Length . . . . . : 40
+    Section . . . . . . . : Authority
+    SOA Record  . . . . . : offense-ad.offense-AD.com
+                            hostmaster.offense-AD.com
+                            170
+                            900
+                            600
+                            86400
+                            3600
+
+
+    offense-ad.offense-AD.com
+    ----------------------------------------
+    Record Name . . . . . : offense-ad.offense-AD.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 19
+    Data Length . . . . . : 4
+    Section . . . . . . . : Additional
+    A (Host) Record . . . : 192.168.52.143
+
+
+    161.52.168.192.in-addr.arpa.
+    ----------------------------------------
+    Record Name . . . . . : 161.52.168.192.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 604800
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : red-vm.alex.ibm.com
+
+
+    firewall03_ew4k4.ibm.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    Record Name . . . . . : firewall03_ew4k4.ibm.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 604800
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.115.224.42
+
+
+    red-vm.alex.ibm.com
+    ----------------------------------------
+    Record Name . . . . . : red-vm.alex.ibm.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 604800
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.52.161
+
+
+    red-vm.alex.ibm.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    fake-malware-site.com
+    ----------------------------------------
+    Record Name . . . . . : fake-malware-site.com
+    Record Type . . . . . : 255
+    Time To Live  . . . . : 12695
+    Data Length . . . . . : 0
+    Section . . . . . . . : Answer
+    offense-AD.offense-AD.com
+    ----------------------------------------
+    Record Name . . . . . : offense-AD.offense-AD.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14411
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.52.143
+
+
+    www.msftconnecttest.com
+    ----------------------------------------
+    Record Name . . . . . : www.msftconnecttest.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ncsi-geo.trafficmanager.net
+
+
+    Record Name . . . . . : ncsi-geo.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www.msftncsi.com.edgesuite.net
+
+
+    Record Name . . . . . : www.msftncsi.com.edgesuite.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a1961.g2.akamai.net
+
+
+    Record Name . . . . . : a1961.g2.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.97.76.208
+
+
+    42.224.115.20.in-addr.arpa.
+    ----------------------------------------
+    Record Name . . . . . : 42.224.115.20.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 604800
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : firewall03_ew4k4.ibm.com
+
+

@@ -1,0 +1,6 @@
+{"text": "# SSH Brute Force Playbook\nSteps: Isolate host, reset credentials, check logs."}
+{"text": "# Autorun Persistence Playbook\nSteps: Remove autorun keys, scan system, re-image if needed."}
+{"text": "# SIP Traffic Anomaly\nSteps: Check SIP logs, confirm C2, block offending IPs."}
+{"text": "MITRE: Stage=Initial Access Tactic=TA0001 Technique=T1078 Valid Accounts Signal=SSH brute force"}
+{"text": "MITRE: Stage=Persistence Tactic=TA0003 Technique=T1547 Boot or Logon Autostart Execution Signal=Autorun registry key"}
+{"text": "MITRE: Stage=Command and Control Tactic=TA0011 Technique=T1071 Application Layer Protocol Signal=SIP anomalous traffic"}

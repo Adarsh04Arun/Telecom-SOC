@@ -1,0 +1,16 @@
+{
+  "high_proto_combo": {
+    "severity": ["high", "critical"],
+    "protocol": ["SSH", "SMTP", "SIP"],
+    "score": 2
+  },
+  "persistence_events": {
+    "event_type": ["service_install", "scheduled_task_created", "autorun_entry"],
+    "score": 2
+  },
+  "ingress_ssh": {
+    "direction": "ingress",
+    "protocol": "SSH",
+    "score": 1
+  }
+}

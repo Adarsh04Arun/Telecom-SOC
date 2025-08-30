@@ -1,0 +1,22 @@
+{
+  "flow_name": "step2_final_ibm_refine",
+  "steps": [
+    "enforce_types(timestamp\u2192ISO Z; ints; strings)",
+    "trim_whitespace(host,user,process,event_type,action,status,severity,protocol,service,tags)",
+    "lowercase(event_type,action,severity,protocol,service,tags)",
+    "clean_msg(remove control chars; clip 2000)",
+    "fill_missing(host=unknown-host, user=system, protocol/service=unknown)",
+    "deduplicate(timestamp,host,event_type,src_ip,dst_ip)",
+    "sanity_filters(remove link-local-only; drop empty timestamp)",
+    "write outputs (CSV, Parquet, sample_5k, profile.json, modelview.csv)",
+    "try DPK transforms (Unique ID, Exact Dedup, Profiler) on Parquet",
+    "merge DPK Unique ID back to CSV if available"
+  ],
+  "composite_key": [
+    "timestamp",
+    "host",
+    "event_type",
+    "src_ip",
+    "dst_ip"
+  ]
+}

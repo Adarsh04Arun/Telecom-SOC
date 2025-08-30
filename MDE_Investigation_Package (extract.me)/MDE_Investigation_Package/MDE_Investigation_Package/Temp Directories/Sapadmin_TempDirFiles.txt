@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FCCE-4B22
+
+ Directory of C:\Users\Sapadmin\AppData\Local\Temp
+
+01-04-2024  12:56    <DIR>          AVIRUP-1\Sapadmin      .
+26-10-2024  20:43    <DIR>          AVIRUP-1\Sapadmin      ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+               0 File(s)              0 bytes
+               2 Dir(s)  12,561,952,768 bytes free

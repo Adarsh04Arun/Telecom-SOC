@@ -1,0 +1,218 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       868
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       1236
+  TermService
+ [svchost.exe]
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       1320
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5985           0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:47001          0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       896
+ [lsass.exe]
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       732
+ Can not obtain ownership information
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1528
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       1308
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       896
+ [lsass.exe]
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING       2672
+ [spoolsv.exe]
+  TCP    0.0.0.0:49700          0.0.0.0:0              LISTENING       876
+ Can not obtain ownership information
+  TCP    192.168.52.144:139     0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    192.168.52.144:3389    106.213.85.160:13581   ESTABLISHED     1236
+  TermService
+ [svchost.exe]
+  TCP    192.168.52.144:49721   4.213.25.242:443       ESTABLISHED     1528
+  UserManager
+ [svchost.exe]
+  TCP    192.168.52.144:50291   20.10.127.193:443      ESTABLISHED     3024
+ Can not obtain ownership information
+  TCP    192.168.52.144:50292   20.189.173.6:443       TIME_WAIT       0
+  TCP    [::]:135               [::]:0                 LISTENING       868
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:3389              [::]:0                 LISTENING       1236
+  TermService
+ [svchost.exe]
+  TCP    [::]:5985              [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:47001             [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:49664             [::]:0                 LISTENING       896
+ [lsass.exe]
+  TCP    [::]:49665             [::]:0                 LISTENING       732
+ Can not obtain ownership information
+  TCP    [::]:49666             [::]:0                 LISTENING       1528
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING       1308
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING       896
+ [lsass.exe]
+  TCP    [::]:49669             [::]:0                 LISTENING       2672
+ [spoolsv.exe]
+  TCP    [::]:49700             [::]:0                 LISTENING       876
+ Can not obtain ownership information
+  UDP    0.0.0.0:123            *:*                                    1328
+  W32Time
+ [svchost.exe]
+  UDP    0.0.0.0:3389           *:*                                    1236
+  TermService
+ [svchost.exe]
+  UDP    0.0.0.0:5050           *:*                                    1320
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                                    1452
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                                    1452
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:50102          127.0.0.1:50101                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:51148          *:*                                    1452
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:53136          127.0.0.1:53135                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53138          127.0.0.1:53137                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53144          127.0.0.1:53143                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53146          127.0.0.1:53145                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53149          127.0.0.1:53148                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53151          127.0.0.1:53150                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53153          127.0.0.1:53152                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53155          127.0.0.1:53154                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53157          127.0.0.1:53156                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53159          127.0.0.1:53158                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53161          127.0.0.1:53160                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53163          127.0.0.1:53162                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:53165          127.0.0.1:53164                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:55423          *:*                                    1452
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:61206          127.0.0.1:61205                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:61208          127.0.0.1:61207                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:61210          127.0.0.1:61209                        4368
+ [SenseNdr.exe]
+  UDP    0.0.0.0:62713          127.0.0.1:62712                        4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:1900         *:*                                    5140
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:50101        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:52442        127.0.0.1:52442                        1552
+  netprofm
+ [svchost.exe]
+  UDP    127.0.0.1:53135        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53137        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53142        *:*                                    5140
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:53143        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53145        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53148        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53150        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53152        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53154        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53156        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53158        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53160        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53162        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:53164        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:57719        127.0.0.1:57719                        896
+ [lsass.exe]
+  UDP    127.0.0.1:61205        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:61207        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:61209        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    127.0.0.1:62712        *:*                                    4368
+ [SenseNdr.exe]
+  UDP    192.168.52.144:137     *:*                                    4
+ Can not obtain ownership information
+  UDP    192.168.52.144:138     *:*                                    4
+ Can not obtain ownership information
+  UDP    192.168.52.144:1900    *:*                                    5140
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.52.144:53141   *:*                                    5140
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:123               *:*                                    1328
+  W32Time
+ [svchost.exe]
+  UDP    [::]:3389              *:*                                    1236
+  TermService
+ [svchost.exe]
+  UDP    [::]:5353              *:*                                    1452
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5355              *:*                                    1452
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:51148             *:*                                    1452
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:55423             *:*                                    1452
+  Dnscache
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                                    5140
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:53140            *:*                                    5140
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::2459:90d8:3266:6fe6%4]:1900  *:*                                    5140
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::2459:90d8:3266:6fe6%4]:53139  *:*                                    5140
+  SSDPSRV
+ [svchost.exe]

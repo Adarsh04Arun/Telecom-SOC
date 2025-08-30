@@ -1,0 +1,51 @@
+
+Host Name:                     AVIRUP-1
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Member Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Sapadmin
+Registered Organization:       N/A
+Product ID:                    00330-80000-00000-AA702
+Original Install Date:         25-10-2024, 17:23:47
+System Boot Time:              07-08-2025, 14:56:26
+System Manufacturer:           VMware, Inc.
+System Model:                  VMware20,1
+System Type:                   x64-based PC
+Processor(s):                  2 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~2419 Mhz
+                               [02]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~2419 Mhz
+BIOS Version:                  VMware, Inc. VMW201.00V.24006586.B64.2406042154, 04-06-2024
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-gb;English (United Kingdom)
+Input Locale:                  00004009
+Time Zone:                     (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:         3,071 MB
+Available Physical Memory:     407 MB
+Virtual Memory: Max Size:      5,119 MB
+Virtual Memory: Available:     1,524 MB
+Virtual Memory: In Use:        3,595 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        offense-AD.com
+Logon Server:                  N/A
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5056579
+                               [02]: KB5046683
+                               [03]: KB5062553
+                               [04]: KB5063666
+Network Card(s):               1 NIC(s) Installed.
+                               [01]: Intel(R) 82574L Gigabit Network Connection
+                                     Connection Name: Ethernet0
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.52.254
+                                     IP address(es)
+                                     [01]: 192.168.52.144
+                                     [02]: fe80::2459:90d8:3266:6fe6
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.

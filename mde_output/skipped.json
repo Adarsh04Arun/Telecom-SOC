@@ -1,0 +1,1410 @@
+[
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\etl_omnivore.py",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\account_discovery_advanced.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\apc_injection.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\attack_fingerprint.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\c2_exfil_1884008292.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\c2_exfil_1957332214.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\c2_exfil_262278765.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\cloud_exfil_AWS S3.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\cloud_exfil_Dropbox.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\cloud_exfil_GoogleDrive.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\cloud_exfil_OneDrive.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\credential_dump_attempt.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\decoded_payload.ps1",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\encrypted_channel.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\exfil_data.cab",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\exfil_data.rar",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\exfil_data.zip::staged_data_8bdd81b5/api_keys.json",
+    "reason": "zip json read failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\exfil_data.zip::staged_data_8bdd81b5/collection_manifest.json",
+    "reason": "zip json read failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\exfil_data.zip::staged_data_8bdd81b5/database.sql",
+    "reason": "zip entry type not supported"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\exfil_data.zip::staged_data_8bdd81b5/private_key.pem",
+    "reason": "zip entry type not supported"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\injection_T1055.001.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\injection_T1055.002.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\injection_T1055.003.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\injection_T1055.012.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\log_clear_Application.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\log_clear_Microsoft-Windows-PowerShell_Operational.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\log_clear_Security.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\log_clear_System.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\lolbas_certutil.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\lolbas_mshta.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\lolbas_regsvr32.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\lolbas_rundll32.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\MDE_Alert_Report.html",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\MDE_Correlation_8bdd81b5-86e8-4dd4-9613-9dfe427be5e7.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\network_configuration.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\ntds_access_attempt.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\obfuscation_1379809597.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\obfuscation_1433171128.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\obfuscation_489249268.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\obfuscation_813663311.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\privileged_groups.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\ps_execution_EncodedCommand.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\ps_execution_InvokeExpression.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\ps_execution_ScriptBlock.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\rdp_configuration.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\recovery_inhibit_154471479.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\recovery_inhibit_1888694303.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\recovery_inhibit_1922755157.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\recovery_inhibit_608174682.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\registry_HKCU__Software_Microsoft_Windows_CurrentVersion_Internet Settings.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\registry_HKLM__SOFTWARE_Microsoft_Windows NT_CurrentVersion_Winlogon.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\registry_HKLM__SOFTWARE_Microsoft_Windows_CurrentVersion_Policies_System.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\registry_HKLM__SYSTEM_CurrentControlSet_Control_Lsa.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\registry_HKLM__SYSTEM_CurrentControlSet_Services_W32Time_Parameters.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\secure_delete_cipher.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\secure_delete_format.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\secure_delete_sdelete.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\security_enum_MsMpEng.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\security_enum_SecurityHealthService.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\service_discovery.json",
+    "reason": "JSON parse failed: Expecting value: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\smb_test_1271485568.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\smb_test_1640826034.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\smb_test_2049667159.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\test_file.crypto",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\test_file.enc",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\test_file.encrypted",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\test_file.locked",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\test_file.WNCRY",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\winrm_configuration.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\wmi_persistence_advanced.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\wmi_query_49583989.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\wmi_query_539614389.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\wmi_query_827981587.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\xor_encrypted.dat",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\staged_data_8bdd81b5\\api_keys.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\staged_data_8bdd81b5\\collection_manifest.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\staged_data_8bdd81b5\\collection_script.ps1",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\staged_data_8bdd81b5\\database.sql",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\AttackArtifacts\\staged_data_8bdd81b5\\private_key.pem",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\MDE_Report\\mde_report.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\AM_BASE_PATCH1.EXE-B2ACC39D.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\AM_DELTA.EXE-78CA83B0.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\AM_DELTA_PATCH_1.433.278.0.EX-31960A44.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\AM_DELTA_PATCH_1.433.291.0.EX-57E2C4AB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\AM_DELTA_PATCH_1.433.294.0.EX-DAE1724A.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\AM_DELTA_PATCH_1.435.11.0.EXE-DDCEC22B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\AM_DELTA_PATCH_1.435.25.0.EXE-B871D16C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\APPINSTALLERPYTHONREDIRECTOR.-2B94A5E9.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\APPLICATIONFRAMEHOST.EXE-8CE9A1EE.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ARP.EXE-ED14DF84.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ATBROKER.EXE-5CD29207.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ATTRIB.EXE-8E9FC84B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\AUDIODG.EXE-AB22E9A6.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\AUDITPOL.EXE-2D4A3037.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\BACKGROUNDTASKHOST.EXE-19F0C51F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\BACKGROUNDTASKHOST.EXE-7918999C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\BACKGROUNDTASKHOST.EXE-CAD1DF16.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\BACKGROUNDTRANSFERHOST.EXE-0F9D3546.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\BACKGROUNDTRANSFERHOST.EXE-CA63ADDB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\BACKGROUNDTRANSFERHOST.EXE-E7B7D877.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\BDEUISRV.EXE-7BC33651.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\CMD.EXE-0BD30981.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\COMPATTELRUNNER.EXE-B7A68ECC.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\CONHOST.EXE-0C6456FB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\CONSENT.EXE-40419367.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\CREDENTIALUIBROKER.EXE-8CEDA3EB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\CROSSDEVICESERVICE.EXE-507B577E.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\CSC.EXE-B6D5E435.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\CSRSS.EXE-F3C368CB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\CTFMON.EXE-795F8130.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\CVTRES.EXE-BBD3ED93.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DATAEXCHANGEHOST.EXE-8B66795C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DEFRAG.EXE-3D9E8D72.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-1281DAD7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-3F9B2B1D.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-6F625E57.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-742E0212.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-7A93D5D3.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-7D5CE0CA.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-C4E575FD.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-D200FEC3.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-D778F42C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-ECDCED3C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DLLHOST.EXE-F7FC6593.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DRIVERQUERY.EXE-7993C987.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\DWM.EXE-314E93C5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\dynrespri.7db",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ELEVATION_SERVICE.EXE-0D850C0E.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\EVENTVWR.EXE-1632B85A.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FILECOAUTH.EXE-14803EB5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FILECOAUTH.EXE-6813B4B9.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FILECOAUTH.EXE-D35448FD.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FILECOAUTH.EXE-D4ABAF8A.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FILESYNCCONFIG.EXE-A9CC9D58.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FIND.EXE-AE190082.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FINDSTR.EXE-1BC2295F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FLTMC.EXE-0772512B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FONTDRVHOST.EXE-8152304A.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\FSUTIL.EXE-0B55CC80.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\GAMEBAR.EXE-00628218.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\GPUPDATE.EXE-7EBA4B6F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\HOSTNAME.EXE-03A2F198.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\IDENTITY_HELPER.EXE-94EA961F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\IE4UINIT.EXE-693AF9DC.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\IPCONFIG.EXE-BFEC2AD0.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\Layout.ini",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\LOGONUI.EXE-F639BD7E.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MAKECAB.EXE-FC3CBE21.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MICROSOFT.SHAREPOINT.EXE-AA0A092D.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MICROSOFT.SHAREPOINT.EXE-AE447DC6.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MICROSOFTEDGEUPDATE.EXE-7A595326.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MMC.EXE-CE6E671F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MOBSYNC.EXE-B307E1CC.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MONOTIFICATIONUX.EXE-62024999.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MOUSOCOREWORKER.EXE-44A01CE7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MPCMDRUN.EXE-2C9109F9.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MPCMDRUN.EXE-5E336BEA.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MPSIGSTUB.EXE-5D0450B3.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSCORSVW.EXE-16B291C4.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSCORSVW.EXE-8CE1A322.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGE.EXE-37D25F9A.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGE.EXE-37D25F9B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGE.EXE-37D25F9C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGE.EXE-37D25F9E.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGE.EXE-37D25FA4.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGE.EXE-37D25FA5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGE.EXE-37D25FA7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGE.EXE-37D25FA8.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGE.EXE-37D25FAA.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-26155FC1.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-308778EA.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-308778EB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-308778EC.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-308778EE.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-308778F5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-308778F7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-5C5126D3.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-5C5126D4.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-5C5126D5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-5C5126D7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-5C5126DD.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-5C5126DE.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-5C5126E0.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-5C5126E1.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-5C5126E3.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-87B4E355.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-87B4E356.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-87B4E357.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-87B4E359.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-87B4E35F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-87B4E360.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-87B4E362.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-87B4E363.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-87B4E365.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSEDGEWEBVIEW2.EXE-FAB1A33F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSIEXEC.EXE-8FFB1633.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSIEXEC.EXE-CDBFC0F7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSMPENG.EXE-FD53C38F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\MSTSC.EXE-2A83B7D7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NBTSTAT.EXE-716BD835.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NET.EXE-A0964F30.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NET1.EXE-509326A5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NETSH.EXE-A596235F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NETSTAT.EXE-47804A0C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NGEN.EXE-4A8DA13E.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NGEN.EXE-734C6620.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NGENTASK.EXE-0E6CEC17.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NGENTASK.EXE-849BFD75.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NISSRV.EXE-3F8EBD25.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NOTEPAD.EXE-AC5DAD5F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\NSLOOKUP.EXE-6BC3CE14.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\OLK.EXE-F8A9FE47.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ONEDRIVE.EXE-22149544.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ONEDRIVE.EXE-4E39EC13.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ONEDRIVE.EXE-5577B1EF.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ONEDRIVE.EXE-8F1F63D0.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ONEDRIVESETUP.EXE-2F4C4906.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ONEDRIVESETUP.EXE-86A71997.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ONEDRIVESETUP.EXE-C2A2E60C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\OPENCONSOLE.EXE-B9E94980.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\OPENCONSOLE.EXE-DDA41F0C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\OPENHANDLECOLLECTOR.EXE-68476ADF.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\OPENHANDLECOLLECTOR.EXE-96D97172.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\OPENWITH.EXE-8B50D58B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\PHONEEXPERIENCEHOST.EXE-1B6FACDB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\PING.EXE-4A8A6853.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\POWERSHELL.EXE-CA1AE517.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\POWERSHELL_ISE.EXE-C4180667.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\PSEXEC64.EXE-C78450C5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\PSEXEC64.EXE-D91733D0.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\PYTHON-3.13.6-AMD64.EXE-54A5771B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\PYTHON-3.13.6-AMD64.EXE-A2453C4B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\PYTHON-3.13.6-AMD64.EXE-B9BCF73B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\PYTHON.EXE-DD01751D.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\QUERY.EXE-EA64B25B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\QUSER.EXE-4A36AD85.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RDPCLIP.EXE-7D8DB38B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\REG.EXE-A93A1343.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ROBOCOPY.EXE-5A937106.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\ROUTE.EXE-121C5018.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNDLL32.EXE-6F26928C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNDLL32.EXE-75313621.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNDLL32.EXE-C0159C27.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-26B71132.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-2C5A250C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-332BE1AA.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-42D5C9A2.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-4551A062.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-73F12BE9.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-7B790B15.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-7EDA1E8B.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-82C7F785.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-95675827.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-B2BB82C3.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-C072A780.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-CF59E802.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-D7A652E5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-DAA0DF92.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\RUNTIMEBROKER.EXE-FBAA895A.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SC.EXE-6C4D4413.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SCHTASKS.EXE-8B6144A9.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SDBINST.EXE-49E8B208.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SDIAGNHOST.EXE-B3171AA1.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SEARCHFILTERHOST.EXE-44162447.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SEARCHHOST.EXE-19142404.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SEARCHINDEXER.EXE-1CF42BC6.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SEARCHPROTOCOLHOST.EXE-69C456C3.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SECHEALTHUI.EXE-21C78B64.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SECURITYHEALTHHOST.EXE-76C4EEFD.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SECURITYHEALTHSERVICE.EXE-91B5FB98.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SECURITYHEALTHSYSTRAY.EXE-E527A4AE.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SENSEIMDSCOLLECTOR.EXE-3DF66D6E.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SENSEIR.EXE-62C13871.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SENSENDR.EXE-1ED52916.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SENSESAMPLEUPLOADER.EXE-2DB15540.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SESSIONMSG.EXE-DACE45E4.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SETUP.EXE-835B980A.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SETUP.EXE-835B980E.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SHELLEXPERIENCEHOST.EXE-D1F7FC12.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SIHCLIENT.EXE-98C47F6C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SIHOST.EXE-115B507F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SLUI.EXE-3E441AEE.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SMARTSCREEN.EXE-EACC1250.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SMSS.EXE-B5B810DB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SPPEXTCOMOBJ.EXE-7D45A1AB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SPPSVC.EXE-96070FE0.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\STARTMENUEXPERIENCEHOST.EXE-EF4F4491.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-002213CE.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-0506DF60.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-117C4441.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-1B48E245.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-2FFEC382.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-366169FB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-38FE68E5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-3CF81F86.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-407DF59E.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-4B98D760.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-5F739FCE.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-6867B1E5.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-6A4A44E7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-78F3B282.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-7AAD9645.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-A2811D73.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-A4B742B7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-AAD33B2E.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-C38EF8DD.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-EA9BB143.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-EBBF67E6.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-ED843F3F.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SVCHOST.EXE-F6EF00D7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SYSTEMINFO.EXE-3EAAF1C2.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SYSTEMSETTINGS.EXE-AD6D6913.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\SYSTEMSETTINGSADMINFLOWS.EXE-F74198E7.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\TABTIP.EXE-9740CA06.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\TASKHOSTW.EXE-2E5D4B75.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\TASKMGR.EXE-4C8500BA.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\TEXTINPUTHOST.EXE-0F8FD076.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\TIWORKER.EXE-BDC45818.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\TRUSTEDINSTALLER.EXE-766EFF52.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\TSTHEME.EXE-01D23267.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\UNREGMP2.EXE-51519EBD.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\UPFC.EXE-89D4FAEB.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\USEROOBEBROKER.EXE-65584ADF.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\VERCLSID.EXE-AB0FD091.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\VMTOOLSD.EXE-90328040.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\VMWARERESOLUTIONSET.EXE-38A925F2.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\VSSVC.EXE-6C8F0C66.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WAASMEDICAGENT.EXE-21F161ED.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WERFAULTSECURE.EXE-6DAF3622.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WEVTUTIL.EXE-1E154F39.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WHOAMI.EXE-9D378AFE.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WIDGETS.EXE-996A7D2A.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WIDGETSERVICE.EXE-03CC7297.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WIDGETSERVICE.EXE-70CEBDED.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WINDOWSPACKAGEMANAGERSERVER.E-1DDBF1BD.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WINDOWSTERMINAL.EXE-0D837036.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WINDOWSTERMINAL.EXE-E7CB116A.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WINLOGON.EXE-DEDDC9B6.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WLRMDR.EXE-A7C36FDD.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WMIADAP.EXE-BB21CD77.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WMIAPSRV.EXE-FC8436DD.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WMIPRVSE.EXE-E8B8DD29.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WUAUCLTCORE.EXE-07BDE0CF.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\WUDFHOST.EXE-DEBBE5F1.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Prefetch Files\\Prefetch\\XCOPY.EXE-F5C59A8C.pf",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Processes\\high_handle_processes.csv",
+    "reason": "dispatch error: No columns to parse from file"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Registry\\HKCU_Run.reg",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Registry\\HKLM_Run.reg",
+    "reason": "unknown extension / unsupported file type"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\Services\\Services.csv",
+    "reason": "CSV parse failed: Error tokenizing data. C error: Expected 27 fields in line 15, saw 29\n"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\System Information\\computer_details.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\SystemInfo\\computer_details.json",
+    "reason": "JSON parse failed: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "C:\\coding\\jupyter personal\\HackVerse\\MDE_Investigation_Package (extract.me)\\MDE_Investigation_Package\\MDE_Investigation_Package\\WdSupportLogs\\MPSupportFiles.cab",
+    "reason": "unknown extension / unsupported file type"
+  }
+]

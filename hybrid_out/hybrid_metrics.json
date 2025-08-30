@@ -1,0 +1,19 @@
+{
+  "alpha": 0.7,
+  "threshold": 0.5,
+  "proba_column": "model_proba",
+  "row_count": 50000,
+  "metrics": {
+    "roc_auc": 0.721454389056924,
+    "pr_auc": 0.38901023150188374,
+    "precision": 0.17751745888713674,
+    "recall": 0.17751745888713674,
+    "f1": 0.17751745888713674,
+    "confusion_matrix": {
+      "tn": 33820,
+      "fp": 7302,
+      "fn": 7302,
+      "tp": 1576
+    }
+  }
+}

@@ -1,0 +1,21 @@
+timestamp_utc,host,user,stage_final,tactic_final,technique_final,evidence_final,source_final,protocol,dst_ip,hybrid_score
+2025-08-29T09:57:00Z,DB-SRV01,nt authority\system,Lateral Movement,TA0008,T1021 Remote Services,Interactive RDP session suspected,playbooks.md,RDP,198.51.100.22,0.573
+2025-08-29T09:52:00Z,WIN-HOST02,svc_telemetry,Discovery,TA0007,T1046 Network Service Scanning,Suspicious network activity,mitre_notes.md,HTTP,203.0.113.77,0.971
+2025-08-29T09:47:00Z,EDGE-GW01,svc_telemetry,Initial Access,TA0001,T1078 Valid Accounts,Ingress SSH / credential use,playbooks.md,SSH,192.0.2.55,0.891
+2025-08-29T09:42:00Z,DB-SRV01,bob,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SIP egress,mitre_notes.md,SIP,192.0.2.55,0.586
+2025-08-29T09:37:00Z,DB-SRV01,alice,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SIP egress,mitre_notes.md,SIP,198.51.100.22,0.61
+2025-08-29T09:32:00Z,DB-SRV01,svc_telemetry,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SIP egress,mitre_notes.md,SIP,203.0.113.10,0.645
+2025-08-29T09:27:00Z,WIN-HOST01,nt authority\system,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SMTP egress,mitre_notes.md,SMTP,203.0.113.10,0.951
+2025-08-29T09:22:00Z,EDGE-GW01,svc_telemetry,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SIP egress,mitre_notes.md,SIP,203.0.113.10,0.654
+2025-08-29T09:17:00Z,WIN-HOST02,svc_backup,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SMTP egress,mitre_notes.md,SMTP,203.0.113.77,0.639
+2025-08-29T09:12:00Z,WIN-HOST01,alice,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SIP egress,mitre_notes.md,SIP,203.0.113.77,0.939
+2025-08-29T09:07:00Z,EDGE-GW01,svc_backup,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SIP egress,mitre_notes.md,SIP,192.0.2.55,0.964
+2025-08-29T09:02:00Z,WIN-HOST02,svc_backup,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SIP egress,mitre_notes.md,SIP,203.0.113.77,0.966
+2025-08-29T08:57:00Z,WIN-HOST02,bob,Lateral Movement,TA0008,T1021 Remote Services,Interactive RDP session suspected,playbooks.md,RDP,192.0.2.55,0.752
+2025-08-29T08:52:00Z,WIN-HOST02,alice,Discovery,TA0007,T1046 Network Service Scanning,Suspicious network activity,mitre_notes.md,HTTP,203.0.113.10,0.908
+2025-08-29T08:47:00Z,WIN-HOST02,alice,Initial Access,TA0001,T1078 Valid Accounts,Ingress SSH / credential use,playbooks.md,SSH,198.51.100.22,0.909
+2025-08-29T08:42:00Z,LINUX-SRV01,alice,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SMTP egress,mitre_notes.md,SMTP,192.0.2.55,0.613
+2025-08-29T08:37:00Z,WIN-HOST02,alice,Discovery,TA0007,T1046 Network Service Scanning,Suspicious network activity,mitre_notes.md,HTTP,203.0.113.10,0.966
+2025-08-29T08:32:00Z,DB-SRV01,svc_telemetry,Discovery,TA0007,T1046 Network Service Scanning,Suspicious network activity,mitre_notes.md,HTTP,192.0.2.55,0.766
+2025-08-29T08:27:00Z,DB-SRV01,alice,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SIP egress,mitre_notes.md,SIP,198.51.100.22,0.833
+2025-08-29T08:22:00Z,EDGE-GW01,svc_telemetry,Command and Control,TA0011,T1071 Application Layer Protocol,High-sev SMTP egress,mitre_notes.md,SMTP,203.0.113.10,0.97

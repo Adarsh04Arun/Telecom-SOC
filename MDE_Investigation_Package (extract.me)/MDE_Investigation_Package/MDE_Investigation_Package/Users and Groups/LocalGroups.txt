@@ -1,0 +1,225 @@
+
+C:\Windows\System32>net localgroup "Access Control Assistance Operators" 
+Alias name     Access Control Assistance Operators
+Comment        Members of this group can remotely query authorization attributes and permissions for resources on this computer.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Administrators" 
+Alias name     Administrators
+Comment        Administrators have complete and unrestricted access to the computer/domain
+
+Members
+
+-------------------------------------------------------------------------------
+Admin
+Administrator
+OFFENSE-AD0\Domain Admins
+OFFENSE-AD0\Suraj
+Sapadmin
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Backup Operators" 
+Alias name     Backup Operators
+Comment        Backup Operators can override security restrictions for the sole purpose of backing up or restoring files
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Cryptographic Operators" 
+Alias name     Cryptographic Operators
+Comment        Members are authorized to perform cryptographic operations.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Device Owners" 
+Alias name     Device Owners
+Comment        Members of this group can change system-wide settings.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Distributed COM Users" 
+Alias name     Distributed COM Users
+Comment        Members are allowed to launch, activate and use Distributed COM objects on this machine.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Event Log Readers" 
+Alias name     Event Log Readers
+Comment        Members of this group can read event logs from local machine
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Guests" 
+Alias name     Guests
+Comment        Guests have the same access as members of the Users group by default, except for the Guest account which is further restricted
+
+Members
+
+-------------------------------------------------------------------------------
+Guest
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Hyper-V Administrators" 
+Alias name     Hyper-V Administrators
+Comment        Members of this group have complete and unrestricted access to all features of Hyper-V.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "IIS_IUSRS" 
+Alias name     IIS_IUSRS
+Comment        Built-in group used by Internet Information Services.
+
+Members
+
+-------------------------------------------------------------------------------
+NT AUTHORITY\IUSR
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Network Configuration Operators" 
+Alias name     Network Configuration Operators
+Comment        Members in this group can have some administrative privileges to manage configuration of networking features
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "OpenSSH Users" 
+Alias name     OpenSSH Users
+Comment        Members of this group may connect to this computer using SSH.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Performance Log Users" 
+Alias name     Performance Log Users
+Comment        Members of this group may schedule logging of performance counters, enable trace providers, and collect event traces both locally and via remote access to this computer
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Performance Monitor Users" 
+Alias name     Performance Monitor Users
+Comment        Members of this group can access performance counter data locally and remotely
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Power Users" 
+Alias name     Power Users
+Comment        Power Users are included for backwards compatibility and possess limited administrative powers
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Remote Desktop Users" 
+Alias name     Remote Desktop Users
+Comment        Members in this group are granted the right to logon remotely
+
+Members
+
+-------------------------------------------------------------------------------
+OFFENSE-AD0\Arun
+OFFENSE-AD0\Ravi
+OFFENSE-AD0\Suraj
+OFFENSE-AD0\Vikas
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Remote Management Users" 
+Alias name     Remote Management Users
+Comment        Members of this group can access WMI resources over management protocols (such as WS-Management via the Windows Remote Management service). This applies only to WMI namespaces that grant access to the user.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Replicator" 
+Alias name     Replicator
+Comment        Supports file replication in a domain
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "System Managed Accounts Group" 
+Alias name     System Managed Accounts Group
+Comment        Members of this group are managed by the system.
+
+Members
+
+-------------------------------------------------------------------------------
+DefaultAccount
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "User Mode Hardware Operators" 
+Alias name     User Mode Hardware Operators
+Comment        Members of this group may operate hardware from user mode.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\Windows\System32>net localgroup "Users" 
+Alias name     Users
+Comment        Users are prevented from making accidental or intentional system-wide changes and can run most applications
+
+Members
+
+-------------------------------------------------------------------------------
+NT AUTHORITY\Authenticated Users
+NT AUTHORITY\INTERACTIVE
+OFFENSE-AD0\Domain Users
+The command completed successfully.
+

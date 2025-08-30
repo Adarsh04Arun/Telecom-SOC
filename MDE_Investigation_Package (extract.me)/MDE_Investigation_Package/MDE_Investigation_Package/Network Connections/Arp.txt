@@ -1,0 +1,10 @@
+
+Interface: 192.168.52.144 --- 0x4
+  Internet Address      Physical Address      Type
+  192.168.52.2          00-50-56-fe-d6-6b     dynamic   
+  192.168.52.143        00-0c-29-d7-da-1d     dynamic   
+  192.168.52.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    

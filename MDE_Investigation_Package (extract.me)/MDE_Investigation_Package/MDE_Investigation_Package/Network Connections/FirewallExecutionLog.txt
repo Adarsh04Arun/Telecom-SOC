@@ -1,0 +1,5 @@
+
+C:\Windows\System32>cmd /C xcopy /F /Y /Q "%systemroot%\system32\LogFiles\Firewall\pfirewall.log" "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\7c0ac2a0-be8c-4a7e-ab0e-f82a78c044d6\..\"   & cmd /C move "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\7c0ac2a0-be8c-4a7e-ab0e-f82a78c044d6\..\pfirewall.log" "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\7c0ac2a0-be8c-4a7e-ab0e-f82a78c044d6\Network Connections\pfirewall.log" 
+File not found - pfirewall.log
+0 File(s) copied
+The system cannot find the file specified.

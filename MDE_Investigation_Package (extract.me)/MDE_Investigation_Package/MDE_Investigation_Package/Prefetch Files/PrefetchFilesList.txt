@@ -1,0 +1,561 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 07 August 2025 18:32:51
+   Source : C:\WINDOWS\Prefetch\
+     Dest : C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\7c0ac2a0-be8c-4a7e-ab0e-f82a78c044d6\Verbose\Prefetch Files\Prefetch\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /MAXAGE:20250731 /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	  New Dir        307	C:\WINDOWS\Prefetch\
+	    New File  		    2379	AM_BASE_PATCH1.EXE-B2ACC39D.pf
+100%  
+	    New File  		    2443	AM_DELTA.EXE-78CA83B0.pf
+100%  
+	    New File  		    2265	AM_DELTA_PATCH_1.433.278.0.EX-31960A44.pf
+100%  
+	    New File  		    2265	AM_DELTA_PATCH_1.433.291.0.EX-57E2C4AB.pf
+100%  
+	    New File  		    2267	AM_DELTA_PATCH_1.433.294.0.EX-DAE1724A.pf
+100%  
+	    New File  		    2269	AM_DELTA_PATCH_1.435.11.0.EXE-DDCEC22B.pf
+100%  
+	    New File  		    2275	AM_DELTA_PATCH_1.435.25.0.EXE-B871D16C.pf
+100%  
+	    New File  		   10592	APPINSTALLERPYTHONREDIRECTOR.-2B94A5E9.pf
+100%  
+	    New File  		   22541	APPLICATIONFRAMEHOST.EXE-8CE9A1EE.pf
+100%  
+	    New File  		    3317	ARP.EXE-ED14DF84.pf
+100%  
+	    New File  		    3766	ATBROKER.EXE-5CD29207.pf
+100%  
+	    New File  		    1687	ATTRIB.EXE-8E9FC84B.pf
+100%  
+	    New File  		    8463	AUDIODG.EXE-AB22E9A6.pf
+100%  
+	    New File  		    2545	AUDITPOL.EXE-2D4A3037.pf
+100%  
+	    New File  		   10130	BACKGROUNDTASKHOST.EXE-19F0C51F.pf
+100%  
+	    New File  		   28918	BACKGROUNDTASKHOST.EXE-7918999C.pf
+100%  
+	    New File  		   14299	BACKGROUNDTASKHOST.EXE-CAD1DF16.pf
+100%  
+	    New File  		   19401	BACKGROUNDTRANSFERHOST.EXE-0F9D3546.pf
+100%  
+	    New File  		   15541	BACKGROUNDTRANSFERHOST.EXE-CA63ADDB.pf
+100%  
+	    New File  		    9813	BACKGROUNDTRANSFERHOST.EXE-E7B7D877.pf
+100%  
+	    New File  		    4661	BDEUISRV.EXE-7BC33651.pf
+100%  
+	    New File  		    2748	CMD.EXE-0BD30981.pf
+100%  
+	    New File  		   44073	COMPATTELRUNNER.EXE-B7A68ECC.pf
+100%  
+	    New File  		    7620	CONHOST.EXE-0C6456FB.pf
+100%  
+	    New File  		   36949	CONSENT.EXE-40419367.pf
+100%  
+	    New File  		   41118	CREDENTIALUIBROKER.EXE-8CEDA3EB.pf
+100%  
+	    New File  		   40351	CROSSDEVICESERVICE.EXE-507B577E.pf
+100%  
+	    New File  		   10803	CSC.EXE-B6D5E435.pf
+100%  
+	    New File  		    5849	CSRSS.EXE-F3C368CB.pf
+100%  
+	    New File  		   11644	CTFMON.EXE-795F8130.pf
+100%  
+	    New File  		    3652	CVTRES.EXE-BBD3ED93.pf
+100%  
+	    New File  		   10607	DATAEXCHANGEHOST.EXE-8B66795C.pf
+100%  
+	    New File  		    4236	DEFRAG.EXE-3D9E8D72.pf
+100%  
+	    New File  		   10511	DLLHOST.EXE-1281DAD7.pf
+100%  
+	    New File  		    9548	DLLHOST.EXE-3F9B2B1D.pf
+100%  
+	    New File  		    4543	DLLHOST.EXE-6F625E57.pf
+100%  
+	    New File  		   20918	DLLHOST.EXE-742E0212.pf
+100%  
+	    New File  		   11428	DLLHOST.EXE-7A93D5D3.pf
+100%  
+	    New File  		    4245	DLLHOST.EXE-7D5CE0CA.pf
+100%  
+	    New File  		    7076	DLLHOST.EXE-C4E575FD.pf
+100%  
+	    New File  		    4440	DLLHOST.EXE-D200FEC3.pf
+100%  
+	    New File  		   11269	DLLHOST.EXE-D778F42C.pf
+100%  
+	    New File  		    4839	DLLHOST.EXE-ECDCED3C.pf
+100%  
+	    New File  		    5238	DLLHOST.EXE-F7FC6593.pf
+100%  
+	    New File  		   19691	DRIVERQUERY.EXE-7993C987.pf
+100%  
+	    New File  		   19404	DWM.EXE-314E93C5.pf
+100%  
+	    New File  		  186952	dynrespri.7db
+100%  
+	    New File  		    6281	ELEVATION_SERVICE.EXE-0D850C0E.pf
+100%  
+	    New File  		    3786	EVENTVWR.EXE-1632B85A.pf
+100%  
+	    New File  		   14148	FILECOAUTH.EXE-14803EB5.pf
+100%  
+	    New File  		   12413	FILECOAUTH.EXE-6813B4B9.pf
+100%  
+	    New File  		   12048	FILECOAUTH.EXE-D35448FD.pf
+100%  
+	    New File  		   13296	FILECOAUTH.EXE-D4ABAF8A.pf
+100%  
+	    New File  		    9153	FILESYNCCONFIG.EXE-A9CC9D58.pf
+100%  
+	    New File  		    1902	FIND.EXE-AE190082.pf
+100%  
+	    New File  		    2623	FINDSTR.EXE-1BC2295F.pf
+100%  
+	    New File  		    2012	FLTMC.EXE-0772512B.pf
+100%  
+	    New File  		    2626	FONTDRVHOST.EXE-8152304A.pf
+100%  
+	    New File  		    3189	FSUTIL.EXE-0B55CC80.pf
+100%  
+	    New File  		   33403	GAMEBAR.EXE-00628218.pf
+100%  
+	    New File  		    3028	GPUPDATE.EXE-7EBA4B6F.pf
+100%  
+	    New File  		    3135	HOSTNAME.EXE-03A2F198.pf
+100%  
+	    New File  		   22885	IDENTITY_HELPER.EXE-94EA961F.pf
+100%  
+	    New File  		   19465	IE4UINIT.EXE-693AF9DC.pf
+100%  
+	    New File  		    3765	IPCONFIG.EXE-BFEC2AD0.pf
+100%  
+	    New File  		    7752	Layout.ini
+100%  
+	    New File  		   40666	LOGONUI.EXE-F639BD7E.pf
+100%  
+	    New File  		   49612	MAKECAB.EXE-FC3CBE21.pf
+100%  
+	    New File  		   24824	MICROSOFT.SHAREPOINT.EXE-AA0A092D.pf
+100%  
+	    New File  		   25297	MICROSOFT.SHAREPOINT.EXE-AE447DC6.pf
+100%  
+	    New File  		    8238	MICROSOFTEDGEUPDATE.EXE-7A595326.pf
+100%  
+	    New File  		   36481	MMC.EXE-CE6E671F.pf
+100%  
+	    New File  		    8419	MOBSYNC.EXE-B307E1CC.pf
+100%  
+	    New File  		    8918	MONOTIFICATIONUX.EXE-62024999.pf
+100%  
+	    New File  		   26896	MOUSOCOREWORKER.EXE-44A01CE7.pf
+100%  
+	    New File  		    4875	MPCMDRUN.EXE-2C9109F9.pf
+100%  
+	    New File  		   18170	MPCMDRUN.EXE-5E336BEA.pf
+100%  
+	    New File  		  205888	MPSIGSTUB.EXE-5D0450B3.pf
+100%  
+	    New File  		    9847	MSCORSVW.EXE-16B291C4.pf
+100%  
+	    New File  		   10070	MSCORSVW.EXE-8CE1A322.pf
+100%  
+	    New File  		  172595	MSEDGE.EXE-37D25F9A.pf
+100%  
+	    New File  		   77461	MSEDGE.EXE-37D25F9B.pf
+100%  
+	    New File  		   47502	MSEDGE.EXE-37D25F9C.pf
+100%  
+	    New File  		    5627	MSEDGE.EXE-37D25F9E.pf
+100%  
+	    New File  		   21325	MSEDGE.EXE-37D25FA4.pf
+100%  
+	    New File  		   67975	MSEDGE.EXE-37D25FA5.pf
+100%  
+	    New File  		   30501	MSEDGE.EXE-37D25FA7.pf
+100%  
+	    New File  		   11110	MSEDGE.EXE-37D25FA8.pf
+100%  
+	    New File  		  141112	MSEDGE.EXE-37D25FAA.pf
+100%  
+	    New File  		   13458	MSEDGEWEBVIEW2.EXE-26155FC1.pf
+100%  
+	    New File  		   57464	MSEDGEWEBVIEW2.EXE-308778EA.pf
+100%  
+	    New File  		   17579	MSEDGEWEBVIEW2.EXE-308778EB.pf
+100%  
+	    New File  		   16660	MSEDGEWEBVIEW2.EXE-308778EC.pf
+100%  
+	    New File  		    4523	MSEDGEWEBVIEW2.EXE-308778EE.pf
+100%  
+	    New File  		   21117	MSEDGEWEBVIEW2.EXE-308778F5.pf
+100%  
+	    New File  		    9200	MSEDGEWEBVIEW2.EXE-308778F7.pf
+100%  
+	    New File  		   46607	MSEDGEWEBVIEW2.EXE-5C5126D3.pf
+100%  
+	    New File  		   58816	MSEDGEWEBVIEW2.EXE-5C5126D4.pf
+100%  
+	    New File  		   24661	MSEDGEWEBVIEW2.EXE-5C5126D5.pf
+100%  
+	    New File  		    5048	MSEDGEWEBVIEW2.EXE-5C5126D7.pf
+100%  
+	    New File  		   18991	MSEDGEWEBVIEW2.EXE-5C5126DD.pf
+100%  
+	    New File  		   38216	MSEDGEWEBVIEW2.EXE-5C5126DE.pf
+100%  
+	    New File  		   17404	MSEDGEWEBVIEW2.EXE-5C5126E0.pf
+100%  
+	    New File  		   16499	MSEDGEWEBVIEW2.EXE-5C5126E1.pf
+100%  
+	    New File  		   47874	MSEDGEWEBVIEW2.EXE-5C5126E3.pf
+100%  
+	    New File  		   51425	MSEDGEWEBVIEW2.EXE-87B4E355.pf
+100%  
+	    New File  		   66070	MSEDGEWEBVIEW2.EXE-87B4E356.pf
+100%  
+	    New File  		   23644	MSEDGEWEBVIEW2.EXE-87B4E357.pf
+100%  
+	    New File  		    5348	MSEDGEWEBVIEW2.EXE-87B4E359.pf
+100%  
+	    New File  		   18255	MSEDGEWEBVIEW2.EXE-87B4E35F.pf
+100%  
+	    New File  		   40313	MSEDGEWEBVIEW2.EXE-87B4E360.pf
+100%  
+	    New File  		   17795	MSEDGEWEBVIEW2.EXE-87B4E362.pf
+100%  
+	    New File  		   18866	MSEDGEWEBVIEW2.EXE-87B4E363.pf
+100%  
+	    New File  		   52172	MSEDGEWEBVIEW2.EXE-87B4E365.pf
+100%  
+	    New File  		   13927	MSEDGEWEBVIEW2.EXE-FAB1A33F.pf
+100%  
+	    New File  		    6359	MSIEXEC.EXE-8FFB1633.pf
+100%  
+	    New File  		    6289	MSIEXEC.EXE-CDBFC0F7.pf
+100%  
+	    New File  		    6630	MSMPENG.EXE-FD53C38F.pf
+100%  
+	    New File  		   15625	MSTSC.EXE-2A83B7D7.pf
+100%  
+	    New File  		    2867	NBTSTAT.EXE-716BD835.pf
+100%  
+	    New File  		    2609	NET.EXE-A0964F30.pf
+100%  
+	    New File  		    3155	NET1.EXE-509326A5.pf
+100%  
+	    New File  		   13332	NETSH.EXE-A596235F.pf
+100%  
+	    New File  		    3252	NETSTAT.EXE-47804A0C.pf
+100%  
+	    New File  		    7288	NGEN.EXE-4A8DA13E.pf
+100%  
+	    New File  		    5666	NGEN.EXE-734C6620.pf
+100%  
+	    New File  		   28936	NGENTASK.EXE-0E6CEC17.pf
+100%  
+	    New File  		   27239	NGENTASK.EXE-849BFD75.pf
+100%  
+	    New File  		   14502	NISSRV.EXE-3F8EBD25.pf
+100%  
+	    New File  		   49818	NOTEPAD.EXE-AC5DAD5F.pf
+100%  
+	    New File  		    3678	NSLOOKUP.EXE-6BC3CE14.pf
+100%  
+	    New File  		   37784	OLK.EXE-F8A9FE47.pf
+100%  
+	    New File  		   79008	ONEDRIVE.EXE-22149544.pf
+100%  
+	    New File  		  133418	ONEDRIVE.EXE-4E39EC13.pf
+100%  
+	    New File  		  143003	ONEDRIVE.EXE-5577B1EF.pf
+100%  
+	    New File  		  141158	ONEDRIVE.EXE-8F1F63D0.pf
+100%  
+	    New File  		   53961	ONEDRIVESETUP.EXE-2F4C4906.pf
+100%  
+	    New File  		   36812	ONEDRIVESETUP.EXE-86A71997.pf
+100%  
+	    New File  		   35375	ONEDRIVESETUP.EXE-C2A2E60C.pf
+100%  
+	    New File  		   12667	OPENCONSOLE.EXE-B9E94980.pf
+100%  
+	    New File  		   12621	OPENCONSOLE.EXE-DDA41F0C.pf
+100%  
+	    New File  		   71495	OPENHANDLECOLLECTOR.EXE-68476ADF.pf
+100%  
+	    New File  		   63244	OPENHANDLECOLLECTOR.EXE-96D97172.pf
+100%  
+	    New File  		   44036	OPENWITH.EXE-8B50D58B.pf
+100%  
+	    New File  		   61765	PHONEEXPERIENCEHOST.EXE-1B6FACDB.pf
+100%  
+	    New File  		    3558	PING.EXE-4A8A6853.pf
+100%  
+	    New File  		   70017	POWERSHELL.EXE-CA1AE517.pf
+100%  
+	    New File  		   78104	POWERSHELL_ISE.EXE-C4180667.pf
+100%  
+	    New File  		    9145	PSEXEC64.EXE-C78450C5.pf
+100%  
+	    New File  		    8626	PSEXEC64.EXE-D91733D0.pf
+100%  
+	    New File  		    9620	PYTHON-3.13.6-AMD64.EXE-54A5771B.pf
+100%  
+	    New File  		   14111	PYTHON-3.13.6-AMD64.EXE-A2453C4B.pf
+100%  
+	    New File  		    8287	PYTHON-3.13.6-AMD64.EXE-B9BCF73B.pf
+100%  
+	    New File  		   42160	PYTHON.EXE-DD01751D.pf
+100%  
+	    New File  		    2705	QUERY.EXE-EA64B25B.pf
+100%  
+	    New File  		    4033	QUSER.EXE-4A36AD85.pf
+100%  
+	    New File  		    7156	RDPCLIP.EXE-7D8DB38B.pf
+100%  
+	    New File  		    3358	REG.EXE-A93A1343.pf
+100%  
+	    New File  		   67272	ROBOCOPY.EXE-5A937106.pf
+100%  
+	    New File  		    2884	ROUTE.EXE-121C5018.pf
+100%  
+	    New File  		    5697	RUNDLL32.EXE-6F26928C.pf
+100%  
+	    New File  		    3912	RUNDLL32.EXE-75313621.pf
+100%  
+	    New File  		    3881	RUNDLL32.EXE-C0159C27.pf
+100%  
+	    New File  		   15537	RUNTIMEBROKER.EXE-26B71132.pf
+100%  
+	    New File  		    5157	RUNTIMEBROKER.EXE-2C5A250C.pf
+100%  
+	    New File  		   15918	RUNTIMEBROKER.EXE-332BE1AA.pf
+100%  
+	    New File  		   22183	RUNTIMEBROKER.EXE-42D5C9A2.pf
+100%  
+	    New File  		   14649	RUNTIMEBROKER.EXE-4551A062.pf
+100%  
+	    New File  		    4441	RUNTIMEBROKER.EXE-73F12BE9.pf
+100%  
+	    New File  		   30172	RUNTIMEBROKER.EXE-7B790B15.pf
+100%  
+	    New File  		    9122	RUNTIMEBROKER.EXE-7EDA1E8B.pf
+100%  
+	    New File  		   11576	RUNTIMEBROKER.EXE-82C7F785.pf
+100%  
+	    New File  		   16312	RUNTIMEBROKER.EXE-95675827.pf
+100%  
+	    New File  		   20326	RUNTIMEBROKER.EXE-B2BB82C3.pf
+100%  
+	    New File  		    7199	RUNTIMEBROKER.EXE-C072A780.pf
+100%  
+	    New File  		   10593	RUNTIMEBROKER.EXE-CF59E802.pf
+100%  
+	    New File  		   11718	RUNTIMEBROKER.EXE-D7A652E5.pf
+100%  
+	    New File  		   19150	RUNTIMEBROKER.EXE-DAA0DF92.pf
+100%  
+	    New File  		    5756	RUNTIMEBROKER.EXE-FBAA895A.pf
+100%  
+	    New File  		    2305	SC.EXE-6C4D4413.pf
+100%  
+	    New File  		    5793	SCHTASKS.EXE-8B6144A9.pf
+100%  
+	    New File  		    3431	SDBINST.EXE-49E8B208.pf
+100%  
+	    New File  		   37383	SDIAGNHOST.EXE-B3171AA1.pf
+100%  
+	    New File  		    4757	SEARCHFILTERHOST.EXE-44162447.pf
+100%  
+	    New File  		   64019	SEARCHHOST.EXE-19142404.pf
+100%  
+	    New File  		   35748	SEARCHINDEXER.EXE-1CF42BC6.pf
+100%  
+	    New File  		    4045	SEARCHPROTOCOLHOST.EXE-69C456C3.pf
+100%  
+	    New File  		   39137	SECHEALTHUI.EXE-21C78B64.pf
+100%  
+	    New File  		   13591	SECURITYHEALTHHOST.EXE-76C4EEFD.pf
+100%  
+	    New File  		   14978	SECURITYHEALTHSERVICE.EXE-91B5FB98.pf
+100%  
+	    New File  		    6601	SECURITYHEALTHSYSTRAY.EXE-E527A4AE.pf
+100%  
+	    New File  		    4569	SENSEIMDSCOLLECTOR.EXE-3DF66D6E.pf
+100%  
+	    New File  		   10598	SENSEIR.EXE-62C13871.pf
+100%  
+	    New File  		    6896	SENSENDR.EXE-1ED52916.pf
+100%  
+	    New File  		   18800	SENSESAMPLEUPLOADER.EXE-2DB15540.pf
+100%  
+	    New File  		   13097	SESSIONMSG.EXE-DACE45E4.pf
+100%  
+	    New File  		    8384	SETUP.EXE-835B980A.pf
+100%  
+	    New File  		    3526	SETUP.EXE-835B980E.pf
+100%  
+	    New File  		   37126	SHELLEXPERIENCEHOST.EXE-D1F7FC12.pf
+100%  
+	    New File  		   14286	SIHCLIENT.EXE-98C47F6C.pf
+100%  
+	    New File  		   25525	SIHOST.EXE-115B507F.pf
+100%  
+	    New File  		    9045	SLUI.EXE-3E441AEE.pf
+100%  
+	    New File  		    6546	SMARTSCREEN.EXE-EACC1250.pf
+100%  
+	    New File  		    1364	SMSS.EXE-B5B810DB.pf
+100%  
+	    New File  		    5341	SPPEXTCOMOBJ.EXE-7D45A1AB.pf
+100%  
+	    New File  		   11299	SPPSVC.EXE-96070FE0.pf
+100%  
+	    New File  		   73404	STARTMENUEXPERIENCEHOST.EXE-EF4F4491.pf
+100%  
+	    New File  		   17366	SVCHOST.EXE-002213CE.pf
+100%  
+	    New File  		    6531	SVCHOST.EXE-0506DF60.pf
+100%  
+	    New File  		   20175	SVCHOST.EXE-117C4441.pf
+100%  
+	    New File  		    4525	SVCHOST.EXE-1B48E245.pf
+100%  
+	    New File  		    9988	SVCHOST.EXE-2FFEC382.pf
+100%  
+	    New File  		    7815	SVCHOST.EXE-366169FB.pf
+100%  
+	    New File  		    5050	SVCHOST.EXE-38FE68E5.pf
+100%  
+	    New File  		    4666	SVCHOST.EXE-3CF81F86.pf
+100%  
+	    New File  		    5115	SVCHOST.EXE-407DF59E.pf
+100%  
+	    New File  		    6087	SVCHOST.EXE-4B98D760.pf
+100%  
+	    New File  		    8307	SVCHOST.EXE-5F739FCE.pf
+100%  
+	    New File  		    4762	SVCHOST.EXE-6867B1E5.pf
+100%  
+	    New File  		   84451	SVCHOST.EXE-6A4A44E7.pf
+100%  
+	    New File  		   14874	SVCHOST.EXE-78F3B282.pf
+100%  
+	    New File  		   29675	SVCHOST.EXE-7AAD9645.pf
+100%  
+	    New File  		   22297	SVCHOST.EXE-A2811D73.pf
+100%  
+	    New File  		    5512	SVCHOST.EXE-A4B742B7.pf
+100%  
+	    New File  		    9941	SVCHOST.EXE-AAD33B2E.pf
+100%  
+	    New File  		   22006	SVCHOST.EXE-C38EF8DD.pf
+100%  
+	    New File  		    5684	SVCHOST.EXE-EA9BB143.pf
+100%  
+	    New File  		   19557	SVCHOST.EXE-EBBF67E6.pf
+100%  
+	    New File  		    6814	SVCHOST.EXE-ED843F3F.pf
+100%  
+	    New File  		   22008	SVCHOST.EXE-F6EF00D7.pf
+100%  
+	    New File  		    6068	SYSTEMINFO.EXE-3EAAF1C2.pf
+100%  
+	    New File  		  104793	SYSTEMSETTINGS.EXE-AD6D6913.pf
+100%  
+	    New File  		   52387	SYSTEMSETTINGSADMINFLOWS.EXE-F74198E7.pf
+100%  
+	    New File  		   28904	TABTIP.EXE-9740CA06.pf
+100%  
+	    New File  		   20556	TASKHOSTW.EXE-2E5D4B75.pf
+100%  
+	    New File  		   13123	TASKMGR.EXE-4C8500BA.pf
+100%  
+	    New File  		   42643	TEXTINPUTHOST.EXE-0F8FD076.pf
+100%  
+	    New File  		   33140	TIWORKER.EXE-BDC45818.pf
+100%  
+	    New File  		    4842	TRUSTEDINSTALLER.EXE-766EFF52.pf
+100%  
+	    New File  		    5801	TSTHEME.EXE-01D23267.pf
+100%  
+	    New File  		    8588	UNREGMP2.EXE-51519EBD.pf
+100%  
+	    New File  		    5445	UPFC.EXE-89D4FAEB.pf
+100%  
+	    New File  		    9928	USEROOBEBROKER.EXE-65584ADF.pf
+100%  
+	    New File  		    4511	VERCLSID.EXE-AB0FD091.pf
+100%  
+	    New File  		   17895	VMTOOLSD.EXE-90328040.pf
+100%  
+	    New File  		    7650	VMWARERESOLUTIONSET.EXE-38A925F2.pf
+100%  
+	    New File  		    6230	VSSVC.EXE-6C8F0C66.pf
+100%  
+	    New File  		   18595	WAASMEDICAGENT.EXE-21F161ED.pf
+100%  
+	    New File  		    5840	WERFAULTSECURE.EXE-6DAF3622.pf
+100%  
+	    New File  		    4787	WEVTUTIL.EXE-1E154F39.pf
+100%  
+	    New File  		    3619	WHOAMI.EXE-9D378AFE.pf
+100%  
+	    New File  		   56309	WIDGETS.EXE-996A7D2A.pf
+100%  
+	    New File  		   14735	WIDGETSERVICE.EXE-03CC7297.pf
+100%  
+	    New File  		   27731	WIDGETSERVICE.EXE-70CEBDED.pf
+100%  
+	    New File  		   27553	WINDOWSPACKAGEMANAGERSERVER.E-1DDBF1BD.pf
+100%  
+	    New File  		   42001	WINDOWSTERMINAL.EXE-0D837036.pf
+100%  
+	    New File  		   37828	WINDOWSTERMINAL.EXE-E7CB116A.pf
+100%  
+	    New File  		    8323	WINLOGON.EXE-DEDDC9B6.pf
+100%  
+	    New File  		    3977	WLRMDR.EXE-A7C36FDD.pf
+100%  
+	    New File  		    8613	WMIADAP.EXE-BB21CD77.pf
+100%  
+	    New File  		    6334	WMIAPSRV.EXE-FC8436DD.pf
+100%  
+	    New File  		    8558	WMIPRVSE.EXE-E8B8DD29.pf
+100%  
+	    New File  		    7552	WUAUCLTCORE.EXE-07BDE0CF.pf
+100%  
+	    New File  		    8527	WUDFHOST.EXE-DEBBE5F1.pf
+100%  
+	    New File  		    2831	XCOPY.EXE-F5C59A8C.pf
+100%  
+	  New Dir          0	C:\WINDOWS\Prefetch\ReadyBoot\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         0         0         0         0
+   Files :       307       265        42         0         0         0
+   Bytes :    7.33 m    5.57 m    1.76 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1,52,15,583 Bytes/sec.
+   Speed :               870.643 MegaBytes/min.
+   Ended : 07 August 2025 18:32:51
+

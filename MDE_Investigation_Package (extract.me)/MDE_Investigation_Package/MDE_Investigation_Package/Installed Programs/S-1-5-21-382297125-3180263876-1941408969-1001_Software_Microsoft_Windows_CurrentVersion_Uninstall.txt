@@ -1,0 +1,38 @@
+
+HKEY_USERS\S-1-5-21-382297125-3180263876-1941408969-1001\Software\Microsoft\Windows\CurrentVersion\Uninstall\OneDriveSetup.exe
+    DisplayName    REG_SZ    Microsoft OneDrive
+    DisplayIcon    REG_SZ    C:\Users\Admin\AppData\Local\Microsoft\OneDrive\25.137.0715.0001\OneDriveSetup.exe,-101
+    DisplayVersion    REG_SZ    25.137.0715.0001
+    HelpLink    REG_SZ    https://go.microsoft.com/fwlink/?LinkID=215117
+    Publisher    REG_SZ    Microsoft Corporation
+    UninstallString    REG_SZ    "C:\Users\Admin\AppData\Local\Microsoft\OneDrive\25.137.0715.0001\OneDriveSetup.exe"  /uninstall 
+    UrlUpdateInfo    REG_SZ    https://go.microsoft.com/fwlink/?LinkID=223554
+    EstimatedSize    REG_DWORD    0x6ac1c
+    NoRepair    REG_DWORD    0x1
+    NoModify    REG_DWORD    0x1
+
+HKEY_USERS\S-1-5-21-382297125-3180263876-1941408969-1001\Software\Microsoft\Windows\CurrentVersion\Uninstall\{822f14aa-d580-47b5-acec-50522824aca3}
+    BundleCachePath    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{822f14aa-d580-47b5-acec-50522824aca3}\python-3.13.6-amd64.exe
+    BundleUpgradeCode    REG_MULTI_SZ    {F96F59BD-3E48-5E4E-B1A4-6CAFADEFEAE8}
+    BundleAddonCode    REG_MULTI_SZ    
+    BundleDetectCode    REG_MULTI_SZ    
+    BundlePatchCode    REG_MULTI_SZ    
+    BundleVersion    REG_SZ    3.13.6150.0
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    BundleProviderKey    REG_SZ    CPython-3.13
+    BundleTag    REG_SZ    
+    EngineVersion    REG_SZ    3.14.1.8722
+    DisplayIcon    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{822f14aa-d580-47b5-acec-50522824aca3}\python-3.13.6-amd64.exe,0
+    DisplayName    REG_SZ    Python 3.13.6 (64-bit)
+    DisplayVersion    REG_SZ    3.13.6150.0
+    Publisher    REG_SZ    Python Software Foundation
+    URLInfoAbout    REG_SZ    https://www.python.org/
+    ModifyPath    REG_SZ    "C:\Users\Admin\AppData\Local\Package Cache\{822f14aa-d580-47b5-acec-50522824aca3}\python-3.13.6-amd64.exe" /modify
+    NoElevateOnModify    REG_DWORD    0x1
+    QuietUninstallString    REG_SZ    "C:\Users\Admin\AppData\Local\Package Cache\{822f14aa-d580-47b5-acec-50522824aca3}\python-3.13.6-amd64.exe" /uninstall /quiet
+    UninstallString    REG_SZ    "C:\Users\Admin\AppData\Local\Package Cache\{822f14aa-d580-47b5-acec-50522824aca3}\python-3.13.6-amd64.exe"  /uninstall
+    EstimatedSize    REG_DWORD    0x27f4b
+    Resume    REG_DWORD    0x3
+    Installed    REG_DWORD    0x1
+

@@ -1,0 +1,349 @@
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\AddressBook
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Connection Manager
+    SystemComponent    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\DirectDrawEx
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\DXM_Runtime
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Fontcore
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\IE40
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\IE4Data
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\IE5BAKEX
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\IEData
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\MobileOptionPack
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\MPlayer2
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\mstsc-4b0a31aa-df6a-4307-9b47-d5cc50009643
+    DisplayIcon    REG_EXPAND_SZ    C:\Windows\System32\mstsc.exe
+    DisplayName_Localized    REG_EXPAND_SZ    @C:\Windows\System32\mstsc.exe,-4000
+    InstallLocation    REG_EXPAND_SZ    C:\Windows\System32\
+    NoModify    REG_DWORD    0x1
+    Publisher    REG_SZ    Microsoft Corporation
+    UninstallString    REG_EXPAND_SZ    "C:\Windows\System32\mstsc.exe" /uninstall
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\SchedulingAgent
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\WIC
+    NoRemove    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{0025DD72-A959-45B5-A0A3-7EFEB15A8050}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    14.36.32532
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20241026
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\ProgramData\Package Cache\{0025DD72-A959-45B5-A0A3-7EFEB15A8050}v14.36.32532\packages\vcRuntimeAdditional_amd64\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{0025DD72-A959-45B5-A0A3-7EFEB15A8050}
+    Publisher    REG_SZ    Microsoft Corporation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x2e64
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{0025DD72-A959-45B5-A0A3-7EFEB15A8050}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0xe
+    VersionMinor    REG_DWORD    0x24
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0xe247f14
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{20811DBD-D5C5-4201-B857-321924BA903D}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{20811DBD-D5C5-4201-B857-321924BA903D}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{20811DBD-D5C5-4201-B857-321924BA903D}
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0xa30
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{20811DBD-D5C5-4201-B857-321924BA903D}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python 3.13.6 Executables (64-bit)
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{2385EBD2-C505-42C9-BC46-0CC50C9D31CC}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{2385EBD2-C505-42C9-BC46-0CC50C9D31CC}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{2385EBD2-C505-42C9-BC46-0CC50C9D31CC}
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x363c
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{2385EBD2-C505-42C9-BC46-0CC50C9D31CC}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python 3.13.6 Tcl/Tk Support (64-bit)
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{2CCD78DF-0F8A-4433-9B53-29DBAC3A2FC4}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{2CCD78DF-0F8A-4433-9B53-29DBAC3A2FC4}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{2CCD78DF-0F8A-4433-9B53-29DBAC3A2FC4}
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x120
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{2CCD78DF-0F8A-4433-9B53-29DBAC3A2FC4}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python 3.13.6 pip Bootstrap (64-bit)
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{6070BE95-B84D-40FE-8ABD-C70B59F5A164}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    Build 
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    12.4.5.23787635
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20241026
+    InstallLocation    REG_SZ    C:\Program Files\VMware\VMware Tools\
+    InstallSource    REG_SZ    C:\Program Files\Common Files\VMware\InstallerCache\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{6070BE95-B84D-40FE-8ABD-C70B59F5A164}
+    NoRepair    REG_DWORD    0x1
+    Publisher    REG_SZ    VMware, Inc.
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x19dbc
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{6070BE95-B84D-40FE-8ABD-C70B59F5A164}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0xc
+    VersionMinor    REG_DWORD    0x4
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0xc040005
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    VMware Tools
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{6A824204-B510-4B2A-91E5-3D68527A0A8C}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{6A824204-B510-4B2A-91E5-3D68527A0A8C}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{6A824204-B510-4B2A-91E5-3D68527A0A8C}
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0xec74
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{6A824204-B510-4B2A-91E5-3D68527A0A8C}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python 3.13.6 Documentation (64-bit)
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{77D3D136-BE55-4682-9921-1045CAF3A9D3}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{77D3D136-BE55-4682-9921-1045CAF3A9D3}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{77D3D136-BE55-4682-9921-1045CAF3A9D3}
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0xb10
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{77D3D136-BE55-4682-9921-1045CAF3A9D3}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python 3.13.6 Development Libraries (64-bit)
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{7D9A38E2-63C0-4E55-9E40-24E14D73C4E7}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{7D9A38E2-63C0-4E55-9E40-24E14D73C4E7}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{7D9A38E2-63C0-4E55-9E40-24E14D73C4E7}
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x81d4
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{7D9A38E2-63C0-4E55-9E40-24E14D73C4E7}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python 3.13.6 Test Suite (64-bit)
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{96388581-31E4-4AE7-AC37-A15FCBCB4964}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{96388581-31E4-4AE7-AC37-A15FCBCB4964}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{96388581-31E4-4AE7-AC37-A15FCBCB4964}
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x5b74
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{96388581-31E4-4AE7-AC37-A15FCBCB4964}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python 3.13.6 Standard Library (64-bit)
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{B4A923C7-09EE-4581-B248-2AA24C31ACF7}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{B4A923C7-09EE-4581-B248-2AA24C31ACF7}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{B4A923C7-09EE-4581-B248-2AA24C31ACF7}
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x1798
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{B4A923C7-09EE-4581-B248-2AA24C31ACF7}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python 3.13.6 Core Interpreter (64-bit)
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{C467A29A-E96F-4E9F-B95E-852EB8DC776A}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\Users\Admin\AppData\Local\Package Cache\{C467A29A-E96F-4E9F-B95E-852EB8DC776A}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{C467A29A-E96F-4E9F-B95E-852EB8DC776A}
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x34
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{C467A29A-E96F-4E9F-B95E-852EB8DC776A}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python 3.13.6 Add to Path (64-bit)
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{D5D19E2F-7189-42FE-8103-92CD1FA457C2}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    14.36.32532
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20241026
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\ProgramData\Package Cache\{D5D19E2F-7189-42FE-8103-92CD1FA457C2}v14.36.32532\packages\vcRuntimeMinimum_amd64\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{D5D19E2F-7189-42FE-8103-92CD1FA457C2}
+    Publisher    REG_SZ    Microsoft Corporation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x924
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{D5D19E2F-7189-42FE-8103-92CD1FA457C2}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0xe
+    VersionMinor    REG_DWORD    0x24
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0xe247f14
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532
+

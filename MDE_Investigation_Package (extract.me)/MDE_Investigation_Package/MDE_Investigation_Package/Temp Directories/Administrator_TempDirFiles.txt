@@ -1,0 +1,23 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FCCE-4B22
+
+ Directory of C:\Users\Administrator\AppData\Local\Temp
+
+04-08-2025  19:13    <DIR>          BUILTIN\Administrators .
+04-08-2025  19:11    <DIR>          BUILTIN\Administrators ..
+04-08-2025  19:12        88,666,980 BUILTIN\Administrators lsass (2).DMP
+04-08-2025  19:12        88,657,964 BUILTIN\Administrators lsass (3).DMP
+04-08-2025  19:13        88,662,364 BUILTIN\Administrators lsass (4).DMP
+04-08-2025  19:11        88,668,916 BUILTIN\Administrators lsass.DMP
+05-07-2025  04:24    <DIR>          BUILTIN\Administrators Microsoft.PackageManagement
+               4 File(s)    354,656,224 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Temp\Microsoft.PackageManagement
+
+05-07-2025  04:24    <DIR>          BUILTIN\Administrators .
+04-08-2025  19:13    <DIR>          BUILTIN\Administrators ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+               4 File(s)    354,656,224 bytes
+               5 Dir(s)  12,561,956,864 bytes free

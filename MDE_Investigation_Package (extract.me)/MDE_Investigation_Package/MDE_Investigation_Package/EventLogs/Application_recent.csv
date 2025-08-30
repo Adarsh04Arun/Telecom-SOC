@@ -1,0 +1,788 @@
+"TimeCreated","Id","LevelDisplayName","Message"
+"07-08-2025 18:35:49","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 18:33:00","1035","Information","Windows Installer reconfigured the product. Product Name: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532. Product Version: 14.36.32532. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0."
+"07-08-2025 18:32:59","1035","Information","Windows Installer reconfigured the product. Product Name: Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532. Product Version: 14.36.32532. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0."
+"07-08-2025 18:32:59","1035","Information","Windows Installer reconfigured the product. Product Name: Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532. Product Version: 14.36.32532. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0."
+"07-08-2025 18:32:59","1035","Information","Windows Installer reconfigured the product. Product Name: VMware Tools. Product Version: 12.4.5.23787635. Product Language: 1033. Manufacturer: VMware, Inc.. Reconfiguration success or error status: 0."
+"07-08-2025 18:32:59","1035","Information","Windows Installer reconfigured the product. Product Name: Python Launcher. Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Reconfiguration success or error status: 0."
+"07-08-2025 18:32:59","1035","Information","Windows Installer reconfigured the product. Product Name: Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532. Product Version: 14.36.32532. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0."
+"07-08-2025 18:25:27","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:40:27Z. Reason: RulesEngine."
+"07-08-2025 18:24:56","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 17:53:29","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:40:29Z. Reason: RulesEngine."
+"07-08-2025 17:52:59","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 17:12:01","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:41:01Z. Reason: RulesEngine."
+"07-08-2025 17:11:16","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 16:58:36","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:40:36Z. Reason: RulesEngine."
+"07-08-2025 16:57:49","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 16:15:01","1035","Information","Windows Installer reconfigured the product. Product Name: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532. Product Version: 14.36.32532. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0."
+"07-08-2025 16:15:00","1035","Information","Windows Installer reconfigured the product. Product Name: Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532. Product Version: 14.36.32532. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0."
+"07-08-2025 16:15:00","1035","Information","Windows Installer reconfigured the product. Product Name: Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532. Product Version: 14.36.32532. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0."
+"07-08-2025 16:15:00","1035","Information","Windows Installer reconfigured the product. Product Name: VMware Tools. Product Version: 12.4.5.23787635. Product Language: 1033. Manufacturer: VMware, Inc.. Reconfiguration success or error status: 0."
+"07-08-2025 16:15:00","1035","Information","Windows Installer reconfigured the product. Product Name: Python Launcher. Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Reconfiguration success or error status: 0."
+"07-08-2025 16:15:00","1035","Information","Windows Installer reconfigured the product. Product Name: Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532. Product Version: 14.36.32532. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0."
+"07-08-2025 16:10:18","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:40:18Z. Reason: RulesEngine."
+"07-08-2025 16:09:40","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 16:06:27","1001","Information","Fault bucket 1879272884602824792, type 5
+Event Name: RADAR_PRE_LEAK_64
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: powershell_ise.exe
+P2: 10.0.26100.1591
+P3: 10.0.26100.2.0.0
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\Users\Admin\AppData\Local\Temp\RDR455E.tmp\empty.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9c1826f9-e27f-4869-b460-d5f88e6f2df6.tmp.WERInternalMetadata.xml
+WPR_initiated_DiagTrackMiniLogger_OneTrace_User_Logger_20240808_1_EC_0_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c02cbb39-95f8-4663-a349-7b537f0cdb48.tmp.etl
+WPR_initiated_DiagTrackMiniLogger_WPR System Collector_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c0dbe184-b18f-4e24-a740-c3700e8693b3.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.e6e2856e-a689-4110-a443-92f3c9d89449.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.34951563-f600-48eb-9183-99945f17618f.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7cae298d-93d7-451f-931a-e8162b34ba9b.tmp.xml
+
+These files may be available here:
+NULL
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 8f736135-0348-4b3a-a73a-6ce02012f1b0
+Report Status: 268435456
+Hashed bucket: c43fcc8f3b84af814a1484bb52c66858
+Cab Guid: 0"
+"07-08-2025 15:58:28","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED."
+"07-08-2025 15:58:26","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED."
+"07-08-2025 15:58:24","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED."
+"07-08-2025 15:58:22","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED."
+"07-08-2025 15:52:32","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"07-08-2025 15:52:30","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"07-08-2025 15:43:17","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:40:17Z. Reason: RulesEngine."
+"07-08-2025 15:42:47","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 15:12:17","256","Information","[10168:6568:0807/151217.594:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete."
+"07-08-2025 15:11:45","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:40:45Z. Reason: RulesEngine."
+"07-08-2025 15:11:12","8198","Error","License Activation (slui.exe) failed with the following error code:
+hr=0x803F7001
+Command-line arguments:
+RuleId=31e71c49-8da7-4a2f-ad92-45d98a1c79ba;Action=AutoActivate;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c;NotificationInterval=1440;Trigger=UserLogon;SessionId=2"
+"07-08-2025 15:11:12","1003","Information","The Software Protection service has completed licensing status check.
+Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+Licensing Status=
+1: 01eb852c-424d-4060-94b8-c10d799d7364, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 19de9b2f-0166-4abb-9534-56ea69a80edb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 265f3fad-6a1c-4bdd-ae30-c75efa556ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 3ebce241-ea87-4946-8a4f-80d00e921dff, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 4322a811-697c-44dc-865e-3e2fdcb86009, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 1 [(0 )(1 )(2 [0xC004E003, 0, 0], [( 1 0xC004F034)( 1 0xC004F034)(?)(?)(?)(?)(?)(?)])(3 [0x00000000, 0, 0], [( 6 0xC004F009 0 0)( 1 0x00000000)( 6 0xC004F009 0 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F034)])]
+24: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: 5d78c4e9-aeb3-4b40-8ac2-6a6005e0ad6d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+32: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+33: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+34: 80083eae-7031-4394-9e88-4901973d56fe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+35: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+36: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+37: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+38: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+39: 92fb8726-92a8-4ffc-94ce-f82e07444653, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+40: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+41: 97cde3ae-e908-4b59-ac96-a17645c5b57e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+42: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+43: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+44: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+45: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+46: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+47: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+48: ca7df2e3-5ea0-47b8-9ac1-b1be4d8edd69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+49: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+50: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+51: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+52: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+53: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+54: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+55: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+56: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+57: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+58: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+59: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+60: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+61: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+"07-08-2025 15:11:12","1003","Information","The Software Protection service has completed licensing status check.
+Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+Licensing Status=
+1: 01eb852c-424d-4060-94b8-c10d799d7364, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 19de9b2f-0166-4abb-9534-56ea69a80edb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 265f3fad-6a1c-4bdd-ae30-c75efa556ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 3ebce241-ea87-4946-8a4f-80d00e921dff, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 4322a811-697c-44dc-865e-3e2fdcb86009, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 1 [(0 )(1 )(2 [0xC004E003, 0, 0], [( 1 0xC004F034)( 1 0xC004F034)(?)(?)(?)(?)(?)(?)])(3 [0x00000000, 0, 0], [( 6 0xC004F009 0 0)( 1 0x00000000)( 6 0xC004F009 0 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F034)])]
+24: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: 5d78c4e9-aeb3-4b40-8ac2-6a6005e0ad6d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+32: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+33: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+34: 80083eae-7031-4394-9e88-4901973d56fe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+35: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+36: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+37: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+38: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+39: 92fb8726-92a8-4ffc-94ce-f82e07444653, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+40: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+41: 97cde3ae-e908-4b59-ac96-a17645c5b57e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+42: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+43: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+44: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+45: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+46: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+47: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+48: ca7df2e3-5ea0-47b8-9ac1-b1be4d8edd69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+49: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+50: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+51: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+52: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+53: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+54: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+55: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+56: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+57: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+58: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+59: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+60: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+61: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+"07-08-2025 15:11:10","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 15:06:54","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"07-08-2025 15:06:33","258","Information","The storage optimiser successfully completed boot optimisation on (C:)"
+"07-08-2025 15:03:29","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:26:29Z. Reason: RulesEngine."
+"07-08-2025 15:03:00","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 14:59:40","8224","Information","The VSS service is shutting down due to idle timeout. "
+"07-08-2025 14:59:12","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:26:12Z. Reason: RulesEngine."
+"07-08-2025 14:58:42","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"07-08-2025 14:58:41","1003","Information","The Windows Search Service started.
+"
+"07-08-2025 14:58:40","1","Information","The Windows Security Center Service has started."
+"07-08-2025 14:58:39","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 14:58:39","900","Information","The Software Protection service is starting.
+Parameters:<explicit>"
+"07-08-2025 14:58:38","0","Information","Service stopped."
+"07-08-2025 14:57:09","903","Information","The Software Protection service has stopped.
+"
+"07-08-2025 14:57:09","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-08T09:26:09Z. Reason: RulesEngine."
+"07-08-2025 14:56:45","86","Error","SCEP Certificate enrollment initialization for OFFENSE-AD0\AVIRUP-1$ via https://VMW-KeyId-e6bde26ee122368a263cb3997361894fe952dacd.microsoftaik.azure.net/templates/Aik/scep failed:
+
+GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-e6bde26ee122368a263cb3997361894fe952dacd.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Thu, 07 Aug 2025 09:26:44 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: ad188d1b-d6f4-4056-8d81-e821b21b3cd9
+
+Method: GET(469ms)
+Stage: GetCACaps
+Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND)"
+"07-08-2025 14:56:45","86","Error","SCEP Certificate enrollment initialization for OFFENSE-AD0\AVIRUP-1$ via https://VMW-KeyId-e6bde26ee122368a263cb3997361894fe952dacd.microsoftaik.azure.net/templates/Aik/scep failed:
+
+GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-e6bde26ee122368a263cb3997361894fe952dacd.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Thu, 07 Aug 2025 09:26:44 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: a5bea65a-094b-4bab-a0ba-113091585e24
+
+Method: GET(547ms)
+Stage: GetCACaps
+Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND)"
+"07-08-2025 14:56:45","86","Error","SCEP Certificate enrollment initialization for Local system via https://VMW-KeyId-e6bde26ee122368a263cb3997361894fe952dacd.microsoftaik.azure.net/templates/Aik/scep failed:
+
+GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-e6bde26ee122368a263cb3997361894fe952dacd.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Thu, 07 Aug 2025 09:26:45 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 697d35d3-52dc-48b5-8483-a262a14b13cd
+
+Method: GET(531ms)
+Stage: GetCACaps
+Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND)"
+"07-08-2025 14:56:39","8198","Error","License Activation (slui.exe) failed with the following error code:
+hr=0x8007139F
+Command-line arguments:
+RuleId=31e71c49-8da7-4a2f-ad92-45d98a1c79ba;Action=AutoActivate;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c;NotificationInterval=1440;Trigger=NetworkAvailable"
+"07-08-2025 14:56:39","1003","Information","The Software Protection service has completed licensing status check.
+Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+Licensing Status=
+1: 01eb852c-424d-4060-94b8-c10d799d7364, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 19de9b2f-0166-4abb-9534-56ea69a80edb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 265f3fad-6a1c-4bdd-ae30-c75efa556ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 3ebce241-ea87-4946-8a4f-80d00e921dff, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 4322a811-697c-44dc-865e-3e2fdcb86009, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 1 [(0 )(1 )(2 [0xC004E003, 0, 0], [( 1 0xC004F034)( 1 0xC004F034)(?)(?)(?)(?)(?)(?)])(3 [0x00000000, 0, 0], [( 6 0xC004F009 0 0)( 1 0x00000000)( 6 0xC004F009 0 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F034)])]
+24: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: 5d78c4e9-aeb3-4b40-8ac2-6a6005e0ad6d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+32: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+33: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+34: 80083eae-7031-4394-9e88-4901973d56fe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+35: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+36: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+37: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+38: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+39: 92fb8726-92a8-4ffc-94ce-f82e07444653, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+40: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+41: 97cde3ae-e908-4b59-ac96-a17645c5b57e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+42: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+43: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+44: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+45: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+46: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+47: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+48: ca7df2e3-5ea0-47b8-9ac1-b1be4d8edd69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+49: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+50: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+51: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+52: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+53: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+54: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+55: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+56: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+57: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+58: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+59: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+60: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+61: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+"07-08-2025 14:56:38","4202","Information","MSDTC started with the following settings: Security Configuration (OFF = 0 and ON = 1): Allow Remote Administrator = 0, Network Clients = 0, Transaction Manager Communication:  Allow Inbound Transactions = 0, Allow Outbound Transactions = 0, Transaction Internet Protocol (TIP) = 0,  Enable XA Transactions = 0,  Enable SNA LU 6.2 Transactions = 1,  MSDTC Communications Security = Mutual Authentication Required, Account = NT AUTHORITY\NetworkService,  Firewall Exclusion Detected = 0 Transaction Bridge Installed = 0 Filtering Duplicate Events = 1"
+"07-08-2025 14:56:38","902","Information","The Software Protection service has started.
+10.0.26100.4652"
+"07-08-2025 14:56:37","1003","Information","The Software Protection service has completed licensing status check.
+Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+Licensing Status=
+1: 01eb852c-424d-4060-94b8-c10d799d7364, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 19de9b2f-0166-4abb-9534-56ea69a80edb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 265f3fad-6a1c-4bdd-ae30-c75efa556ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 3ebce241-ea87-4946-8a4f-80d00e921dff, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 4322a811-697c-44dc-865e-3e2fdcb86009, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 1 [(0 )(1 )(2 [0xC004E003, 0, 0], [( 1 0xC004F034)( 1 0xC004F034)(?)(?)(?)(?)(?)(?)])(3 [0x00000000, 0, 0], [( 6 0xC004F009 0 0)( 1 0x00000000)( 6 0xC004F009 0 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F034)])]
+24: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: 5d78c4e9-aeb3-4b40-8ac2-6a6005e0ad6d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+32: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+33: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+34: 80083eae-7031-4394-9e88-4901973d56fe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+35: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+36: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+37: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+38: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+39: 92fb8726-92a8-4ffc-94ce-f82e07444653, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+40: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+41: 97cde3ae-e908-4b59-ac96-a17645c5b57e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+42: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+43: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+44: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+45: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+46: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+47: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+48: ca7df2e3-5ea0-47b8-9ac1-b1be4d8edd69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+49: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+50: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+51: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+52: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+53: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+54: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+55: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+56: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+57: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+58: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+59: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+60: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+61: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+"07-08-2025 14:56:37","1066","Information","Initialization status for service objects.
+C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+"
+"07-08-2025 14:56:37","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 14:56:37","900","Information","The Software Protection service is starting.
+Parameters:TriggerStarted:6"
+"07-08-2025 14:56:37","271","Information","Restored network configuration."
+"07-08-2025 14:56:36","5617","Information","Windows Management Instrumentation Service subsystems initialized successfully"
+"07-08-2025 14:56:37","258","Information","Restoring network configuration."
+"07-08-2025 14:56:37","781","Information","The COM+ sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\COM3\Eventlog."
+"07-08-2025 14:56:22","5615","Information","Windows Management Instrumentation Service started sucessfully"
+"07-08-2025 14:56:22","105","Information","The service was started."
+"07-08-2025 14:56:21","1531","Information","The User Profile Service has started successfully.  
+
+"
+"07-08-2025 14:56:02","1532","Information","The User Profile Service has stopped.  
+
+"
+"07-08-2025 14:55:37","108","Information","The service was stopped."
+"07-08-2025 14:55:37","272","Information","Saved network configuration."
+"07-08-2025 14:55:37","260","Information","Saving network configuration."
+"07-08-2025 14:55:36","6000","Information","The winlogon notification subscriber <WSearch> was unavailable to handle a notification event."
+"07-08-2025 14:22:51","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:51.179381500Z."
+"07-08-2025 14:22:51","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:51.179381500Z."
+"07-08-2025 14:22:51","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:44.391979500Z."
+"07-08-2025 14:22:51","1042","Information","Ending a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{C467A29A-E96F-4E9F-B95E-852EB8DC776A}v3.13.6150.0\path.msi. Client Process Id: 564."
+"07-08-2025 14:22:51","1033","Information","Windows Installer installed the product. Product Name: Python 3.13.6 Add to Path (64-bit). Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:51","11707","Information","Product: Python 3.13.6 Add to Path (64-bit) -- Installation completed successfully."
+"07-08-2025 14:22:51","1040","Information","Beginning a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{C467A29A-E96F-4E9F-B95E-852EB8DC776A}v3.13.6150.0\path.msi. Client Process Id: 564."
+"07-08-2025 14:22:51","1042","Information","Ending a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{2CCD78DF-0F8A-4433-9B53-29DBAC3A2FC4}v3.13.6150.0\pip.msi. Client Process Id: 564."
+"07-08-2025 14:22:51","1033","Information","Windows Installer installed the product. Product Name: Python 3.13.6 pip Bootstrap (64-bit). Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:51","11707","Information","Product: Python 3.13.6 pip Bootstrap (64-bit) -- Installation completed successfully."
+"07-08-2025 14:22:44","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:44.391979500Z."
+"07-08-2025 14:22:44","1040","Information","Beginning a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{2CCD78DF-0F8A-4433-9B53-29DBAC3A2FC4}v3.13.6150.0\pip.msi. Client Process Id: 564."
+"07-08-2025 14:22:44","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:43.937761900Z."
+"07-08-2025 14:22:43","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:43.937761900Z."
+"07-08-2025 14:22:43","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:37.792241900Z."
+"07-08-2025 14:22:44","1042","Information","Ending a Windows Installer transaction: C:\ProgramData\Package Cache\{29C4E6A2-4860-49AB-9016-BBABB257C13F}v3.13.6150.0\launcher.msi. Client Process Id: 1452."
+"07-08-2025 14:22:44","1033","Information","Windows Installer installed the product. Product Name: Python Launcher. Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:44","11707","Information","Product: Python Launcher -- Installation completed successfully."
+"07-08-2025 14:22:43","1040","Information","Beginning a Windows Installer transaction: C:\ProgramData\Package Cache\{29C4E6A2-4860-49AB-9016-BBABB257C13F}v3.13.6150.0\launcher.msi. Client Process Id: 1452."
+"07-08-2025 14:22:43","1042","Information","Ending a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{2385EBD2-C505-42C9-BC46-0CC50C9D31CC}v3.13.6150.0\tcltk.msi. Client Process Id: 564."
+"07-08-2025 14:22:43","1033","Information","Windows Installer installed the product. Product Name: Python 3.13.6 Tcl/Tk Support (64-bit). Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:43","11707","Information","Product: Python 3.13.6 Tcl/Tk Support (64-bit) -- Installation completed successfully."
+"07-08-2025 14:22:37","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:37.792241900Z."
+"07-08-2025 14:22:37","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:34.005978200Z."
+"07-08-2025 14:22:37","1040","Information","Beginning a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{2385EBD2-C505-42C9-BC46-0CC50C9D31CC}v3.13.6150.0\tcltk.msi. Client Process Id: 564."
+"07-08-2025 14:22:37","1042","Information","Ending a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{6A824204-B510-4B2A-91E5-3D68527A0A8C}v3.13.6150.0\doc.msi. Client Process Id: 564."
+"07-08-2025 14:22:37","1033","Information","Windows Installer installed the product. Product Name: Python 3.13.6 Documentation (64-bit). Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:37","11707","Information","Product: Python 3.13.6 Documentation (64-bit) -- Installation completed successfully."
+"07-08-2025 14:22:34","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:34.005978200Z."
+"07-08-2025 14:22:33","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:25.256104700Z."
+"07-08-2025 14:22:33","1040","Information","Beginning a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{6A824204-B510-4B2A-91E5-3D68527A0A8C}v3.13.6150.0\doc.msi. Client Process Id: 564."
+"07-08-2025 14:22:33","1042","Information","Ending a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{7D9A38E2-63C0-4E55-9E40-24E14D73C4E7}v3.13.6150.0\test.msi. Client Process Id: 564."
+"07-08-2025 14:22:33","1033","Information","Windows Installer installed the product. Product Name: Python 3.13.6 Test Suite (64-bit). Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:33","11707","Information","Product: Python 3.13.6 Test Suite (64-bit) -- Installation completed successfully."
+"07-08-2025 14:22:25","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:25.256104700Z."
+"07-08-2025 14:22:25","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:21.541156600Z."
+"07-08-2025 14:22:25","1040","Information","Beginning a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{7D9A38E2-63C0-4E55-9E40-24E14D73C4E7}v3.13.6150.0\test.msi. Client Process Id: 564."
+"07-08-2025 14:22:25","1042","Information","Ending a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{96388581-31E4-4AE7-AC37-A15FCBCB4964}v3.13.6150.0\lib.msi. Client Process Id: 564."
+"07-08-2025 14:22:25","1033","Information","Windows Installer installed the product. Product Name: Python 3.13.6 Standard Library (64-bit). Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:25","11707","Information","Product: Python 3.13.6 Standard Library (64-bit) -- Installation completed successfully."
+"07-08-2025 14:22:21","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:21.541156600Z."
+"07-08-2025 14:22:21","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:19.764781300Z."
+"07-08-2025 14:22:21","1040","Information","Beginning a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{96388581-31E4-4AE7-AC37-A15FCBCB4964}v3.13.6150.0\lib.msi. Client Process Id: 564."
+"07-08-2025 14:22:21","1042","Information","Ending a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{77D3D136-BE55-4682-9921-1045CAF3A9D3}v3.13.6150.0\dev.msi. Client Process Id: 564."
+"07-08-2025 14:22:21","1033","Information","Windows Installer installed the product. Product Name: Python 3.13.6 Development Libraries (64-bit). Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:21","11707","Information","Product: Python 3.13.6 Development Libraries (64-bit) -- Installation completed successfully."
+"07-08-2025 14:22:19","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:19.764781300Z."
+"07-08-2025 14:22:19","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:19.080864600Z."
+"07-08-2025 14:22:19","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:19.080864600Z."
+"07-08-2025 14:22:18","10001","Information","Ending session 0 started ?2025?-?08?-?07T08:52:18.664945900Z."
+"07-08-2025 14:22:18","10000","Information","Starting session 0 - ?2025?-?08?-?07T08:52:18.664945900Z."
+"07-08-2025 14:22:19","1040","Information","Beginning a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{77D3D136-BE55-4682-9921-1045CAF3A9D3}v3.13.6150.0\dev.msi. Client Process Id: 564."
+"07-08-2025 14:22:19","1042","Information","Ending a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{20811DBD-D5C5-4201-B857-321924BA903D}v3.13.6150.0\exe.msi. Client Process Id: 564."
+"07-08-2025 14:22:19","1033","Information","Windows Installer installed the product. Product Name: Python 3.13.6 Executables (64-bit). Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:19","11707","Information","Product: Python 3.13.6 Executables (64-bit) -- Installation completed successfully."
+"07-08-2025 14:22:19","1040","Information","Beginning a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{20811DBD-D5C5-4201-B857-321924BA903D}v3.13.6150.0\exe.msi. Client Process Id: 564."
+"07-08-2025 14:22:18","1042","Information","Ending a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{B4A923C7-09EE-4581-B248-2AA24C31ACF7}v3.13.6150.0\core.msi. Client Process Id: 564."
+"07-08-2025 14:22:18","1033","Information","Windows Installer installed the product. Product Name: Python 3.13.6 Core Interpreter (64-bit). Product Version: 3.13.6150.0. Product Language: 1033. Manufacturer: Python Software Foundation. Installation success or error status: 0."
+"07-08-2025 14:22:18","11707","Information","Product: Python 3.13.6 Core Interpreter (64-bit) -- Installation completed successfully."
+"07-08-2025 14:22:17","1040","Information","Beginning a Windows Installer transaction: C:\Users\Admin\AppData\Local\Package Cache\{B4A923C7-09EE-4581-B248-2AA24C31ACF7}v3.13.6150.0\core.msi. Client Process Id: 564."
+"07-08-2025 14:22:15","256","Information","[9984:6320:0807/142215.494:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete."
+"07-08-2025 14:20:34","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:34Z. Reason: RulesEngine."
+"07-08-2025 14:20:04","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 14:19:15","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:15Z. Reason: RulesEngine."
+"07-08-2025 14:18:45","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 14:10:15","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:15Z. Reason: RulesEngine."
+"07-08-2025 14:09:44","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 13:51:59","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:59Z. Reason: RulesEngine."
+"07-08-2025 13:51:27","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 13:17:53","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:53Z. Reason: RulesEngine."
+"07-08-2025 13:17:22","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 12:37:50","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:50Z. Reason: RulesEngine."
+"07-08-2025 12:37:17","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 12:25:56","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:56Z. Reason: RulesEngine."
+"07-08-2025 12:25:02","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 12:06:52","0","Information","Service stopped."
+"07-08-2025 12:03:42","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:42Z. Reason: RulesEngine."
+"07-08-2025 12:03:10","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 11:56:29","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:29Z. Reason: RulesEngine."
+"07-08-2025 11:55:59","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 11:53:25","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:25Z. Reason: RulesEngine."
+"07-08-2025 11:52:54","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 11:51:58","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:58Z. Reason: RulesEngine."
+"07-08-2025 11:51:27","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 11:36:17","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:17Z. Reason: RulesEngine."
+"07-08-2025 11:35:47","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 11:19:47","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:47Z. Reason: RulesEngine."
+"07-08-2025 11:19:16","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 10:33:02","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:28:02Z. Reason: RulesEngine."
+"07-08-2025 10:32:32","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 10:29:22","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:22Z. Reason: RulesEngine."
+"07-08-2025 10:28:52","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 09:59:25","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:25Z. Reason: RulesEngine."
+"07-08-2025 09:58:55","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 09:55:41","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:41Z. Reason: RulesEngine."
+"07-08-2025 09:55:11","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 09:51:57","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:57Z. Reason: RulesEngine."
+"07-08-2025 09:51:27","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 09:39:44","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:44Z. Reason: RulesEngine."
+"07-08-2025 09:39:14","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 09:22:18","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:18Z. Reason: RulesEngine."
+"07-08-2025 09:21:47","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 08:32:54","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:54Z. Reason: RulesEngine."
+"07-08-2025 08:32:24","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 08:31:20","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:20Z. Reason: RulesEngine."
+"07-08-2025 08:30:48","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 07:51:58","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:58Z. Reason: RulesEngine."
+"07-08-2025 07:51:27","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 07:45:26","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:26Z. Reason: RulesEngine."
+"07-08-2025 07:44:56","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 07:40:20","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:20Z. Reason: RulesEngine."
+"07-08-2025 07:39:49","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 07:23:38","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:38Z. Reason: RulesEngine."
+"07-08-2025 07:23:08","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 06:41:18","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:18Z. Reason: RulesEngine."
+"07-08-2025 06:40:48","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 06:10:00","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:28:00Z. Reason: RulesEngine."
+"07-08-2025 06:09:30","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 05:51:58","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:58Z. Reason: RulesEngine."
+"07-08-2025 05:51:27","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 05:30:08","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:08Z. Reason: RulesEngine."
+"07-08-2025 05:29:37","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 05:00:21","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:21Z. Reason: RulesEngine."
+"07-08-2025 04:59:51","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 04:57:12","1704","Information","Security policy in the Group policy objects has been applied successfully."
+"07-08-2025 04:52:31","2562",,
+"07-08-2025 04:52:31","2562",,
+"07-08-2025 04:52:31","2562",,
+"07-08-2025 04:52:31","2562",,
+"07-08-2025 04:52:12","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:12Z. Reason: RulesEngine."
+"07-08-2025 04:52:00","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED."
+"07-08-2025 04:51:29","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 04:46:30","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:30Z. Reason: RulesEngine."
+"07-08-2025 04:46:00","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 04:32:51","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:51Z. Reason: RulesEngine."
+"07-08-2025 04:32:21","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 04:09:53","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:53Z. Reason: RulesEngine."
+"07-08-2025 04:09:23","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 03:52:01","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:28:01Z. Reason: RulesEngine."
+"07-08-2025 03:51:28","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 03:43:45","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:45Z. Reason: RulesEngine."
+"07-08-2025 03:43:15","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 02:55:49","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:49Z. Reason: RulesEngine."
+"07-08-2025 02:55:19","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 02:19:06","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:06Z. Reason: RulesEngine."
+"07-08-2025 02:18:36","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 01:51:58","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:58Z. Reason: RulesEngine."
+"07-08-2025 01:51:28","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 01:49:01","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:28:01Z. Reason: RulesEngine."
+"07-08-2025 01:48:31","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 01:26:27","0","Information","Service stopped."
+"07-08-2025 00:52:00","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:28:00Z. Reason: RulesEngine."
+"07-08-2025 00:51:29","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 00:38:48","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:48Z. Reason: RulesEngine."
+"07-08-2025 00:38:18","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 00:12:40","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:40Z. Reason: RulesEngine."
+"07-08-2025 00:12:03","16394","Information","Offline downlevel migration succeeded."
+"07-08-2025 00:06:30","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:30Z. Reason: RulesEngine."
+"07-08-2025 00:06:21","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED."
+"07-08-2025 00:06:19","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED."
+"07-08-2025 00:06:17","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED."
+"07-08-2025 00:06:15","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED."
+"07-08-2025 00:06:00","16394","Information","Offline downlevel migration succeeded."
+"06-08-2025 23:39:20","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:20Z. Reason: RulesEngine."
+"06-08-2025 23:38:49","16394","Information","Offline downlevel migration succeeded."
+"06-08-2025 22:57:46","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:46Z. Reason: RulesEngine."
+"06-08-2025 22:57:15","16394","Information","Offline downlevel migration succeeded."
+"06-08-2025 22:40:24","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:24Z. Reason: RulesEngine."
+"06-08-2025 22:39:53","16394","Information","Offline downlevel migration succeeded."
+"06-08-2025 22:09:32","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:32Z. Reason: RulesEngine."
+"06-08-2025 22:09:02","16394","Information","Offline downlevel migration succeeded."
+"06-08-2025 22:02:29","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"06-08-2025 21:57:29","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"06-08-2025 21:56:16","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"06-08-2025 21:56:11","326","Information","svchost (1204,D,50,0) DS_Token_DB: The database engine attached a database (1, C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSTokenDB2.dat). (Time=0 seconds) 
+ 
+Saved Cache: 1 0 
+Additional Data: lgposAttach = 00000005:0008:0268,
+dbv = 1568.300.620 (9620) 
+ 
+Internal Timing Sequence: 
+[1] 0.000012 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[2] 0.001265 -0.000173 (1) WT +J(0) +M(C:0K, Fs:17, WS:4K # 0K, PF:4K # 0K, P:4K)
+[3] 0.005520 -0.001026 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:7, WS:24K # 0K, PF:24K # 0K, P:24K)
+[4] 0.002427 +J(0)
+[5] -
+[6] 0.000320 -0.000257 (2) CM -0.000157 (2) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:2, WS:8K # 0K, PF:0K # 0K, P:0K)
+[7] 0.000002 +J(0)
+[8] 0.000372 -0.000201 (1) CM -0.000140 (1) WT +J(CM:1, PgRf:1, Rd:4/1, Dy:0/0, Lg:0/0) +M(C:16K, Fs:25, WS:100K # 0K, PF:208K # 0K, P:208K)
+[9] -
+[10] -
+[11] -
+[12] 0.000015 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:54/1) +M(C:0K, Fs:1, WS:4K # 0K, PF:20K # 0K, P:20K)
+[13] 0.000941 -0.000791 (3) CM -0.000628 (3) WT +J(CM:3, PgRf:23, Rd:0/3, Dy:0/0, Lg:0/0) +M(C:-8K, Fs:21, WS:76K # 0K, PF:-4K # 0K, P:-4K)
+[14] 0.000961 -0.000791 (3) CM -0.000580 (3) WT +J(CM:3, PgRf:40, Rd:0/3, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 0K, PF:64K # 0K, P:64K)
+[15] 0.000222 -0.000194 (1) CM -0.000124 (1) WT +J(CM:1, PgRf:1, Rd:0/1, Dy:0/0, Lg:0/0)
+[16] 0.000014 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[17] 0.000287 -0.000187 (1) CM -0.000121 (1) WT +J(CM:1, PgRf:42, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:8, WS:32K # 0K, PF:0K # 0K, P:0K)
+[18] 0.000002 +J(0)
+[19] 0.0 +J(0)
+[20] 0.000191 -0.000149 (1) CM -0.000107 (1) WT +J(CM:1, PgRf:3, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 0K, PF:0K # 0K, P:0K)."
+"06-08-2025 21:56:11","105","Information","svchost (1204,D,0,0) DS_Token_DB: The database engine started a new instance (0). (Time=0.060 seconds) 
+ 
+Additional Data:
+ lgposV2[] = 00000005:0001:0000 - 00000005:0005:0039 - 00000005:0006:0000 - 00000005:0006:0000 (00000000:0000:0000)
+cReInits = 1
+RBSOn = 0
+ 
+ 
+Internal Timing Sequence: 
+[1] 0.001182 +J(0) +M(C:0K, Fs:272, WS:1076K # 0K, PF:3452K # 0K, P:3452K)
+[2] 0.000896 +J(0) +M(C:8K, Fs:105, WS:412K # 0K, PF:304K # 0K, P:304K)
+[3] 0.000019 +J(0) +M(C:0K, Fs:2, WS:4K # 0K, PF:68K # 0K, P:68K)
+[4] 0.000150 +J(0) +M(C:0K, Fs:37, WS:148K # 0K, PF:160K # 0K, P:160K)
+[5] 0.000940 +J(0) +M(C:0K, Fs:13, WS:52K # 0K, PF:24K # 0K, P:24K)
+[6] 0.004479 +J(0) +M(C:0K, Fs:67, WS:268K # 0K, PF:44K # 0K, P:44K)
+[7] 0.002806 -0.001057 (2) WT +J(0) +M(C:0K, Fs:41, WS:164K # 0K, PF:64K # 0K, P:64K)
+[8] 0.021534 -0.003996 (11) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:20280/14) +M(C:0K, Fs:132, WS:380K # 0K, PF:232K # 0K, P:232K)
+[9] 0.001527 +J(0) +M(C:0K, Fs:17, WS:68K # 0K, PF:12K # 0K, P:12K)
+[10] 0.001988 -0.000163 (1) WT +J(0) +M(C:0K, Fs:2, WS:-52K # 0K, PF:-60K # 0K, P:-60K)
+[11] 0.000045 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:4, WS:16K # 0K, PF:0K # 0K, P:0K)
+[12] 0.000383 +J(0)
+[13] 0.023116 -0.000767 (2) CM -0.004763 (17) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:75, WS:188K # 0K, PF:172K # 0K, P:172K)
+[14] 0.000019 +J(0)
+[15] 0.000011 +J(0)
+[16] 0.000964 -0.000150 (1) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K)."
+"06-08-2025 21:56:11","302","Information","svchost (1204,U,98,0) DS_Token_DB: The database engine has successfully completed recovery steps."
+"06-08-2025 21:56:11","301","Information","svchost (1204,R,98,0) DS_Token_DB: The database engine has finished replaying logfile C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSS.log. 
+ 
+Processing Stats: 
+[1] 0.012952 -0.002568 (7) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:20280/14) +M(C:0K, Fs:76, WS:232K # 0K, PF:148K # 0K, P:148K). 
+Log record of type 'FWriteLog' was seen most frequently (2 times)"
+"06-08-2025 21:56:11","300","Information","svchost (1204,R,98,0) DS_Token_DB: The database engine is initiating recovery steps."
+"06-08-2025 21:56:11","102","Information","svchost (1204,P,98,0) DS_Token_DB: The database engine (10.00.26100.0000) is starting a new instance (0)."
+"06-08-2025 21:52:24","16384","Information","Successfully scheduled Software Protection service for re-start at 2025-08-07T09:27:24Z. Reason: RulesEngine."
+"06-08-2025 21:52:13","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"06-08-2025 21:52:11","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"06-08-2025 21:52:09","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"06-08-2025 21:52:07","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"06-08-2025 21:52:05","15","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON."
+"06-08-2025 21:51:56","1001","Information","Fault bucket 470146, type 5
+Event Name: InPageError
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: c000009c
+P2: 00000003
+P3: 
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a74ca2fe-c7d6-4844-ad9d-f7fc942fe385.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5e40dd85-e58b-47b0-b261-fdd84953d96f.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_c000009c_205d69f6ab74fd2e308992ba3998e88b816acb_a6180693_cab_ea2718de-0046-4387-bc7d-13e7d236103d\WPR_initiated_DiagTrackMiniLogger_OneTrace_User_Logger_20240808_1_EC_0_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.e803e3fd-361c-4f27-bd68-8ccc968db2ec.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_c000009c_205d69f6ab74fd2e308992ba3998e88b816acb_a6180693_cab_ea2718de-0046-4387-bc7d-13e7d236103d\WPR_initiated_DiagTrackMiniLogger_WPR System Collector_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.def461dd-f645-496b-9026-58618d9e292f.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.108081cf-46a4-43a5-842e-d2aaa95af695.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b687c3a0-5943-486c-9e2b-3bb300920d92.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.70e4a8ec-9f93-42ee-8b18-c0de6f3f2fed.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_c000009c_205d69f6ab74fd2e308992ba3998e88b816acb_a6180693_cab_ea2718de-0046-4387-bc7d-13e7d236103d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_c000009c_205d69f6ab74fd2e308992ba3998e88b816acb_a6180693_ea2718de-0046-4387-bc7d-13e7d236103d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: a479586a-1bf1-4ffb-a687-c09db461dfab
+Report Status: 268435456
+Hashed bucket: 7d2749361dc05922d6a071409bc80d44
+Cab Guid: 0"
+"06-08-2025 21:51:54","1001","Information","Fault bucket , type 0
+Event Name: InPageError
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: c000009c
+P2: 00000003
+P3: 
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a74ca2fe-c7d6-4844-ad9d-f7fc942fe385.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5e40dd85-e58b-47b0-b261-fdd84953d96f.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_c000009c_205d69f6ab74fd2e308992ba3998e88b816acb_a6180693_cab_ea2718de-0046-4387-bc7d-13e7d236103d\WPR_initiated_DiagTrackMiniLogger_OneTrace_User_Logger_20240808_1_EC_0_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.e803e3fd-361c-4f27-bd68-8ccc968db2ec.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_c000009c_205d69f6ab74fd2e308992ba3998e88b816acb_a6180693_cab_ea2718de-0046-4387-bc7d-13e7d236103d\WPR_initiated_DiagTrackMiniLogger_WPR System Collector_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.def461dd-f645-496b-9026-58618d9e292f.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.108081cf-46a4-43a5-842e-d2aaa95af695.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b687c3a0-5943-486c-9e2b-3bb300920d92.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.70e4a8ec-9f93-42ee-8b18-c0de6f3f2fed.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_c000009c_205d69f6ab74fd2e308992ba3998e88b816acb_a6180693_cab_ea2718de-0046-4387-bc7d-13e7d236103d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_c000009c_205d69f6ab74fd2e308992ba3998e88b816acb_a6180693_cab_ea2718de-0046-4387-bc7d-13e7d236103d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: a479586a-1bf1-4ffb-a687-c09db461dfab
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0"
+"06-08-2025 21:51:44","16394","Information","Offline downlevel migration succeeded."
+"06-08-2025 21:51:37","1005","Error","Windows cannot access the file C:\ProgramData\Microsoft\Windows Defender\Scans\mpcache-02CC80C8058FB785062D3D47ADA7B205D3F505E5.bin.67 for one of the following reasons: there is a problem with the network connection, the disk that the file is stored on, or the storage drivers installed on this computer; or the disk is missing. Windows closed the programme Antimalware Service Executable because of this error.
+
+Programme: Antimalware Service Executable
+File: C:\ProgramData\Microsoft\Windows Defender\Scans\mpcache-02CC80C8058FB785062D3D47ADA7B205D3F505E5.bin.67
+
+The error value is listed in the Additional Data section.
+User Action
+1. Open the file again. This situation might be a temporary problem that corrects itself when the programme runs again.
+2. If the file still cannot be accessed and
+	- It is on the network, your network administrator should verify that there is not a problem with the network and that the server can be contacted.
+	- It is on a removable disk, for example, a floppy disk or CD-ROM, verify that the disk is fully inserted into the computer.
+3. Check and repair the file system by running CHKDSK. To run CHKDSK, click Start, click Run, type CMD, and then click OK. At the command prompt, type CHKDSK /F, and then press ENTER.
+4. If the problem persists, restore the file from a back-up copy.
+5. Determine whether other files on the same disk can be opened. If not, the disk might be damaged. If it is a hard disk, contact your administrator or computer hardware vendor for further assistance.
+
+Additional Data
+Error value: 0xC000009C
+Disk type: 0x3"
+"06-08-2025 21:51:37","1000","Error","Faulting application name: MsMpEng.exe, version: 4.18.25070.5, time stamp: 0x0efc75bc
+Faulting module name: mpengine.dll, version: 1.1.25070.4, time stamp: 0xc3e246dd
+Exception code: 0xc0000006
+Fault offset: 0x0000000000192281
+Faulting process id: 0x840
+Faulting application start time: 0x1DC06B3235E2206
+Faulting application path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25070.5-0\MsMpEng.exe
+Faulting module path: C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{F501A7A4-BD1B-4A9C-81FB-F18C13A39F05}\mpengine.dll
+Report Id: a479586a-1bf1-4ffb-a687-c09db461dfab
+Faulting package full name: 
+Faulting package-relative application ID: "

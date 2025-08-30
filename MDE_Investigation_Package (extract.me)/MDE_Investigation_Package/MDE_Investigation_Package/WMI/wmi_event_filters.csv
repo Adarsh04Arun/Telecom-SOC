@@ -1,0 +1,2 @@
+"Name","Query","CreatorSID"
+"SCM Event Log Filter","select * from MSFT_SCMEventLogEvent","System.Byte[]"

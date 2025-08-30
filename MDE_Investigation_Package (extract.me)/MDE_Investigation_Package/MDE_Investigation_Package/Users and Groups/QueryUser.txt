@@ -1,0 +1,2 @@
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ admin                 rdp-tcp#0           2  Active          3  07-08-2025 15:11

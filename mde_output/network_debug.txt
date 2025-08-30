@@ -1,0 +1,12 @@
+[DNS CACHE] C:\coding\jupyter personal\HackVerse\MDE_Investigation_Package (extract.me)\MDE_Investigation_Package\MDE_Investigation_Package\Network\dns_client_cache.csv
+[DNS CACHE] columns: ['Name', 'Type', 'TimeToLive', 'Data']
+[ADAPTERS] C:\coding\jupyter personal\HackVerse\MDE_Investigation_Package (extract.me)\MDE_Investigation_Package\MDE_Investigation_Package\Network\network_adapters.csv
+[ADAPTERS] columns: ['Name', 'InterfaceDescription', 'Status', 'MacAddress', 'LinkSpeed']
+[TCP DETAILED] C:\coding\jupyter personal\HackVerse\MDE_Investigation_Package (extract.me)\MDE_Investigation_Package\MDE_Investigation_Package\Network\tcp_connections_detailed.csv
+[TCP DETAILED] columns: ['LocalAddress', 'LocalPort', 'RemoteAddress', 'RemotePort', 'State', 'ProcessName', 'ProcessId']
+[DNS CACHE] C:\coding\jupyter personal\HackVerse\MDE_Investigation_Package (extract.me)\MDE_Investigation_Package\MDE_Investigation_Package\Network Connections\dns_client_cache.csv
+[DNS CACHE] columns: ['Name', 'Type', 'TimeToLive', 'Data']
+[ADAPTERS] C:\coding\jupyter personal\HackVerse\MDE_Investigation_Package (extract.me)\MDE_Investigation_Package\MDE_Investigation_Package\Network Connections\network_adapters.csv
+[ADAPTERS] columns: ['Name', 'InterfaceDescription', 'Status', 'MacAddress', 'LinkSpeed']
+[TCP DETAILED] C:\coding\jupyter personal\HackVerse\MDE_Investigation_Package (extract.me)\MDE_Investigation_Package\MDE_Investigation_Package\Network Connections\tcp_connections_detailed.csv
+[TCP DETAILED] columns: ['LocalAddress', 'LocalPort', 'RemoteAddress', 'RemotePort', 'State', 'ProcessName', 'ProcessId']

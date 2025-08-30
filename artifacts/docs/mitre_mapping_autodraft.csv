@@ -1,0 +1,4 @@
+stage,tactic,technique,signal,host,timestamp_utc
+Initial Access,TA0001,T1078 Valid Accounts,SSH brute force,WIN-HOST01,2025-08-01T00:00:00Z
+Persistence,TA0003,T1547 Boot or Logon Autostart Execution,Autorun registry key,WIN-HOST02,2025-08-01T01:00:00Z
+Command and Control,TA0011,T1071 Application Layer Protocol,SIP anomalous traffic,WIN-HOST03,2025-08-01T02:00:00Z

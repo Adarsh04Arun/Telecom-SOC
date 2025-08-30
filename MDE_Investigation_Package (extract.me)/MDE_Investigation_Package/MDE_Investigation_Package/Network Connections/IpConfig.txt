@@ -1,0 +1,31 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Avirup-1
+   Primary Dns Suffix  . . . . . . . : offense-AD.com
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : offense-AD.com
+                                       localdomain
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) 82574L Gigabit Network Connection
+   Physical Address. . . . . . . . . : 00-0C-29-0A-80-E8
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::2459:90d8:3266:6fe6%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.52.144(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 07 August 2025 14:56:21
+   Lease Expires . . . . . . . . . . : 06 September 2025 14:56:21
+   Default Gateway . . . . . . . . . : 192.168.52.2
+   DHCP Server . . . . . . . . . . . : 192.168.52.254
+   DHCPv6 IAID . . . . . . . . . . . : 83889193
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-F8-25-6F-00-0C-29-0A-80-E8
+   DNS Servers . . . . . . . . . . . : 192.168.52.143
+                                       8.8.8.8
+   Primary WINS Server . . . . . . . : 192.168.52.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled

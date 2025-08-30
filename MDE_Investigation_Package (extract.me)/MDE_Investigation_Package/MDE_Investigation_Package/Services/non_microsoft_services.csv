@@ -1,0 +1,5 @@
+"Name","DisplayName","PathName","StartMode","State"
+"Sense","Windows Defender Advanced Threat Protection Service","""C:\Program Files\Windows Defender Advanced Threat Protection\MsSense.exe""","Auto","Running"
+"VGAuthService","VMware Alias Manager and Ticket Service","""C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe""","Auto","Running"
+"VMTools","VMware Tools","""C:\Program Files\VMware\VMware Tools\vmtoolsd.exe""","Auto","Running"
+"WMPNetworkSvc","Windows Media Player Network Sharing Service","""C:\Program Files\Windows Media Player\wmpnetwk.exe""","Manual","Stopped"

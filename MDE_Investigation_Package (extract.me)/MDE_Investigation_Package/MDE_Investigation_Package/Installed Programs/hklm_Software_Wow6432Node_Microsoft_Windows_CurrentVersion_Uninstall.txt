@@ -1,0 +1,187 @@
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AddressBook
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Connection Manager
+    SystemComponent    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\DirectDrawEx
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\DXM_Runtime
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Fontcore
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IE40
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IE4Data
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IE5BAKEX
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IEData
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+    DisplayName    REG_SZ    Microsoft Edge
+    DisplayVersion    REG_SZ    138.0.3351.121
+    Version    REG_SZ    138.0.3351.121
+    NoRemove    REG_DWORD    0x1
+    ModifyPath    REG_SZ    "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /install appguid={56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}&appname=Microsoft%20Edge&needsadmin=true&repairtype=windowsonlinerepair /installsource windows
+    UninstallString    REG_SZ    "C:\Program Files (x86)\Microsoft\Edge\Application\138.0.3351.121\Installer\setup.exe" --uninstall --msedge --channel=stable --system-level --verbose-logging
+    InstallLocation    REG_SZ    C:\Program Files (x86)\Microsoft\Edge\Application
+    DisplayIcon    REG_SZ    C:\Program Files (x86)\Microsoft\Edge\Application\138.0.3351.121\msedge.exe,0
+    NoRepair    REG_DWORD    0x1
+    Publisher    REG_SZ    Microsoft Corporation
+    InstallDate    REG_SZ    20250802
+    VersionMajor    REG_DWORD    0xd17
+    VersionMinor    REG_DWORD    0x79
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge Update
+    DisplayVersion    REG_SZ    1.3.195.65
+    Version    REG_SZ    1.3.195.65
+    NoRemove    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft EdgeWebView
+    DisplayName    REG_SZ    Microsoft Edge WebView2 Runtime
+    DisplayVersion    REG_SZ    138.0.3351.121
+    Version    REG_SZ    138.0.3351.121
+    NoRemove    REG_DWORD    0x1
+    ModifyPath    REG_SZ    "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /install appguid={F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}&appname=Microsoft%20Edge%20WebView&needsadmin=true&repairtype=windowsonlinerepair /installsource windows
+    UninstallString    REG_SZ    "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\Installer\setup.exe" --uninstall --msedgewebview --system-level --verbose-logging
+    InstallLocation    REG_SZ    C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+    DisplayIcon    REG_SZ    C:\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe,0
+    NoRepair    REG_DWORD    0x1
+    Publisher    REG_SZ    Microsoft Corporation
+    InstallDate    REG_SZ    20250802
+    VersionMajor    REG_DWORD    0xd17
+    VersionMinor    REG_DWORD    0x79
+    SystemComponent    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MobileOptionPack
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MPlayer2
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\SchedulingAgent
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\WIC
+    NoRemove    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{29C4E6A2-4860-49AB-9016-BBABB257C13F}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    3.13.6150.0
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20250807
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\ProgramData\Package Cache\{29C4E6A2-4860-49AB-9016-BBABB257C13F}v3.13.6150.0\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /X{29C4E6A2-4860-49AB-9016-BBABB257C13F}
+    NoModify    REG_DWORD    0x1
+    Publisher    REG_SZ    Python Software Foundation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x610
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{29C4E6A2-4860-49AB-9016-BBABB257C13F}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0x3
+    VersionMinor    REG_DWORD    0xd
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0x30d1806
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Python Launcher
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{410c0ee1-00bb-41b6-9772-e12c2828b02f}
+    BundleCachePath    REG_SZ    C:\ProgramData\Package Cache\{410c0ee1-00bb-41b6-9772-e12c2828b02f}\VC_redist.x86.exe
+    BundleUpgradeCode    REG_MULTI_SZ    {F899BAD3-98ED-308E-A905-56B5338963FF}
+    BundleAddonCode    REG_MULTI_SZ    
+    BundleDetectCode    REG_MULTI_SZ    
+    BundlePatchCode    REG_MULTI_SZ    
+    BundleVersion    REG_SZ    14.36.32532.0
+    BundleProviderKey    REG_SZ    VC,redist.x86,x86,14.36,bundle
+    BundleTag    REG_SZ    
+    EngineVersion    REG_SZ    3.10.4.4718
+    DisplayIcon    REG_SZ    C:\ProgramData\Package Cache\{410c0ee1-00bb-41b6-9772-e12c2828b02f}\VC_redist.x86.exe,0
+    DisplayName    REG_SZ    Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532
+    DisplayVersion    REG_SZ    14.36.32532.0
+    Publisher    REG_SZ    Microsoft Corporation
+    ModifyPath    REG_SZ    "C:\ProgramData\Package Cache\{410c0ee1-00bb-41b6-9772-e12c2828b02f}\VC_redist.x86.exe" /modify
+    NoElevateOnModify    REG_DWORD    0x1
+    QuietUninstallString    REG_SZ    "C:\ProgramData\Package Cache\{410c0ee1-00bb-41b6-9772-e12c2828b02f}\VC_redist.x86.exe" /uninstall /quiet
+    UninstallString    REG_SZ    "C:\ProgramData\Package Cache\{410c0ee1-00bb-41b6-9772-e12c2828b02f}\VC_redist.x86.exe"  /uninstall
+    EstimatedSize    REG_DWORD    0x4813
+    Resume    REG_DWORD    0x3
+    Installed    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{73F77E4E-5A17-46E5-A5FC-8A061047725F}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    14.36.32532
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20241026
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\ProgramData\Package Cache\{73F77E4E-5A17-46E5-A5FC-8A061047725F}v14.36.32532\packages\vcRuntimeMinimum_x86\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{73F77E4E-5A17-46E5-A5FC-8A061047725F}
+    Publisher    REG_SZ    Microsoft Corporation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x784
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{73F77E4E-5A17-46E5-A5FC-8A061047725F}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0xe
+    VersionMinor    REG_DWORD    0x24
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0xe247f14
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{8bdfe669-9705-4184-9368-db9ce581e0e7}
+    BundleCachePath    REG_SZ    C:\ProgramData\Package Cache\{8bdfe669-9705-4184-9368-db9ce581e0e7}\VC_redist.x64.exe
+    BundleUpgradeCode    REG_MULTI_SZ    {C146EF48-4D31-3C3D-A2C5-1E91AF8A0A9B}
+    BundleAddonCode    REG_MULTI_SZ    
+    BundleDetectCode    REG_MULTI_SZ    
+    BundlePatchCode    REG_MULTI_SZ    
+    BundleVersion    REG_SZ    14.36.32532.0
+    BundleProviderKey    REG_SZ    VC,redist.x64,amd64,14.36,bundle
+    BundleTag    REG_SZ    
+    EngineVersion    REG_SZ    3.10.4.4718
+    DisplayIcon    REG_SZ    C:\ProgramData\Package Cache\{8bdfe669-9705-4184-9368-db9ce581e0e7}\VC_redist.x64.exe,0
+    DisplayName    REG_SZ    Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532
+    DisplayVersion    REG_SZ    14.36.32532.0
+    Publisher    REG_SZ    Microsoft Corporation
+    ModifyPath    REG_SZ    "C:\ProgramData\Package Cache\{8bdfe669-9705-4184-9368-db9ce581e0e7}\VC_redist.x64.exe" /modify
+    NoElevateOnModify    REG_DWORD    0x1
+    QuietUninstallString    REG_SZ    "C:\ProgramData\Package Cache\{8bdfe669-9705-4184-9368-db9ce581e0e7}\VC_redist.x64.exe" /uninstall /quiet
+    UninstallString    REG_SZ    "C:\ProgramData\Package Cache\{8bdfe669-9705-4184-9368-db9ce581e0e7}\VC_redist.x64.exe"  /uninstall
+    EstimatedSize    REG_DWORD    0x5267
+    Resume    REG_DWORD    0x3
+    Installed    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{C2C59CAB-8766-4ABD-A8EF-1151A36C41E5}
+    AuthorizedCDFPrefix    REG_SZ    
+    Comments    REG_SZ    
+    Contact    REG_SZ    
+    DisplayVersion    REG_SZ    14.36.32532
+    HelpLink    REG_SZ    
+    HelpTelephone    REG_SZ    
+    InstallDate    REG_SZ    20241026
+    InstallLocation    REG_SZ    
+    InstallSource    REG_SZ    C:\ProgramData\Package Cache\{C2C59CAB-8766-4ABD-A8EF-1151A36C41E5}v14.36.32532\packages\vcRuntimeAdditional_x86\
+    ModifyPath    REG_EXPAND_SZ    MsiExec.exe /I{C2C59CAB-8766-4ABD-A8EF-1151A36C41E5}
+    Publisher    REG_SZ    Microsoft Corporation
+    Readme    REG_SZ    
+    Size    REG_SZ    
+    EstimatedSize    REG_DWORD    0x284c
+    SystemComponent    REG_DWORD    0x1
+    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{C2C59CAB-8766-4ABD-A8EF-1151A36C41E5}
+    URLInfoAbout    REG_SZ    
+    URLUpdateInfo    REG_SZ    
+    VersionMajor    REG_DWORD    0xe
+    VersionMinor    REG_DWORD    0x24
+    WindowsInstaller    REG_DWORD    0x1
+    Version    REG_DWORD    0xe247f14
+    Language    REG_DWORD    0x409
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532
+

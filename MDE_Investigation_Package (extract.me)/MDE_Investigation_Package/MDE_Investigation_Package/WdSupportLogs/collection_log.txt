@@ -1,0 +1,48 @@
+[2025-08-07 18:35:46.819] [INFO] Starting optimized forensic collection
+[2025-08-07 18:35:46.819] [INFO] Output directory: C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_183546
+[2025-08-07 18:35:46.852] [PROGRESS] Progress: Collecting System Information (8%)
+[2025-08-07 18:35:46.852] [ARTIFACT] Gathering basic system information
+[2025-08-07 18:35:53.436] [ARTIFACT] Collecting network configuration
+[2025-08-07 18:35:53.579] [ARTIFACT] Collecting firewall configuration
+[2025-08-07 18:35:54.128] [PROGRESS] Progress: Collecting Process Information (15%)
+[2025-08-07 18:35:54.139] [MEMORY] Enumerating running processes
+[2025-08-07 18:35:55.028] [MEMORY] Mapping network connections to processes
+[2025-08-07 18:35:55.133] [MEMORY] Identifying suspicious handle counts
+[2025-08-07 18:35:55.147] [PROGRESS] Progress: Collecting Registry Artifacts (23%)
+[2025-08-07 18:35:55.156] [EVIDENCE] Checking registry persistence locations
+[2025-08-07 18:35:55.227] [EVIDENCE] Performing targeted registry scan (optimized)
+[2025-08-07 18:35:55.240] [INFO] Scanning: HKCU:\Software\Microsoft\Windows\CurrentVersion
+[2025-08-07 18:35:55.364] [INFO] Scanning: HKCU:\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion
+[2025-08-07 18:35:55.375] [INFO] Scanning: HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
+[2025-08-07 18:35:55.396] [EVIDENCE] Exporting critical registry hives
+[2025-08-07 18:35:55.441] [PROGRESS] Progress: Collecting Event Logs (31%)
+[2025-08-07 18:35:55.449] [CRITICAL] Collecting Windows Event Logs
+[2025-08-07 18:35:55.457] [CRITICAL] Processing Security events
+[2025-08-07 18:35:59.957] [CRITICAL] Processing System events
+[2025-08-07 18:36:00.296] [CRITICAL] Processing Application events
+[2025-08-07 18:36:00.920] [CRITICAL] Processing Microsoft-Windows-PowerShell/Operational events
+[2025-08-07 18:36:01.641] [CRITICAL] Processing Microsoft-Windows-Windows Defender/Operational events
+[2025-08-07 18:36:01.684] [CRITICAL] Collecting PowerShell script blocks
+[2025-08-07 18:36:02.030] [PROGRESS] Progress: Collecting File System Artifacts (38%)
+[2025-08-07 18:36:02.117] [ARTIFACT] Collecting recent temporary files
+[2025-08-07 18:36:02.238] [ARTIFACT] Collecting prefetch files
+[2025-08-07 18:36:02.263] [ARTIFACT] Finding recently modified executables
+[2025-08-07 18:36:02.276] [PROGRESS] Progress: Collecting WMI Artifacts (46%)
+[2025-08-07 18:36:02.285] [EVIDENCE] Checking for WMI persistence
+[2025-08-07 18:36:02.332] [CRITICAL] WARNING: WMI persistence detected!
+[2025-08-07 18:36:02.424] [PROGRESS] Progress: Collecting Scheduled Tasks (54%)
+[2025-08-07 18:36:02.431] [EVIDENCE] Enumerating scheduled tasks
+[2025-08-07 18:36:03.305] [PROGRESS] Progress: Collecting Services (62%)
+[2025-08-07 18:36:03.313] [EVIDENCE] Enumerating Windows services
+[2025-08-07 18:36:03.457] [EVIDENCE] Identifying non-Microsoft services
+[2025-08-07 18:36:03.844] [PROGRESS] Progress: Collecting Network Artifacts (69%)
+[2025-08-07 18:36:03.851] [EVIDENCE] Collecting network forensics
+[2025-08-07 18:36:04.312] [PROGRESS] Progress: Collecting Attack Artifacts (77%)
+[2025-08-07 18:36:04.326] [CRITICAL] Looking for attack artifacts
+[2025-08-07 18:36:04.332] [CRITICAL] Found attack artifacts at: C:\Users\Admin\AppData\Local\Temp\MDEAdvancedTest_20250807182733
+[2025-08-07 18:36:04.601] [PROGRESS] Progress: Generating Timeline (85%)
+[2025-08-07 18:36:04.606] [INFO] Generating forensic timeline
+[2025-08-07 18:36:04.738] [PROGRESS] Progress: Generating MDE Report (92%)
+[2025-08-07 18:36:04.749] [INFO] Generating MDE integration report
+[2025-08-07 18:36:05.943] [PROGRESS] Progress: Creating Package (100%)
+[2025-08-07 18:36:05.962] [INFO] Creating forensic package: C:\Users\Admin\AppData\Local\Temp\ForensicPackage_20250807_183605.zip

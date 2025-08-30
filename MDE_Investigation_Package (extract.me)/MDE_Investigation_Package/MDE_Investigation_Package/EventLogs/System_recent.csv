@@ -1,0 +1,365 @@
+"TimeCreated","Id","LevelDisplayName","Message"
+"07-08-2025 18:27:07","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-08-2025 18:25:06","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-08-2025 17:56:39","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 17:21:09","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-08-2025 17:19:04","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-08-2025 16:58:48","44","Information","Windows Update started downloading an update."
+"07-08-2025 16:58:31","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 16:26:37","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 16:00:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-08-2025 15:58:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-08-2025 15:35:26","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 15:35:26","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 15:35:26","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 15:15:18","16","Information","The access history in hive \??\C:\ProgramData\Microsoft\Provisioning\Microsoft-Desktop-Provisioning-Sequence.dat was cleared updating 0 keys and creating 0 modified pages."
+"07-08-2025 15:11:48","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 15:11:48","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 15:11:48","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 15:11:23","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 15:11:07","7001","Information","User Log-on Notification for Customer Experience Improvement Program"
+"07-08-2025 15:06:52","19","Information","Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.435.32.0) - Current Channel (Broad)"
+"07-08-2025 15:06:51","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-08-2025 15:06:45","43","Information","Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.435.32.0) - Current Channel (Broad)"
+"07-08-2025 15:06:45","44","Information","Windows Update started downloading an update."
+"07-08-2025 15:01:22","1796","Error","The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+"07-08-2025 15:01:22","1796","Error","The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+"07-08-2025 14:58:40","113","Information","Attempted to add URL (http://+:5985/wsman/) to URL group (0xFE00000320000001). Status: 0x0. Process Id 0x8E8 Executable path \Device\HarddiskVolume3\Windows\System32\svchost.exe, User S-1-5-20"
+"07-08-2025 14:58:40","113","Information","Attempted to add URL (http://+:47001/wsman/) to URL group (0xFE00000320000001). Status: 0x0. Process Id 0x8E8 Executable path \Device\HarddiskVolume3\Windows\System32\svchost.exe, User S-1-5-20"
+"07-08-2025 14:58:40","10148","Information","The WinRM service is listening for WS-Management requests. 
+
+ User Action 
+ Use the following command to see the specific IPs on which WinRM is listening: 
+
+ winrm enumerate winrm/config/listener"
+"07-08-2025 14:57:00","35","Information","The time service is now synchronizing the system time with the time source offense-AD.offense-AD.com (ntp.d|0.0.0.0:123->192.168.52.143:123) with reference id 2402592960. Current local stratum number is 2."
+"07-08-2025 14:56:58","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-08-2025 14:56:46","37","Information","The time provider NtpClient is currently receiving valid time data from offense-AD.offense-AD.com (ntp.d|0.0.0.0:123->192.168.52.143:123)."
+"07-08-2025 14:56:45","1025","Information","The TPM was successfully provisioned and is now ready for use."
+"07-08-2025 14:56:44","37","Information","The time provider NtpClient is currently receiving valid time data from offense-AD.offense-AD.com (ntp.d|0.0.0.0:123->192.168.52.143:123)."
+"07-08-2025 14:56:43","1282","Information","The TBS device identifier has been generated."
+"07-08-2025 14:56:43","5719","Error","This computer was not able to set up a secure session with a domain controller in domain OFFENSE-AD0 due to the following: 
+An internal error occurred. 
+This may lead to authentication problems. Make sure that this computer is connected to the network. If the problem persists, please contact your domain administrator.  
+
+ADDITIONAL INFO 
+If this computer is a domain controller for the specified domain, it sets up the secure session to the primary domain controller emulator in the specified domain. Otherwise, this computer sets up the secure session to any domain controller in the specified domain."
+"07-08-2025 14:56:39","16","Information","The access history in hive \??\C:\WINDOWS\AppCompat\Programs\Amcache.hve was cleared updating 1673 keys and creating 608 modified pages."
+"07-08-2025 14:56:38","1039","Information","Pre-attestation health checks confirm that the device meets most attestation criteria, but failing is still possible.
+ Please see C:\WINDOWS\Logs\MeasuredBoot\0000000031-0000000000.json for detailed information on what checks were made."
+"07-08-2025 14:56:38","1041","Information","Pre-attestation health check detailed information: {""Version"":1,""HealthStatus"":""Possibly attestable"",""Required"":[{""Field"":""TpmPresent"",""Value"":true,""DesiredValue"":true},{""Field"":""TpmMeetsMinimumVersion"",""Value"":true,""DesiredValue"":true},{""Field"":""TpmIsResponsive"",""Value"":true,""DesiredValue"":true},{""Field"":""EkCertIsAvailable"",""Value"":true,""DesiredValue"":true},{""Field"":""TcgLogFound"",""Value"":true,""DesiredValue"":true}],""Expected"":[{""Field"":""PcrsMatchTcgLog"",""Value"":false,""DesiredValue"":true,""DiagnosticInfo"":{""SoftwarePcrReplayHresult"":0,""HardwarePcrReplayHresult"":0,""BitMaskOfPcrMismatches"":1}}],""Informational"":[{""Field"":""SecureBootEnabled"",""ValueFromComputer"":false,""ValueFromTcgLog"":false,""DesiredValue"":true,""TcgValueIsVerifiable"":true},{""Field"":""VirtualSecureMemory"",""ValueFromComputer"":false,""ValueFromTcgLog"":false,""DesiredValue"":true,""TcgValueIsVerifiable"":true},{""Field"":""SecureCorePCCompliant"",""ValueFromComputer"":false,""ValueFromTcgLog"":false,""DesiredValue"":true,""TcgValueIsVerifiable"":true}]}"
+"07-08-2025 14:56:38","2042","Error","Config Read Failed
+
+Config:	18
+Error:	More data is available."
+"07-08-2025 14:56:38","18","Information","This event triggers the Trusted Platform Module (TPM) provisioning/status check to run."
+"07-08-2025 14:56:38","7026","Information","The following boot-start or system-start driver(s) did not load: 
+dam
+uiomap"
+"07-08-2025 14:56:36","1","Information","The system time has changed to ?2025?-?08?-?07T09:26:36.731000000Z from ?2025?-?08?-?07T09:26:23.170078700Z.
+Time Delta: 13560 ms
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe' (PID 2996).
+
+RTC time: ?2025?-?08?-?07T14:56:36.731000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+"07-08-2025 14:56:36","24","Information","The time zone information was refreshed with exit reason 0. Current time zone bias is -330."
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://+:80/116B50EB-ECE2-41ac-8429-9F9E963361B7/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL https://+:443/C574AC30-5794-4AEE-B1BB-6651C5315029/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://+:80/0131501b-d67f-491b-9a40-c4bf27bcb4d4/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://+:3387/rdp/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL https://+:3392/rdp/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://+:10243/WMPNSSv4/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL https://+:10245/WMPNSSv4/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://+:10247/apps/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL https://+:443/sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://+:10246/MDEServer/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://+:5985/wsman/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://+:47001/wsman/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL https://+:5986/wsman/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://*:2869/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL https://*:5358/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://+:80/Temporary_Listen_Addresses/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","112","Information","Attempted to reserve URL http://*:5357/. Status 0x0. Process Id 0x4 Executable path , User S-1-5-18"
+"07-08-2025 14:56:21","6","Information","File System Filter 'bindflt' (10.0, ?1980?-?11?-?15T01:14:47.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:21","6","Information","File System Filter 'storqosflt' (10.0, ?2021?-?03?-?19T16:17:34.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:21","6","Information","File System Filter 'CldFlt' (10.0, ?1980?-?03?-?09T13:15:50.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:21","1","Information","File System Filter 'CldFlt' (Version 10.0, ?1980?-?03?-?09T13:15:50.000000000Z) unloaded successfully."
+"07-08-2025 14:56:21","6","Information","File System Filter 'CldFlt' (10.0, ?1980?-?03?-?09T13:15:50.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:21","6","Information","File System Filter 'UnionFS' (10.0, ?2047?-?02?-?21T16:31:20.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:21","6","Information","File System Filter 'luafv' (10.0, ?2105?-?10?-?05T11:24:15.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:21","6","Information","File System Filter 'wcifs' (10.0, ?2089?-?02?-?14T00:43:54.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:21","6","Information","File System Filter 'bfs' (10.0, ?1975?-?06?-?19T08:00:51.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:20","51046","Information","DHCPv6 client service is started"
+"07-08-2025 14:56:20","50036","Information","DHCPv4 client service is started"
+"07-08-2025 14:56:20","50103","Information","DHCPv4 client registered for shutdown notification"
+"07-08-2025 14:56:20","50036","Information","DHCPv4 client service is started"
+"07-08-2025 14:56:20","16","Information","The access history in hive \??\C:\WINDOWS\ServiceProfiles\LocalService\NTUSER.DAT was cleared updating 193 keys and creating 22 modified pages."
+"07-08-2025 14:56:20","16","Information","The access history in hive \SystemRoot\System32\Config\BBI was cleared updating 1267 keys and creating 260 modified pages."
+"07-08-2025 14:56:20","16","Information","The access history in hive \??\C:\WINDOWS\ServiceProfiles\NetworkService\NTUSER.DAT was cleared updating 174 keys and creating 21 modified pages."
+"07-08-2025 14:56:20","16993","Information","The security account manager successfully initialized the Local Administrator Password Solution (LAPS) extension dll.
+"
+"07-08-2025 14:56:20","16983","Information","The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.
+
+For more information please see https://go.microsoft.com/fwlink/?linkid=2150956.
+"
+"07-08-2025 14:56:20","16977","Information","The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 7
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+"
+"07-08-2025 14:56:20","16962","Information","Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651."
+"07-08-2025 14:56:20","6156","Information","Credential Guard auto enablement status.
+
+Hardware Requirements for Virtualisation Based Security:	1
+Domain Joined:	1
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+"07-08-2025 14:56:20","14","Information","Credential Guard configuration:
+
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+"07-08-2025 14:56:19","23","Information","Boot App Anti-Rollback: Initialise Completed with status:
+HRESULT: The operation completed successfully.
+New timer needed: false
+New timer waiting for system update completion: false
+Previous latch timer exists but disabled by registry: false
+"
+"07-08-2025 14:56:19","25","Information","Boot App Anti-Rollback: Previous timer resumed with status:
+
+HRESULT: The operation completed successfully.
+Previous timer present: true
+Start time: ?2025?-?07?-?10T10:02:02.944930900Z
+Grace period: 51840000000000
+Attempted recovery enforcement succeeded: false
+"
+"07-08-2025 14:56:19","24","Information","Boot App Anti-Rollback: Timer start completed with status:
+
+Win32Error: 0
+Start time: ?2025?-?07?-?10T10:02:02.944930900Z
+Grace period: 51840000000000
+Due time: ?2025?-?09?-?08T10:02:02.944930900Z
+"
+"07-08-2025 14:56:19","19","Information","Virtualisation Based Security new timer creation status
+
+HRESULT: The operation completed successfully.
+New latch timer needed: false
+New latch timer waiting for system update completion: false
+Previous latch timer exists but disabled by registry: false
+Policy file exists: false
+"
+"07-08-2025 14:56:19","16","Information","The access history in hive \Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD was cleared updating 65 keys and creating 4 modified pages."
+"07-08-2025 14:56:19","24","Information","The time zone information was refreshed with exit reason 0. Current time zone bias is -330."
+"07-08-2025 14:56:19","15","Information","Hive \SystemRoot\System32\Config\SOFTWARE was reorganized with a starting size of 83783680 bytes and an ending size of 83628032 bytes."
+"07-08-2025 14:56:18","6","Information","File System Filter 'MsSecFlt' (10.0, ?1985?-?05?-?29T17:52:25.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:18","32","Information","Intel(R) 82574L Gigabit Network Connection
+ Network link has been established at 1Gbps full duplex.
+"
+"07-08-2025 14:56:17","16","Information","The access history in hive \Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD was cleared updating 65 keys and creating 4 modified pages."
+"07-08-2025 14:56:17","16","Information","The access history in hive \Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD was cleared updating 65 keys and creating 4 modified pages."
+"07-08-2025 14:56:17","16","Information","The access history in hive \Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD was cleared updating 65 keys and creating 4 modified pages."
+"07-08-2025 14:56:17","98","Information","Volume \\?\Volume{f6259bb7-e542-4271-b3bf-9c159bbfd4f9} (\Device\HarddiskVolume4) is healthy.  No action is needed."
+"07-08-2025 14:56:17","16","Information","The access history in hive \Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD was cleared updating 65 keys and creating 4 modified pages."
+"07-08-2025 14:56:17","55","Information","Processor 3 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2419
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+"07-08-2025 14:56:17","55","Information","Processor 2 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2419
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+"07-08-2025 14:56:17","55","Information","Processor 1 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2419
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+"07-08-2025 14:56:17","55","Information","Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2419
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+"07-08-2025 14:56:17","16","Information","The access history in hive \SystemRoot\System32\Config\DEFAULT was cleared updating 796 keys and creating 104 modified pages."
+"07-08-2025 14:56:17","16","Information","The access history in hive \SystemRoot\System32\Config\SAM was cleared updating 76 keys and creating 8 modified pages."
+"07-08-2025 14:56:17","16","Information","The access history in hive \SystemRoot\System32\Config\SECURITY was cleared updating 95 keys and creating 6 modified pages."
+"07-08-2025 14:56:17","172","Information","Connectivity state in standby: Disconnected, Reason: NIC compliance"
+"07-08-2025 14:56:17","6","Information","File System Filter 'npsvctrig' (10.0, ?1978?-?05?-?14T14:43:30.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:17","6","Information","File System Filter 'UCPD' (10.0, ?2007?-?02?-?05T11:00:28.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:17","6","Information","File System Filter 'FileCrypt' (10.0, ?2075?-?09?-?01T03:37:07.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:21","5719","Error","This computer was not able to set up a secure session with a domain controller in domain OFFENSE-AD0 due to the following: 
+We can't sign you in with this credential because your domain isn't available. Make sure your device is connected to your organization's network and try again. If you previously signed in on this device with another credential, you can sign in with that credential. 
+This may lead to authentication problems. Make sure that this computer is connected to the network. If the problem persists, please contact your domain administrator.  
+
+ADDITIONAL INFO 
+If this computer is a domain controller for the specified domain, it sets up the secure session to the primary domain controller emulator in the specified domain. Otherwise, this computer sets up the secure session to any domain controller in the specified domain."
+"07-08-2025 14:56:17","98","Information","Volume C: (\Device\HarddiskVolume3) is healthy.  No action is needed."
+"07-08-2025 14:56:17","6","Information","File System Filter 'WdFilter' (10.0, ?2020?-?11?-?18T22:54:15.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:17","6","Information","File System Filter 'Wof' (10.0, ?2020?-?04?-?29T23:32:48.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:17","6","Information","File System Filter 'FileInfo' (10.0, ?2093?-?04?-?02T06:59:43.000000000Z) has successfully loaded and registered with Filter Manager."
+"07-08-2025 14:56:15","3","Information","VMCI: Using capabilities (0x1c).
+"
+"07-08-2025 14:56:13","16","Information","IOMMU fault reporting has been initialized."
+"07-08-2025 14:56:13","20","Information","The leap second configuration has been updated.
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+"07-08-2025 14:56:13","32","Information","The bootmgr spent 0 ms waiting for user input."
+"07-08-2025 14:56:13","18","Information","There are 0x1 boot options on this system."
+"07-08-2025 14:56:13","27","Information","The boot type was 0x0."
+"07-08-2025 14:56:13","25","Information","The boot menu policy was 0x1."
+"07-08-2025 14:56:13","238","Information","EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ?2025?-?08?-?07T14:56:11.000000000Z."
+"07-08-2025 14:56:13","247","Information","Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware."
+"07-08-2025 14:56:13","20","Information","The last shutdown's success status was true. The last boot's success status was true."
+"07-08-2025 14:56:13","153","Information","Virtualization-based security (policies: 0) is disabled."
+"07-08-2025 14:56:13","25","Information","The system time was initialized to ?2025?-?08?-?07T09:26:12.500000000Z. 
+
+Loader time: ?2025?-?08?-?07T09:26:11.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+"07-08-2025 14:56:13","12","Information","The operating system started at system time ?2025?-?08?-?07T09:26:12.500000000Z."
+"07-08-2025 14:56:05","13","Information","The operating system is shutting down at system time ?2025?-?08?-?07T09:26:05.444859000Z."
+"07-08-2025 14:56:05","577","Information","The system has prepared for a system initiated reboot from Active."
+"07-08-2025 14:56:03","109","Information","The kernel power manager has initiated a shutdown transition.
+
+Action: Power Action Reboot 
+Event Code: 0x0 
+Reason: Kernel API"
+"07-08-2025 14:56:21","6013","Information","The system uptime is 8 seconds."
+"07-08-2025 14:56:21","6005","Information","The Event log service was started."
+"07-08-2025 14:56:21","6009","Information","Microsoft (R) Windows (R) 10.00. 26100  Multiprocessor Free."
+"07-08-2025 14:56:02","50037","Information","DHCPv4 client service is stopped. ShutDown Flag value is 1"
+"07-08-2025 14:56:02","51057","Information","DHCPv6 client service stop is almost done.DHCP Context Ref count is 1"
+"07-08-2025 14:56:02","51047","Information","DHCPv6 client service is stopped. ShutDown Flag value is 1"
+"07-08-2025 14:56:02","50106","Information","DHCPv4 is waiting on DHCPv6 service to stop"
+"07-08-2025 14:56:02","114","Information","Removed URL (http://+:5985/wsman/) from URL group (0xFE00000320000001). Process Id 0x940 Executable path \Device\HarddiskVolume3\Windows\System32\svchost.exe, User S-1-5-20"
+"07-08-2025 14:56:02","114","Information","Removed URL (http://+:47001/wsman/) from URL group (0xFE00000320000001). Process Id 0x940 Executable path \Device\HarddiskVolume3\Windows\System32\svchost.exe, User S-1-5-20"
+"07-08-2025 14:56:02","50105","Information","DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT"
+"07-08-2025 14:56:02","1","Information","The system time has changed to ?2025?-?08?-?07T09:26:02.422097400Z from ?2025?-?08?-?07T09:26:02.421691600Z.
+Time Delta: 0 ms
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 1328).
+
+RTC time: ?2025?-?08?-?07T14:56:02.422097400Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+"07-08-2025 14:56:02","24","Information","The time zone information was refreshed with exit reason 0. Current time zone bias is -330."
+"07-08-2025 14:56:02","50104","Information","DHCPv4 client received shutdown notification"
+"07-08-2025 14:56:02","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a pre-shutdown control."
+"07-08-2025 14:56:02","6006","Information","The Event log service was stopped."
+"07-08-2025 14:55:36","7002","Information","User Log-off Notification for Customer Experience Improvement Program"
+"07-08-2025 14:55:35","100","Warning","Process C:\Windows\explorer.exe is delaying system shutdown after 5031 milliseconds."
+"07-08-2025 14:55:27","1074","Information","The process C:\Windows\System32\RuntimeBroker.exe (AVIRUP-1) has initiated the restart of computer AVIRUP-1 on behalf of user AVIRUP-1\Admin for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shut-down Type: restart
+ Comment: "
+"07-08-2025 14:53:57","1796","Error","The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+"07-08-2025 14:53:57","1796","Error","The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+"07-08-2025 14:40:57","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-08-2025 14:22:11","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-08-2025 14:21:55","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 14:21:55","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 14:21:55","17","Information","The Trusted Platform Module (TPM) hardware failed to execute a TPM command."
+"07-08-2025 13:47:12","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 13:18:31","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 12:01:13","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 12:00:00","6013","Information","The system uptime is 62120 seconds."
+"07-08-2025 11:59:47","6013","Information","The system uptime is 62107 seconds."
+"07-08-2025 11:28:31","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 11:22:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-08-2025 11:20:37","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-08-2025 10:15:12","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 09:38:31","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 08:29:12","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 07:48:31","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 06:43:13","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 05:58:31","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 04:57:12","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 04:52:31","19","Information","Installation Successful: Windows successfully installed the following update: 9WZDNCRD29V9-MICROSOFT.MICROSOFTOFFICEHUB"
+"07-08-2025 04:52:30","43","Information","Installation Started: Windows has started installing the following update: 9WZDNCRD29V9-MICROSOFT.MICROSOFTOFFICEHUB"
+"07-08-2025 04:52:29","16","Information","The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.MicrosoftOfficeHub_19.2508.31121.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages."
+"07-08-2025 04:52:24","44","Information","Windows Update started downloading an update."
+"07-08-2025 04:52:19","44","Information","Windows Update started downloading an update."
+"07-08-2025 04:51:58","19","Information","Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.435.25.0) - Current Channel (Broad)"
+"07-08-2025 04:51:47","43","Information","Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.435.25.0) - Current Channel (Broad)"
+"07-08-2025 04:51:47","44","Information","Windows Update started downloading an update."
+"07-08-2025 04:51:44","16","Information","The access history in hive \??\C:\WINDOWS\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\State\dosvcState.dat was cleared updating 4 keys and creating 1 modified pages."
+"07-08-2025 04:22:30","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-08-2025 04:20:28","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-08-2025 04:08:32","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 03:11:13","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 02:53:57","1796","Error","The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+"07-08-2025 02:53:57","1796","Error","The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+"07-08-2025 02:18:31","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 01:25:12","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 00:28:31","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"07-08-2025 00:06:13","7045","Information","A service was installed in the system.
+
+Service Name:  FakeUpdaterSvc_20250807_000612
+Service File Name:  C:\Windows\System32\cmd.exe /c exit
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"06-08-2025 23:39:13","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"06-08-2025 22:38:31","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"06-08-2025 22:25:55","50","Warning","The time service detected a time difference of greater than 5000 milliseconds for 900 seconds. The time difference might be caused by synchronization with low-accuracy time sources or by suboptimal network conditions. The time service is no longer synchronized and cannot provide the time to other clients or update the system clock. When a valid time stamp is received from a time service provider, the time service will correct itself."
+"06-08-2025 22:02:27","19","Information","Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.435.14.0) - Current Channel (Broad)"
+"06-08-2025 22:02:17","43","Information","Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.435.14.0) - Current Channel (Broad)"
+"06-08-2025 22:02:17","44","Information","Windows Update started downloading an update."
+"06-08-2025 21:59:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"06-08-2025 21:57:11","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"06-08-2025 21:56:49","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"06-08-2025 21:56:43","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"06-08-2025 21:56:34","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"06-08-2025 21:56:09","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"06-08-2025 21:53:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"06-08-2025 21:53:12","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"06-08-2025 21:51:54","7031","Error","The Microsoft Defender Antivirus Service service terminated unexpectedly. It has done this 1 time(s). The following corrective action will be taken in 1000 milliseconds: Restart the service."
+"06-08-2025 21:51:37","1500","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"06-08-2025 21:51:37","1501","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy."
+"06-08-2025 21:51:37","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"06-08-2025 21:51:36","1","Information","The system time has changed to ?2025?-?08?-?06T16:21:36.586000000Z from ?2025?-?08?-?06T12:25:58.010058000Z.
+Time Delta: 14138575 ms
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe' (PID 3064).
+
+RTC time: ?2025?-?08?-?06T21:51:36.586000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+"06-08-2025 21:51:36","24","Information","The time zone information was refreshed with exit reason 0. Current time zone bias is -330."

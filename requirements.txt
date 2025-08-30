@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+pandas
+numpy
+joblib
+sentence-transformers
+faiss-cpu
+pypdf
+requests
+ibm-watsonx-ai

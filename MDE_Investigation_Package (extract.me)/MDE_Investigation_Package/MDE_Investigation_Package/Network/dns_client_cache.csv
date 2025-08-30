@@ -1,0 +1,8 @@
+"Name","Type","TimeToLive","Data"
+"161.52.168.192.in-addr.arpa.","12","591609","red-vm.alex.ibm.com"
+"","28","0",
+"firewall03_ew4k4.ibm.com","1","591609","20.115.224.42"
+"red-vm.alex.ibm.com","1","591609","192.168.52.161"
+"","28","0",
+"offense-AD.offense-AD.com","1","1220","192.168.52.143"
+"42.224.115.20.in-addr.arpa.","12","591609","firewall03_ew4k4.ibm.com"

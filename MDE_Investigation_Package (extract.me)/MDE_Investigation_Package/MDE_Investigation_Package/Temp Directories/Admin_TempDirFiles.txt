@@ -1,0 +1,1711 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FCCE-4B22
+
+ Directory of C:\Users\Admin\AppData\Local\Temp
+
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  14:22    <DIR>          AVIRUP-1\Admin         ..
+07-08-2025  15:12                53 AVIRUP-1\Admin         .ses
+07-08-2025  18:27                51 BUILTIN\Administrators cryptsp.dll
+07-08-2025  18:11             1,083 AVIRUP-1\Admin         cv_debug.log
+04-08-2025  20:22    <DIR>          AVIRUP-1\Admin         edge_BITS_7316_1608916317
+04-08-2025  20:23    <DIR>          AVIRUP-1\Admin         edge_BITS_7316_1753335480
+05-08-2025  06:24    <DIR>          AVIRUP-1\Admin         edge_BITS_7316_247353410
+07-08-2025  14:36    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_1013642471
+07-08-2025  14:33    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_1282794009
+07-08-2025  14:34    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_1524088554
+07-08-2025  14:31    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_1714464018
+07-08-2025  14:23    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_1808335411
+07-08-2025  14:23    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_1833628128
+07-08-2025  14:27    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_1961123207
+07-08-2025  14:26    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_196891482
+07-08-2025  14:29    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_1986428464
+07-08-2025  14:24    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_269587448
+07-08-2025  14:30    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_320570013
+07-08-2025  14:25    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_356746726
+07-08-2025  14:32    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_412581485
+07-08-2025  14:28    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_525135566
+07-08-2025  14:23    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_556105527
+07-08-2025  14:37    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_645660977
+07-08-2025  14:22    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_646718149
+07-08-2025  14:38    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_689088045
+07-08-2025  14:25    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_805620982
+07-08-2025  14:24    <DIR>          AVIRUP-1\Admin         edge_BITS_9984_968439121
+07-08-2025  17:39         4,682,935 AVIRUP-1\Admin         ef78db0c-31dd-48aa-8f44-ea1a9829e926.tmp
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators ForensicCollection_20250807_155735
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ForensicCollection_20250807_160810
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators ForensicCollection_20250807_182824
+07-08-2025  18:07         9,921,594 BUILTIN\Administrators ForensicPackage_20250807_180723.zip
+04-08-2025  19:18    <DIR>          AVIRUP-1\Admin         ListSync
+03-07-2025  19:33    <DIR>          AVIRUP-1\Admin         Low
+04-08-2025  19:18        89,711,320 BUILTIN\Administrators lsass.DMP
+07-08-2025  16:13                 0 AVIRUP-1\Admin         mat-debug-9892.log
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators MDEAdvancedTest_20250807182733
+07-08-2025  16:08    <DIR>          BUILTIN\Administrators MDETestArtifacts
+07-08-2025  18:27               148 BUILTIN\Administrators mde_test_marker_8bdd81b5-86e8-4dd4-9613-9dfe427be5e7.txt
+07-08-2025  18:27                51 BUILTIN\Administrators mscoree.dll
+06-08-2025  14:59    <DIR>          AVIRUP-1\Admin         msedge_url_fetcher_6284_958532291
+07-08-2025  14:23            82,033 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208.log
+07-08-2025  14:22            89,504 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208_000_core_JustForMe.log
+07-08-2025  14:22           118,912 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208_001_exe_JustForMe.log
+07-08-2025  14:22           638,184 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208_002_dev_JustForMe.log
+07-08-2025  14:22         1,405,312 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208_003_lib_JustForMe.log
+07-08-2025  14:22         3,956,960 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208_004_test_JustForMe.log
+07-08-2025  14:22         1,346,078 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208_005_doc_JustForMe.log
+07-08-2025  14:22         2,690,794 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208_006_tcltk_JustForMe.log
+07-08-2025  14:22           109,502 BUILTIN\Administrators Python 3.13.6 (64-bit)_20250807142208_007_launcher_AllUsers.log
+07-08-2025  14:22           116,672 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208_008_pip_JustForMe.log
+07-08-2025  14:22            90,340 AVIRUP-1\Admin         Python 3.13.6 (64-bit)_20250807142208_009_path_JustForMe.log
+07-08-2025  18:28               722 BUILTIN\Administrators RESTORE_FILES.txt
+07-08-2025  18:27                51 BUILTIN\Administrators version.dll
+05-08-2025  04:10            97,108 AVIRUP-1\Admin         wct1795.tmp
+02-08-2025  05:15            96,903 AVIRUP-1\Admin         wct1A2B.tmp
+06-08-2025  04:55            97,117 AVIRUP-1\Admin         wct2733.tmp
+07-08-2025  05:20            97,214 AVIRUP-1\Admin         wct46C7.tmp
+06-08-2025  19:20            97,118 AVIRUP-1\Admin         wct590E.tmp
+07-08-2025  05:20            97,214 AVIRUP-1\Admin         wct7236.tmp
+04-08-2025  20:33               899 AVIRUP-1\Admin         wct7778.tmp
+07-08-2025  05:20            97,214 AVIRUP-1\Admin         wctA06B.tmp
+02-08-2025  05:15            96,903 AVIRUP-1\Admin         wctB24A.tmp
+17-07-2025  00:04        91,703,144 AVIRUP-1\Admin         wctB24B.tmp
+16-07-2025  21:55        91,936,104 AVIRUP-1\Admin         wctBC73.tmp
+02-08-2025  05:15            96,903 AVIRUP-1\Admin         wctC6BC.tmp
+06-08-2025  04:55            97,117 AVIRUP-1\Admin         wctCBB5.tmp
+06-08-2025  04:55            97,117 AVIRUP-1\Admin         wctD37.tmp
+02-08-2025  05:15            96,903 AVIRUP-1\Admin         wctF1D7.tmp
+03-07-2025  19:26    <DIR>          AVIRUP-1\Admin         WinGet
+03-07-2025  19:12    <DIR>          BUILTIN\Administrators WinSAT
+07-08-2025  15:52    <DIR>          BUILTIN\Administrators WPF
+06-08-2025  22:02                 0 AVIRUP-1\Admin         xml_file (10).xml
+05-08-2025  21:43                 0 AVIRUP-1\Admin         xml_file (100).xml
+05-08-2025  21:44                 0 AVIRUP-1\Admin         xml_file (101).xml
+05-08-2025  21:44                 0 AVIRUP-1\Admin         xml_file (102).xml
+05-08-2025  21:45                 0 AVIRUP-1\Admin         xml_file (103).xml
+05-08-2025  21:45                 0 AVIRUP-1\Admin         xml_file (104).xml
+05-08-2025  21:46                 0 AVIRUP-1\Admin         xml_file (105).xml
+05-08-2025  21:46                 0 AVIRUP-1\Admin         xml_file (106).xml
+05-08-2025  21:48                 0 AVIRUP-1\Admin         xml_file (107).xml
+05-08-2025  21:48                 0 AVIRUP-1\Admin         xml_file (108).xml
+05-08-2025  21:50                 0 AVIRUP-1\Admin         xml_file (109).xml
+06-08-2025  22:04                 0 AVIRUP-1\Admin         xml_file (11).xml
+05-08-2025  21:50                 0 AVIRUP-1\Admin         xml_file (110).xml
+05-08-2025  21:51                 0 AVIRUP-1\Admin         xml_file (111).xml
+05-08-2025  21:51                 0 AVIRUP-1\Admin         xml_file (112).xml
+05-08-2025  21:53                 0 AVIRUP-1\Admin         xml_file (113).xml
+05-08-2025  21:53                 0 AVIRUP-1\Admin         xml_file (114).xml
+05-08-2025  22:18                 0 AVIRUP-1\Admin         xml_file (115).xml
+05-08-2025  22:18                 0 AVIRUP-1\Admin         xml_file (116).xml
+05-08-2025  22:23                 0 AVIRUP-1\Admin         xml_file (117).xml
+05-08-2025  22:23                 0 AVIRUP-1\Admin         xml_file (118).xml
+05-08-2025  22:24                 0 AVIRUP-1\Admin         xml_file (119).xml
+06-08-2025  22:04                 0 AVIRUP-1\Admin         xml_file (12).xml
+05-08-2025  22:24                 0 AVIRUP-1\Admin         xml_file (120).xml
+05-08-2025  22:25                 0 AVIRUP-1\Admin         xml_file (121).xml
+05-08-2025  22:25                 0 AVIRUP-1\Admin         xml_file (122).xml
+05-08-2025  22:26                 0 AVIRUP-1\Admin         xml_file (123).xml
+05-08-2025  22:26                 0 AVIRUP-1\Admin         xml_file (124).xml
+05-08-2025  22:28                 0 AVIRUP-1\Admin         xml_file (125).xml
+05-08-2025  22:28                 0 AVIRUP-1\Admin         xml_file (126).xml
+05-08-2025  22:30                 0 AVIRUP-1\Admin         xml_file (127).xml
+05-08-2025  22:30                 0 AVIRUP-1\Admin         xml_file (128).xml
+05-08-2025  22:31                 0 AVIRUP-1\Admin         xml_file (129).xml
+06-08-2025  22:05                 0 AVIRUP-1\Admin         xml_file (13).xml
+05-08-2025  22:31                 0 AVIRUP-1\Admin         xml_file (130).xml
+05-08-2025  22:33                 0 AVIRUP-1\Admin         xml_file (131).xml
+05-08-2025  22:33                 0 AVIRUP-1\Admin         xml_file (132).xml
+06-08-2025  13:32                 0 AVIRUP-1\Admin         xml_file (133).xml
+06-08-2025  13:32                 0 AVIRUP-1\Admin         xml_file (134).xml
+06-08-2025  13:33                 0 AVIRUP-1\Admin         xml_file (135).xml
+06-08-2025  13:33                 0 AVIRUP-1\Admin         xml_file (136).xml
+06-08-2025  13:34                 0 AVIRUP-1\Admin         xml_file (137).xml
+06-08-2025  13:34                 0 AVIRUP-1\Admin         xml_file (138).xml
+06-08-2025  13:35                 0 AVIRUP-1\Admin         xml_file (139).xml
+06-08-2025  22:05                 0 AVIRUP-1\Admin         xml_file (14).xml
+06-08-2025  13:35                 0 AVIRUP-1\Admin         xml_file (140).xml
+06-08-2025  13:36                 0 AVIRUP-1\Admin         xml_file (141).xml
+06-08-2025  13:36                 0 AVIRUP-1\Admin         xml_file (142).xml
+06-08-2025  13:38                 0 AVIRUP-1\Admin         xml_file (143).xml
+06-08-2025  13:38                 0 AVIRUP-1\Admin         xml_file (144).xml
+06-08-2025  13:40                 0 AVIRUP-1\Admin         xml_file (145).xml
+06-08-2025  13:40                 0 AVIRUP-1\Admin         xml_file (146).xml
+06-08-2025  13:41                 0 AVIRUP-1\Admin         xml_file (147).xml
+06-08-2025  13:41                 0 AVIRUP-1\Admin         xml_file (148).xml
+06-08-2025  14:34                 0 AVIRUP-1\Admin         xml_file (149).xml
+07-08-2025  00:06                 0 AVIRUP-1\Admin         xml_file (15).xml
+06-08-2025  14:34                 0 AVIRUP-1\Admin         xml_file (150).xml
+06-08-2025  14:35                 0 AVIRUP-1\Admin         xml_file (151).xml
+06-08-2025  14:35                 0 AVIRUP-1\Admin         xml_file (152).xml
+06-08-2025  14:36                 0 AVIRUP-1\Admin         xml_file (153).xml
+06-08-2025  14:36                 0 AVIRUP-1\Admin         xml_file (154).xml
+06-08-2025  14:37                 0 AVIRUP-1\Admin         xml_file (155).xml
+06-08-2025  14:37                 0 AVIRUP-1\Admin         xml_file (156).xml
+06-08-2025  14:38                 0 AVIRUP-1\Admin         xml_file (157).xml
+06-08-2025  14:38                 0 AVIRUP-1\Admin         xml_file (158).xml
+06-08-2025  14:39                 0 AVIRUP-1\Admin         xml_file (159).xml
+07-08-2025  00:06                 0 AVIRUP-1\Admin         xml_file (16).xml
+06-08-2025  14:39                 0 AVIRUP-1\Admin         xml_file (160).xml
+06-08-2025  15:03                 0 AVIRUP-1\Admin         xml_file (161).xml
+06-08-2025  15:03                 0 AVIRUP-1\Admin         xml_file (162).xml
+06-08-2025  15:04                 0 AVIRUP-1\Admin         xml_file (163).xml
+06-08-2025  15:04                 0 AVIRUP-1\Admin         xml_file (164).xml
+06-08-2025  15:05                 0 AVIRUP-1\Admin         xml_file (165).xml
+06-08-2025  15:05                 0 AVIRUP-1\Admin         xml_file (166).xml
+06-08-2025  15:06                 0 AVIRUP-1\Admin         xml_file (167).xml
+06-08-2025  15:06                 0 AVIRUP-1\Admin         xml_file (168).xml
+06-08-2025  15:07                 0 AVIRUP-1\Admin         xml_file (169).xml
+07-08-2025  00:09                 0 AVIRUP-1\Admin         xml_file (17).xml
+06-08-2025  15:07                 0 AVIRUP-1\Admin         xml_file (170).xml
+06-08-2025  15:08                 0 AVIRUP-1\Admin         xml_file (171).xml
+06-08-2025  15:08                 0 AVIRUP-1\Admin         xml_file (172).xml
+06-08-2025  15:10                 0 AVIRUP-1\Admin         xml_file (173).xml
+06-08-2025  15:10                 0 AVIRUP-1\Admin         xml_file (174).xml
+06-08-2025  15:12                 0 AVIRUP-1\Admin         xml_file (175).xml
+06-08-2025  15:12                 0 AVIRUP-1\Admin         xml_file (176).xml
+06-08-2025  15:13                 0 AVIRUP-1\Admin         xml_file (177).xml
+06-08-2025  15:13                 0 AVIRUP-1\Admin         xml_file (178).xml
+06-08-2025  15:23                 0 AVIRUP-1\Admin         xml_file (179).xml
+07-08-2025  00:09                 0 AVIRUP-1\Admin         xml_file (18).xml
+06-08-2025  15:23                 0 AVIRUP-1\Admin         xml_file (180).xml
+06-08-2025  15:24                 0 AVIRUP-1\Admin         xml_file (181).xml
+06-08-2025  15:24                 0 AVIRUP-1\Admin         xml_file (182).xml
+06-08-2025  15:25                 0 AVIRUP-1\Admin         xml_file (183).xml
+06-08-2025  15:25                 0 AVIRUP-1\Admin         xml_file (184).xml
+06-08-2025  15:26                 0 AVIRUP-1\Admin         xml_file (185).xml
+06-08-2025  15:26                 0 AVIRUP-1\Admin         xml_file (186).xml
+06-08-2025  15:27                 0 AVIRUP-1\Admin         xml_file (187).xml
+06-08-2025  15:27                 0 AVIRUP-1\Admin         xml_file (188).xml
+06-08-2025  15:28                 0 AVIRUP-1\Admin         xml_file (189).xml
+07-08-2025  00:10                 0 AVIRUP-1\Admin         xml_file (19).xml
+06-08-2025  15:28                 0 AVIRUP-1\Admin         xml_file (190).xml
+06-08-2025  15:30                 0 AVIRUP-1\Admin         xml_file (191).xml
+06-08-2025  15:30                 0 AVIRUP-1\Admin         xml_file (192).xml
+06-08-2025  15:31                 0 AVIRUP-1\Admin         xml_file (193).xml
+06-08-2025  15:31                 0 AVIRUP-1\Admin         xml_file (194).xml
+06-08-2025  15:32                 0 AVIRUP-1\Admin         xml_file (195).xml
+06-08-2025  15:32                 0 AVIRUP-1\Admin         xml_file (196).xml
+06-08-2025  15:34                 0 AVIRUP-1\Admin         xml_file (197).xml
+06-08-2025  15:34                 0 AVIRUP-1\Admin         xml_file (198).xml
+06-08-2025  15:35                 0 AVIRUP-1\Admin         xml_file (199).xml
+06-08-2025  21:57                 0 AVIRUP-1\Admin         xml_file (2).xml
+07-08-2025  00:10                 0 AVIRUP-1\Admin         xml_file (20).xml
+06-08-2025  15:35                 0 AVIRUP-1\Admin         xml_file (200).xml
+06-08-2025  16:28                 0 AVIRUP-1\Admin         xml_file (201).xml
+06-08-2025  16:28                 0 AVIRUP-1\Admin         xml_file (202).xml
+06-08-2025  16:29                 0 AVIRUP-1\Admin         xml_file (203).xml
+06-08-2025  16:29                 0 AVIRUP-1\Admin         xml_file (204).xml
+06-08-2025  16:30                 0 AVIRUP-1\Admin         xml_file (205).xml
+06-08-2025  16:30                 0 AVIRUP-1\Admin         xml_file (206).xml
+06-08-2025  16:31                 0 AVIRUP-1\Admin         xml_file (207).xml
+06-08-2025  16:31                 0 AVIRUP-1\Admin         xml_file (208).xml
+06-08-2025  16:32                 0 AVIRUP-1\Admin         xml_file (209).xml
+07-08-2025  00:11                 0 AVIRUP-1\Admin         xml_file (21).xml
+06-08-2025  16:32                 0 AVIRUP-1\Admin         xml_file (210).xml
+06-08-2025  16:33                 0 AVIRUP-1\Admin         xml_file (211).xml
+06-08-2025  16:33                 0 AVIRUP-1\Admin         xml_file (212).xml
+06-08-2025  16:35                 0 AVIRUP-1\Admin         xml_file (213).xml
+06-08-2025  16:35                 0 AVIRUP-1\Admin         xml_file (214).xml
+06-08-2025  16:36                 0 AVIRUP-1\Admin         xml_file (215).xml
+06-08-2025  16:36                 0 AVIRUP-1\Admin         xml_file (216).xml
+06-08-2025  16:38                 0 AVIRUP-1\Admin         xml_file (217).xml
+06-08-2025  16:38                 0 AVIRUP-1\Admin         xml_file (218).xml
+06-08-2025  16:39                 0 AVIRUP-1\Admin         xml_file (219).xml
+07-08-2025  00:11                 0 AVIRUP-1\Admin         xml_file (22).xml
+06-08-2025  16:39                 0 AVIRUP-1\Admin         xml_file (220).xml
+06-08-2025  16:40                 0 AVIRUP-1\Admin         xml_file (221).xml
+06-08-2025  16:40                 0 AVIRUP-1\Admin         xml_file (222).xml
+06-08-2025  17:34                 0 AVIRUP-1\Admin         xml_file (223).xml
+06-08-2025  17:34                 0 AVIRUP-1\Admin         xml_file (224).xml
+06-08-2025  17:35                 0 AVIRUP-1\Admin         xml_file (225).xml
+06-08-2025  17:35                 0 AVIRUP-1\Admin         xml_file (226).xml
+06-08-2025  17:36                 0 AVIRUP-1\Admin         xml_file (227).xml
+06-08-2025  17:36                 0 AVIRUP-1\Admin         xml_file (228).xml
+06-08-2025  17:37                 0 AVIRUP-1\Admin         xml_file (229).xml
+07-08-2025  00:12                 0 AVIRUP-1\Admin         xml_file (23).xml
+06-08-2025  17:37                 0 AVIRUP-1\Admin         xml_file (230).xml
+06-08-2025  17:38                 0 AVIRUP-1\Admin         xml_file (231).xml
+06-08-2025  17:38                 0 AVIRUP-1\Admin         xml_file (232).xml
+06-08-2025  17:39                 0 AVIRUP-1\Admin         xml_file (233).xml
+06-08-2025  17:39                 0 AVIRUP-1\Admin         xml_file (234).xml
+06-08-2025  17:40                 0 AVIRUP-1\Admin         xml_file (235).xml
+06-08-2025  17:40                 0 AVIRUP-1\Admin         xml_file (236).xml
+06-08-2025  17:42                 0 AVIRUP-1\Admin         xml_file (237).xml
+06-08-2025  17:42                 0 AVIRUP-1\Admin         xml_file (238).xml
+06-08-2025  17:44                 0 AVIRUP-1\Admin         xml_file (239).xml
+07-08-2025  00:12                 0 AVIRUP-1\Admin         xml_file (24).xml
+06-08-2025  17:44                 0 AVIRUP-1\Admin         xml_file (240).xml
+06-08-2025  17:45                 0 AVIRUP-1\Admin         xml_file (241).xml
+06-08-2025  17:45                 0 AVIRUP-1\Admin         xml_file (242).xml
+06-08-2025  21:56                 0 AVIRUP-1\Admin         xml_file (243).xml
+06-08-2025  21:56                 0 AVIRUP-1\Admin         xml_file (244).xml
+07-08-2025  14:48                 0 AVIRUP-1\Admin         xml_file (245).xml
+07-08-2025  14:48                 0 AVIRUP-1\Admin         xml_file (246).xml
+07-08-2025  14:50                 0 AVIRUP-1\Admin         xml_file (247).xml
+07-08-2025  14:50                 0 AVIRUP-1\Admin         xml_file (248).xml
+07-08-2025  14:52                 0 AVIRUP-1\Admin         xml_file (249).xml
+07-08-2025  00:13                 0 AVIRUP-1\Admin         xml_file (25).xml
+07-08-2025  14:52                 0 AVIRUP-1\Admin         xml_file (250).xml
+07-08-2025  14:53                 0 AVIRUP-1\Admin         xml_file (251).xml
+07-08-2025  14:53                 0 AVIRUP-1\Admin         xml_file (252).xml
+07-08-2025  15:14                 0 AVIRUP-1\Admin         xml_file (253).xml
+07-08-2025  15:14                 0 AVIRUP-1\Admin         xml_file (254).xml
+07-08-2025  15:15                 0 AVIRUP-1\Admin         xml_file (255).xml
+07-08-2025  15:15                 0 AVIRUP-1\Admin         xml_file (256).xml
+07-08-2025  15:16                 0 AVIRUP-1\Admin         xml_file (257).xml
+07-08-2025  15:16                 0 AVIRUP-1\Admin         xml_file (258).xml
+07-08-2025  15:17                 0 AVIRUP-1\Admin         xml_file (259).xml
+07-08-2025  00:13                 0 AVIRUP-1\Admin         xml_file (26).xml
+07-08-2025  15:17                 0 AVIRUP-1\Admin         xml_file (260).xml
+07-08-2025  15:19                 0 AVIRUP-1\Admin         xml_file (261).xml
+07-08-2025  15:19                 0 AVIRUP-1\Admin         xml_file (262).xml
+07-08-2025  15:21                 0 AVIRUP-1\Admin         xml_file (263).xml
+07-08-2025  15:21                 0 AVIRUP-1\Admin         xml_file (264).xml
+07-08-2025  15:22                 0 AVIRUP-1\Admin         xml_file (265).xml
+07-08-2025  15:22                 0 AVIRUP-1\Admin         xml_file (266).xml
+07-08-2025  15:37                 0 AVIRUP-1\Admin         xml_file (267).xml
+07-08-2025  15:37                 0 AVIRUP-1\Admin         xml_file (268).xml
+07-08-2025  15:38                 0 AVIRUP-1\Admin         xml_file (269).xml
+07-08-2025  00:14                 0 AVIRUP-1\Admin         xml_file (27).xml
+07-08-2025  15:38                 0 AVIRUP-1\Admin         xml_file (270).xml
+07-08-2025  15:39                 0 AVIRUP-1\Admin         xml_file (271).xml
+07-08-2025  15:39                 0 AVIRUP-1\Admin         xml_file (272).xml
+07-08-2025  15:40                 0 AVIRUP-1\Admin         xml_file (273).xml
+07-08-2025  15:40                 0 AVIRUP-1\Admin         xml_file (274).xml
+07-08-2025  15:41                 0 AVIRUP-1\Admin         xml_file (275).xml
+07-08-2025  15:41                 0 AVIRUP-1\Admin         xml_file (276).xml
+07-08-2025  15:42                 0 AVIRUP-1\Admin         xml_file (277).xml
+07-08-2025  15:42                 0 AVIRUP-1\Admin         xml_file (278).xml
+07-08-2025  15:44                 0 AVIRUP-1\Admin         xml_file (279).xml
+07-08-2025  00:14                 0 AVIRUP-1\Admin         xml_file (28).xml
+07-08-2025  15:44                 0 AVIRUP-1\Admin         xml_file (280).xml
+07-08-2025  15:46                 0 AVIRUP-1\Admin         xml_file (281).xml
+07-08-2025  15:46                 0 AVIRUP-1\Admin         xml_file (282).xml
+07-08-2025  15:47                 0 AVIRUP-1\Admin         xml_file (283).xml
+07-08-2025  15:47                 0 AVIRUP-1\Admin         xml_file (284).xml
+07-08-2025  15:48                 0 AVIRUP-1\Admin         xml_file (285).xml
+07-08-2025  15:48                 0 AVIRUP-1\Admin         xml_file (286).xml
+07-08-2025  16:06                 0 AVIRUP-1\Admin         xml_file (287).xml
+07-08-2025  16:06                 0 AVIRUP-1\Admin         xml_file (288).xml
+07-08-2025  16:07                 0 AVIRUP-1\Admin         xml_file (289).xml
+07-08-2025  00:17                 0 AVIRUP-1\Admin         xml_file (29).xml
+07-08-2025  16:07                 0 AVIRUP-1\Admin         xml_file (290).xml
+07-08-2025  16:08                 0 AVIRUP-1\Admin         xml_file (291).xml
+07-08-2025  16:08                 0 AVIRUP-1\Admin         xml_file (292).xml
+07-08-2025  16:09                 0 AVIRUP-1\Admin         xml_file (293).xml
+07-08-2025  16:09                 0 AVIRUP-1\Admin         xml_file (294).xml
+07-08-2025  16:10                 0 AVIRUP-1\Admin         xml_file (295).xml
+07-08-2025  16:10                 0 AVIRUP-1\Admin         xml_file (296).xml
+07-08-2025  16:11                 0 AVIRUP-1\Admin         xml_file (297).xml
+07-08-2025  16:11                 0 AVIRUP-1\Admin         xml_file (298).xml
+07-08-2025  16:12                 0 AVIRUP-1\Admin         xml_file (299).xml
+06-08-2025  21:58                 0 AVIRUP-1\Admin         xml_file (3).xml
+07-08-2025  00:17                 0 AVIRUP-1\Admin         xml_file (30).xml
+07-08-2025  16:12                 0 AVIRUP-1\Admin         xml_file (300).xml
+07-08-2025  16:14                 0 AVIRUP-1\Admin         xml_file (301).xml
+07-08-2025  16:14                 0 AVIRUP-1\Admin         xml_file (302).xml
+07-08-2025  16:16                 0 AVIRUP-1\Admin         xml_file (303).xml
+07-08-2025  16:16                 0 AVIRUP-1\Admin         xml_file (304).xml
+07-08-2025  16:17                 0 AVIRUP-1\Admin         xml_file (305).xml
+07-08-2025  16:17                 0 AVIRUP-1\Admin         xml_file (306).xml
+07-08-2025  16:19                 0 AVIRUP-1\Admin         xml_file (307).xml
+07-08-2025  16:19                 0 AVIRUP-1\Admin         xml_file (308).xml
+07-08-2025  16:38                 0 AVIRUP-1\Admin         xml_file (309).xml
+07-08-2025  00:19                 0 AVIRUP-1\Admin         xml_file (31).xml
+07-08-2025  16:38                 0 AVIRUP-1\Admin         xml_file (310).xml
+07-08-2025  16:40                 0 AVIRUP-1\Admin         xml_file (311).xml
+07-08-2025  16:40                 0 AVIRUP-1\Admin         xml_file (312).xml
+07-08-2025  16:41                 0 AVIRUP-1\Admin         xml_file (313).xml
+07-08-2025  16:41                 0 AVIRUP-1\Admin         xml_file (314).xml
+07-08-2025  16:42                 0 AVIRUP-1\Admin         xml_file (315).xml
+07-08-2025  16:42                 0 AVIRUP-1\Admin         xml_file (316).xml
+07-08-2025  16:43                 0 AVIRUP-1\Admin         xml_file (317).xml
+07-08-2025  16:43                 0 AVIRUP-1\Admin         xml_file (318).xml
+07-08-2025  16:44                 0 AVIRUP-1\Admin         xml_file (319).xml
+07-08-2025  00:19                 0 AVIRUP-1\Admin         xml_file (32).xml
+07-08-2025  16:44                 0 AVIRUP-1\Admin         xml_file (320).xml
+07-08-2025  16:45                 0 AVIRUP-1\Admin         xml_file (321).xml
+07-08-2025  16:45                 0 AVIRUP-1\Admin         xml_file (322).xml
+07-08-2025  16:46                 0 AVIRUP-1\Admin         xml_file (323).xml
+07-08-2025  16:46                 0 AVIRUP-1\Admin         xml_file (324).xml
+07-08-2025  16:47                 0 AVIRUP-1\Admin         xml_file (325).xml
+07-08-2025  16:47                 0 AVIRUP-1\Admin         xml_file (326).xml
+07-08-2025  16:49                 0 AVIRUP-1\Admin         xml_file (327).xml
+07-08-2025  16:49                 0 AVIRUP-1\Admin         xml_file (328).xml
+07-08-2025  16:51                 0 AVIRUP-1\Admin         xml_file (329).xml
+07-08-2025  00:21                 0 AVIRUP-1\Admin         xml_file (33).xml
+07-08-2025  16:51                 0 AVIRUP-1\Admin         xml_file (330).xml
+07-08-2025  16:52                 0 AVIRUP-1\Admin         xml_file (331).xml
+07-08-2025  16:52                 0 AVIRUP-1\Admin         xml_file (332).xml
+07-08-2025  16:53                 0 AVIRUP-1\Admin         xml_file (333).xml
+07-08-2025  16:53                 0 AVIRUP-1\Admin         xml_file (334).xml
+07-08-2025  16:55                 0 AVIRUP-1\Admin         xml_file (335).xml
+07-08-2025  16:55                 0 AVIRUP-1\Admin         xml_file (336).xml
+07-08-2025  18:19                 0 AVIRUP-1\Admin         xml_file (337).xml
+07-08-2025  18:19                 0 AVIRUP-1\Admin         xml_file (338).xml
+07-08-2025  18:20                 0 AVIRUP-1\Admin         xml_file (339).xml
+07-08-2025  00:21                 0 AVIRUP-1\Admin         xml_file (34).xml
+07-08-2025  18:20                 0 AVIRUP-1\Admin         xml_file (340).xml
+07-08-2025  18:21                 0 AVIRUP-1\Admin         xml_file (341).xml
+07-08-2025  18:21                 0 AVIRUP-1\Admin         xml_file (342).xml
+07-08-2025  18:22                 0 AVIRUP-1\Admin         xml_file (343).xml
+07-08-2025  18:22                 0 AVIRUP-1\Admin         xml_file (344).xml
+07-08-2025  18:23                 0 AVIRUP-1\Admin         xml_file (345).xml
+07-08-2025  18:23                 0 AVIRUP-1\Admin         xml_file (346).xml
+07-08-2025  18:24                 0 AVIRUP-1\Admin         xml_file (347).xml
+07-08-2025  18:24                 0 AVIRUP-1\Admin         xml_file (348).xml
+07-08-2025  18:25                 0 AVIRUP-1\Admin         xml_file (349).xml
+07-08-2025  14:06                 0 AVIRUP-1\Admin         xml_file (35).xml
+07-08-2025  18:25                 0 AVIRUP-1\Admin         xml_file (350).xml
+07-08-2025  18:26                 0 AVIRUP-1\Admin         xml_file (351).xml
+07-08-2025  18:26                 0 AVIRUP-1\Admin         xml_file (352).xml
+07-08-2025  18:27                 0 AVIRUP-1\Admin         xml_file (353).xml
+07-08-2025  18:27                 0 AVIRUP-1\Admin         xml_file (354).xml
+07-08-2025  18:29                 0 AVIRUP-1\Admin         xml_file (355).xml
+07-08-2025  18:29                 0 AVIRUP-1\Admin         xml_file (356).xml
+07-08-2025  14:06                 0 AVIRUP-1\Admin         xml_file (36).xml
+07-08-2025  14:07                 0 AVIRUP-1\Admin         xml_file (37).xml
+07-08-2025  14:07                 0 AVIRUP-1\Admin         xml_file (38).xml
+07-08-2025  14:10                 0 AVIRUP-1\Admin         xml_file (39).xml
+06-08-2025  21:58                 0 AVIRUP-1\Admin         xml_file (4).xml
+07-08-2025  14:10                 0 AVIRUP-1\Admin         xml_file (40).xml
+07-08-2025  14:11                 0 AVIRUP-1\Admin         xml_file (41).xml
+07-08-2025  14:11                 0 AVIRUP-1\Admin         xml_file (42).xml
+07-08-2025  14:12                 0 AVIRUP-1\Admin         xml_file (43).xml
+07-08-2025  14:12                 0 AVIRUP-1\Admin         xml_file (44).xml
+07-08-2025  14:14                 0 AVIRUP-1\Admin         xml_file (45).xml
+07-08-2025  14:14                 0 AVIRUP-1\Admin         xml_file (46).xml
+07-08-2025  14:15                 0 AVIRUP-1\Admin         xml_file (47).xml
+07-08-2025  14:15                 0 AVIRUP-1\Admin         xml_file (48).xml
+07-08-2025  14:46                 0 AVIRUP-1\Admin         xml_file (49).xml
+06-08-2025  21:59                 0 AVIRUP-1\Admin         xml_file (5).xml
+07-08-2025  14:46                 0 AVIRUP-1\Admin         xml_file (50).xml
+07-08-2025  14:47                 0 AVIRUP-1\Admin         xml_file (51).xml
+07-08-2025  14:47                 0 AVIRUP-1\Admin         xml_file (52).xml
+04-08-2025  19:17                 0 AVIRUP-1\Admin         xml_file (53).xml
+04-08-2025  19:17                 0 AVIRUP-1\Admin         xml_file (54).xml
+04-08-2025  19:21                 0 AVIRUP-1\Admin         xml_file (55).xml
+04-08-2025  19:21                 0 AVIRUP-1\Admin         xml_file (56).xml
+04-08-2025  19:22                 0 AVIRUP-1\Admin         xml_file (57).xml
+04-08-2025  19:22                 0 AVIRUP-1\Admin         xml_file (58).xml
+04-08-2025  19:23                 0 AVIRUP-1\Admin         xml_file (59).xml
+06-08-2025  21:59                 0 AVIRUP-1\Admin         xml_file (6).xml
+04-08-2025  19:23                 0 AVIRUP-1\Admin         xml_file (60).xml
+04-08-2025  19:24                 0 AVIRUP-1\Admin         xml_file (61).xml
+04-08-2025  19:24                 0 AVIRUP-1\Admin         xml_file (62).xml
+04-08-2025  19:25                 0 AVIRUP-1\Admin         xml_file (63).xml
+04-08-2025  19:25                 0 AVIRUP-1\Admin         xml_file (64).xml
+04-08-2025  19:26                 0 AVIRUP-1\Admin         xml_file (65).xml
+04-08-2025  19:26                 0 AVIRUP-1\Admin         xml_file (66).xml
+04-08-2025  19:27                 0 AVIRUP-1\Admin         xml_file (67).xml
+04-08-2025  19:27                 0 AVIRUP-1\Admin         xml_file (68).xml
+04-08-2025  19:28                 0 AVIRUP-1\Admin         xml_file (69).xml
+06-08-2025  22:00                 0 AVIRUP-1\Admin         xml_file (7).xml
+04-08-2025  19:28                 0 AVIRUP-1\Admin         xml_file (70).xml
+04-08-2025  19:30                 0 AVIRUP-1\Admin         xml_file (71).xml
+04-08-2025  19:30                 0 AVIRUP-1\Admin         xml_file (72).xml
+04-08-2025  19:31                 0 AVIRUP-1\Admin         xml_file (73).xml
+04-08-2025  19:31                 0 AVIRUP-1\Admin         xml_file (74).xml
+04-08-2025  19:33                 0 AVIRUP-1\Admin         xml_file (75).xml
+04-08-2025  19:33                 0 AVIRUP-1\Admin         xml_file (76).xml
+04-08-2025  19:37                 0 AVIRUP-1\Admin         xml_file (77).xml
+04-08-2025  19:37                 0 AVIRUP-1\Admin         xml_file (78).xml
+05-08-2025  21:12                 0 AVIRUP-1\Admin         xml_file (79).xml
+06-08-2025  22:00                 0 AVIRUP-1\Admin         xml_file (8).xml
+05-08-2025  21:12                 0 AVIRUP-1\Admin         xml_file (80).xml
+05-08-2025  21:12                 0 AVIRUP-1\Admin         xml_file (81).xml
+05-08-2025  21:12                 0 AVIRUP-1\Admin         xml_file (82).xml
+05-08-2025  21:18                 0 AVIRUP-1\Admin         xml_file (83).xml
+05-08-2025  21:18                 0 AVIRUP-1\Admin         xml_file (84).xml
+05-08-2025  21:19                 0 AVIRUP-1\Admin         xml_file (85).xml
+05-08-2025  21:19                 0 AVIRUP-1\Admin         xml_file (86).xml
+05-08-2025  21:20                 0 AVIRUP-1\Admin         xml_file (87).xml
+05-08-2025  21:20                 0 AVIRUP-1\Admin         xml_file (88).xml
+05-08-2025  21:21                 0 AVIRUP-1\Admin         xml_file (89).xml
+06-08-2025  22:02                 0 AVIRUP-1\Admin         xml_file (9).xml
+05-08-2025  21:21                 0 AVIRUP-1\Admin         xml_file (90).xml
+05-08-2025  21:23                 0 AVIRUP-1\Admin         xml_file (91).xml
+05-08-2025  21:23                 0 AVIRUP-1\Admin         xml_file (92).xml
+05-08-2025  21:25                 0 AVIRUP-1\Admin         xml_file (93).xml
+05-08-2025  21:25                 0 AVIRUP-1\Admin         xml_file (94).xml
+05-08-2025  21:27                 0 AVIRUP-1\Admin         xml_file (95).xml
+05-08-2025  21:27                 0 AVIRUP-1\Admin         xml_file (96).xml
+05-08-2025  21:38                 0 AVIRUP-1\Admin         xml_file (97).xml
+05-08-2025  21:38                 0 AVIRUP-1\Admin         xml_file (98).xml
+05-08-2025  21:43                 0 AVIRUP-1\Admin         xml_file (99).xml
+06-08-2025  21:57                 0 AVIRUP-1\Admin         xml_file.xml
+             393 File(s)    299,767,277 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_7316_1608916317
+
+04-08-2025  20:22    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_7316_1753335480
+
+04-08-2025  20:23    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_7316_247353410
+
+05-08-2025  06:24    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_1013642471
+
+07-08-2025  14:36    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_1282794009
+
+07-08-2025  14:33    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_1524088554
+
+07-08-2025  14:34    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_1714464018
+
+07-08-2025  14:31    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_1808335411
+
+07-08-2025  14:23    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_1833628128
+
+07-08-2025  14:23    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_1961123207
+
+07-08-2025  14:27    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_196891482
+
+07-08-2025  14:26    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_1986428464
+
+07-08-2025  14:29    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_269587448
+
+07-08-2025  14:24    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_320570013
+
+07-08-2025  14:30    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_356746726
+
+07-08-2025  14:25    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_412581485
+
+07-08-2025  14:32    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_525135566
+
+07-08-2025  14:28    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_556105527
+
+07-08-2025  14:23    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_645660977
+
+07-08-2025  14:37    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_646718149
+
+07-08-2025  14:22    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_689088045
+
+07-08-2025  14:38    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_805620982
+
+07-08-2025  14:25    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\edge_BITS_9984_968439121
+
+07-08-2025  14:24    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_155735
+
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+07-08-2025  15:57               957 BUILTIN\Administrators collection_log.txt
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators Processes
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators Registry
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators SystemInfo
+               1 File(s)            957 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_155735\Processes
+
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators .
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators ..
+07-08-2025  15:57             3,291 BUILTIN\Administrators modules_AggregatorHost_4664.csv
+07-08-2025  15:57            10,328 BUILTIN\Administrators modules_backgroundTaskHost_6248.csv
+07-08-2025  15:57             9,514 BUILTIN\Administrators modules_backgroundTaskHost_8596.csv
+07-08-2025  15:57             3,857 BUILTIN\Administrators modules_conhost_5380.csv
+07-08-2025  15:57             9,959 BUILTIN\Administrators modules_CrossDeviceResume_6160.csv
+07-08-2025  15:57            26,870 BUILTIN\Administrators modules_CrossDeviceService_6836.csv
+07-08-2025  15:57             6,064 BUILTIN\Administrators modules_ctfmon_8956.csv
+07-08-2025  15:57             5,332 BUILTIN\Administrators modules_dllhost_3772.csv
+07-08-2025  15:57             3,488 BUILTIN\Administrators modules_dllhost_8528.csv
+07-08-2025  15:57             7,291 BUILTIN\Administrators modules_dwm_1172.csv
+07-08-2025  15:57             7,585 BUILTIN\Administrators modules_dwm_1964.csv
+07-08-2025  15:57            30,325 BUILTIN\Administrators modules_explorer_3968.csv
+07-08-2025  15:57               737 BUILTIN\Administrators modules_fontdrvhost_440.csv
+07-08-2025  15:57               737 BUILTIN\Administrators modules_fontdrvhost_560.csv
+07-08-2025  15:57               737 BUILTIN\Administrators modules_fontdrvhost_5968.csv
+07-08-2025  15:57            13,961 BUILTIN\Administrators modules_LogonUI_1128.csv
+07-08-2025  15:57            10,145 BUILTIN\Administrators modules_lsass_896.csv
+07-08-2025  15:57               738 BUILTIN\Administrators modules_MicrosoftEdgeUpdate_2784.csv
+07-08-2025  15:57             5,073 BUILTIN\Administrators modules_msdtc_4052.csv
+07-08-2025  15:57             2,094 BUILTIN\Administrators modules_msedgewebview2_1184.csv
+07-08-2025  15:57             4,846 BUILTIN\Administrators modules_msedgewebview2_3228.csv
+07-08-2025  15:57             2,094 BUILTIN\Administrators modules_msedgewebview2_4196.csv
+07-08-2025  15:57             1,705 BUILTIN\Administrators modules_msedgewebview2_4312.csv
+07-08-2025  15:57            13,267 BUILTIN\Administrators modules_msedgewebview2_6656.csv
+07-08-2025  15:57             1,705 BUILTIN\Administrators modules_msedgewebview2_6676.csv
+07-08-2025  15:57            12,857 BUILTIN\Administrators modules_msedgewebview2_7704.csv
+07-08-2025  15:57             2,154 BUILTIN\Administrators modules_msedgewebview2_7820.csv
+07-08-2025  15:57             4,008 BUILTIN\Administrators modules_msedgewebview2_8128.csv
+07-08-2025  15:57             4,956 BUILTIN\Administrators modules_msedgewebview2_8136.csv
+07-08-2025  15:57             2,154 BUILTIN\Administrators modules_msedgewebview2_9332.csv
+07-08-2025  15:57             4,096 BUILTIN\Administrators modules_msedgewebview2_9660.csv
+07-08-2025  15:57             4,044 BUILTIN\Administrators modules_msedge_10120.csv
+07-08-2025  15:57             4,565 BUILTIN\Administrators modules_msedge_10128.csv
+07-08-2025  15:57             2,109 BUILTIN\Administrators modules_msedge_10160.csv
+07-08-2025  15:57            12,049 BUILTIN\Administrators modules_msedge_10168.csv
+07-08-2025  15:57             1,653 BUILTIN\Administrators modules_msedge_4160.csv
+07-08-2025  15:57            22,041 BUILTIN\Administrators modules_OneDrive_9952.csv
+07-08-2025  15:57            35,733 BUILTIN\Administrators modules_PhoneExperienceHost_9468.csv
+07-08-2025  15:57            23,946 BUILTIN\Administrators modules_powershell_ise_5068.csv
+07-08-2025  15:57             4,164 BUILTIN\Administrators modules_rdpclip_4420.csv
+07-08-2025  15:57             2,920 BUILTIN\Administrators modules_RuntimeBroker_6204.csv
+07-08-2025  15:57             4,016 BUILTIN\Administrators modules_RuntimeBroker_6592.csv
+07-08-2025  15:57            12,281 BUILTIN\Administrators modules_RuntimeBroker_6748.csv
+07-08-2025  15:57             9,174 BUILTIN\Administrators modules_RuntimeBroker_7268.csv
+07-08-2025  15:57             4,094 BUILTIN\Administrators modules_RuntimeBroker_9568.csv
+07-08-2025  15:57            18,064 BUILTIN\Administrators modules_SearchHost_6260.csv
+07-08-2025  15:57             6,013 BUILTIN\Administrators modules_SearchIndexer_1148.csv
+07-08-2025  15:57             3,435 BUILTIN\Administrators modules_SecurityHealthSystray_9760.csv
+07-08-2025  15:57             2,287 BUILTIN\Administrators modules_SenseImdsCollector_6516.csv
+07-08-2025  15:57             1,802 BUILTIN\Administrators modules_SenseNdr_4368.csv
+07-08-2025  15:57             2,929 BUILTIN\Administrators modules_SenseTVM_3960.csv
+07-08-2025  15:57            13,151 BUILTIN\Administrators modules_ShellExperienceHost_8340.csv
+07-08-2025  15:57             6,574 BUILTIN\Administrators modules_ShellHost_564.csv
+07-08-2025  15:57            11,137 BUILTIN\Administrators modules_sihost_2132.csv
+07-08-2025  15:57             3,971 BUILTIN\Administrators modules_smartscreen_9832.csv
+07-08-2025  15:57             8,300 BUILTIN\Administrators modules_spoolsv_2672.csv
+07-08-2025  15:57            18,575 BUILTIN\Administrators modules_StartMenuExperienceHost_6384.csv
+07-08-2025  15:57             6,251 BUILTIN\Administrators modules_svchost_1236.csv
+07-08-2025  15:57             9,812 BUILTIN\Administrators modules_svchost_1260.csv
+07-08-2025  15:57             5,464 BUILTIN\Administrators modules_svchost_1308.csv
+07-08-2025  15:57            10,032 BUILTIN\Administrators modules_svchost_1320.csv
+07-08-2025  15:57             3,618 BUILTIN\Administrators modules_svchost_1328.csv
+07-08-2025  15:57             3,991 BUILTIN\Administrators modules_svchost_1452.csv
+07-08-2025  15:57            21,418 BUILTIN\Administrators modules_svchost_1528.csv
+07-08-2025  15:57             6,823 BUILTIN\Administrators modules_svchost_1552.csv
+07-08-2025  15:57             3,970 BUILTIN\Administrators modules_svchost_1572.csv
+07-08-2025  15:57             5,555 BUILTIN\Administrators modules_svchost_1656.csv
+07-08-2025  15:57             5,148 BUILTIN\Administrators modules_svchost_1664.csv
+07-08-2025  15:57             4,016 BUILTIN\Administrators modules_svchost_1792.csv
+07-08-2025  15:57             3,049 BUILTIN\Administrators modules_svchost_2072.csv
+07-08-2025  15:57             6,258 BUILTIN\Administrators modules_svchost_2280.csv
+07-08-2025  15:57             5,159 BUILTIN\Administrators modules_svchost_2336.csv
+07-08-2025  15:57             2,479 BUILTIN\Administrators modules_svchost_2460.csv
+07-08-2025  15:57             3,730 BUILTIN\Administrators modules_svchost_2468.csv
+07-08-2025  15:57             2,663 BUILTIN\Administrators modules_svchost_2660.csv
+07-08-2025  15:57             5,626 BUILTIN\Administrators modules_svchost_2800.csv
+07-08-2025  15:57            11,463 BUILTIN\Administrators modules_svchost_2820.csv
+07-08-2025  15:57             2,660 BUILTIN\Administrators modules_svchost_3064.csv
+07-08-2025  15:57             3,375 BUILTIN\Administrators modules_svchost_3320.csv
+07-08-2025  15:57             3,473 BUILTIN\Administrators modules_svchost_3764.csv
+07-08-2025  15:57             4,027 BUILTIN\Administrators modules_svchost_4512.csv
+07-08-2025  15:57             3,602 BUILTIN\Administrators modules_svchost_4864.csv
+07-08-2025  15:57             3,522 BUILTIN\Administrators modules_svchost_5140.csv
+07-08-2025  15:57             2,773 BUILTIN\Administrators modules_svchost_5240.csv
+07-08-2025  15:57            11,079 BUILTIN\Administrators modules_svchost_540.csv
+07-08-2025  15:57             2,439 BUILTIN\Administrators modules_svchost_5852.csv
+07-08-2025  15:57             2,664 BUILTIN\Administrators modules_svchost_5908.csv
+07-08-2025  15:57            11,846 BUILTIN\Administrators modules_svchost_6100.csv
+07-08-2025  15:57             3,321 BUILTIN\Administrators modules_svchost_6128.csv
+07-08-2025  15:57             5,636 BUILTIN\Administrators modules_svchost_6852.csv
+07-08-2025  15:57             5,896 BUILTIN\Administrators modules_svchost_7172.csv
+07-08-2025  15:57             4,648 BUILTIN\Administrators modules_svchost_7484.csv
+07-08-2025  15:57             4,135 BUILTIN\Administrators modules_svchost_868.csv
+07-08-2025  15:57            12,008 BUILTIN\Administrators modules_TabTip_9012.csv
+07-08-2025  15:57             4,917 BUILTIN\Administrators modules_taskhostw_5756.csv
+07-08-2025  15:57            12,076 BUILTIN\Administrators modules_TextInputHost_9328.csv
+07-08-2025  15:57             5,711 BUILTIN\Administrators modules_TiWorker_480.csv
+07-08-2025  15:57             2,310 BUILTIN\Administrators modules_TrustedInstaller_1044.csv
+07-08-2025  15:57             4,257 BUILTIN\Administrators modules_VGAuthService_2980.csv
+07-08-2025  15:57             2,834 BUILTIN\Administrators modules_vm3dservice_2988.csv
+07-08-2025  15:57             3,001 BUILTIN\Administrators modules_vm3dservice_3248.csv
+07-08-2025  15:57             9,603 BUILTIN\Administrators modules_vmtoolsd_2996.csv
+07-08-2025  15:57            10,001 BUILTIN\Administrators modules_vmtoolsd_9844.csv
+07-08-2025  15:57             6,273 BUILTIN\Administrators modules_WidgetService_6624.csv
+07-08-2025  15:57            14,064 BUILTIN\Administrators modules_Widgets_7356.csv
+07-08-2025  15:57             4,133 BUILTIN\Administrators modules_winlogon_4820.csv
+07-08-2025  15:57             3,595 BUILTIN\Administrators modules_winlogon_804.csv
+07-08-2025  15:57             2,912 BUILTIN\Administrators modules_WmiPrvSE_2908.csv
+07-08-2025  15:57             8,660 BUILTIN\Administrators modules_WmiPrvSE_3908.csv
+07-08-2025  15:57             3,980 BUILTIN\Administrators modules_WUDFHost_5356.csv
+07-08-2025  15:57            65,680 BUILTIN\Administrators process_tree.csv
+07-08-2025  15:57            26,878 BUILTIN\Administrators running_processes.csv
+07-08-2025  15:57               486 BUILTIN\Administrators suspicious_handles.csv
+07-08-2025  15:57             2,396 BUILTIN\Administrators tcp_connections.csv
+07-08-2025  15:57             2,884 BUILTIN\Administrators udp_endpoints.csv
+             115 File(s)        861,275 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_155735\Registry
+
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators .
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_155735\SystemInfo
+
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators .
+07-08-2025  15:57    <DIR>          BUILTIN\Administrators ..
+07-08-2025  15:57               992 BUILTIN\Administrators arp_cache.txt
+07-08-2025  15:57               726 BUILTIN\Administrators computer_details.json
+07-08-2025  15:57            15,736 BUILTIN\Administrators dns_cache.txt
+07-08-2025  15:57            53,328 BUILTIN\Administrators firewall_rules.csv
+07-08-2025  15:57             2,928 BUILTIN\Administrators ipconfig.txt
+07-08-2025  15:57               182 BUILTIN\Administrators netbios_cache.txt
+07-08-2025  15:57            18,616 BUILTIN\Administrators netstat.txt
+07-08-2025  15:57             3,956 BUILTIN\Administrators routing_table.txt
+07-08-2025  15:57             5,700 BUILTIN\Administrators systeminfo.txt
+               9 File(s)        102,164 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators AttackArtifacts
+07-08-2025  18:07             4,565 BUILTIN\Administrators collection_log.txt
+07-08-2025  18:06    <DIR>          BUILTIN\Administrators EventLogs
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators FileSystem
+07-08-2025  18:07               161 BUILTIN\Administrators ioc_detection_results.csv
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators MDE_Report
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators Network
+07-08-2025  18:07               738 BUILTIN\Administrators package_info.json
+07-08-2025  16:08    <DIR>          BUILTIN\Administrators Processes
+07-08-2025  18:04    <DIR>          BUILTIN\Administrators Registry
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ScheduledTasks
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators Services
+07-08-2025  16:08    <DIR>          BUILTIN\Administrators SystemInfo
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators Timeline
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators WMI
+               3 File(s)          5,464 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\AttackArtifacts
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  16:07             1,404 BUILTIN\Administrators account_activity.json
+07-08-2025  16:08               394 BUILTIN\Administrators antiforensics.json
+07-08-2025  15:54             3,047 BUILTIN\Administrators AttackSimulation_20250807_155426.log
+07-08-2025  16:08             3,047 BUILTIN\Administrators AttackSimulation_20250807_160752.log
+07-08-2025  16:08             6,784 BUILTIN\Administrators attack_timeline.json
+07-08-2025  16:08               392 BUILTIN\Administrators aws_credentials.json
+07-08-2025  16:08               376 BUILTIN\Administrators credential_dump.json
+07-08-2025  16:08               596 BUILTIN\Administrators destruction_indicators.json
+07-08-2025  16:07             1,024 BUILTIN\Administrators encoded_payload.b64
+07-08-2025  16:08               548 BUILTIN\Administrators exfiltration_activity.json
+07-08-2025  16:08               847 BUILTIN\Administrators exfil_package.zip
+07-08-2025  16:08             1,044 BUILTIN\Administrators file_discovery.json
+07-08-2025  16:08             1,254 BUILTIN\Administrators group_discovery.json
+07-08-2025  16:08             3,464 BUILTIN\Administrators indicators_of_compromise.json
+07-08-2025  16:08               586 BUILTIN\Administrators lateral_movement.json
+07-08-2025  16:08               642 BUILTIN\Administrators log_clearing.json
+07-08-2025  16:08               868 BUILTIN\Administrators mimikatz_simulation.log
+07-08-2025  16:08               932 BUILTIN\Administrators network_discovery.json
+07-08-2025  16:08             7,002 BUILTIN\Administrators process_discovery.json
+07-08-2025  16:08               404 BUILTIN\Administrators process_hollowing.json
+07-08-2025  16:07               346 BUILTIN\Administrators process_injection.json
+07-08-2025  16:08               558 BUILTIN\Administrators ransomware_simulation.json
+07-08-2025  16:08               784 BUILTIN\Administrators README_RANSOMWARE_SIMULATION.txt
+07-08-2025  16:08               754 BUILTIN\Administrators security_tools_enum.json
+07-08-2025  16:07               490 BUILTIN\Administrators service_creation.json
+07-08-2025  16:07             1,024 BUILTIN\Administrators stage2_loader.ps1
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators staged_data
+07-08-2025  16:08             1,822 BUILTIN\Administrators stix_indicators.json
+07-08-2025  16:07             1,024 BUILTIN\Administrators totally_not_malware.exe.txt
+07-08-2025  16:07               606 BUILTIN\Administrators wmi_persistence.json
+              29 File(s)         42,063 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\AttackArtifacts\staged_data
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  16:08                88 BUILTIN\Administrators customer_data.csv
+07-08-2025  16:08                76 BUILTIN\Administrators financial_report.txt
+07-08-2025  16:08                64 BUILTIN\Administrators passwords.txt
+07-08-2025  16:08               130 BUILTIN\Administrators source_code.ps1
+               4 File(s)            358 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\EventLogs
+
+07-08-2025  18:06    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:06         1,118,208 BUILTIN\Administrators Application.evtx
+07-08-2025  18:06            77,202 BUILTIN\Administrators Application_recent.csv
+07-08-2025  18:06        15,798,272 BUILTIN\Administrators Microsoft-Windows-PowerShell_Operational.evtx
+07-08-2025  18:06         6,233,430 BUILTIN\Administrators Microsoft-Windows-PowerShell_Operational_recent.csv
+07-08-2025  18:06        10,555,392 BUILTIN\Administrators Microsoft-Windows-TaskScheduler_Operational.evtx
+07-08-2025  18:06           437,704 BUILTIN\Administrators Microsoft-Windows-TaskScheduler_Operational_recent.csv
+07-08-2025  18:06         1,118,208 BUILTIN\Administrators Microsoft-Windows-TerminalServices-RemoteConnectionManager_Operational.evtx
+07-08-2025  18:06            15,727 BUILTIN\Administrators Microsoft-Windows-TerminalServices-RemoteConnectionManager_Operational_recent.csv
+07-08-2025  18:06         4,263,936 BUILTIN\Administrators Microsoft-Windows-Windows Defender_Operational.evtx
+07-08-2025  18:06            43,157 BUILTIN\Administrators Microsoft-Windows-Windows Defender_Operational_recent.csv
+07-08-2025  18:06         1,118,208 BUILTIN\Administrators Microsoft-Windows-WMI-Activity_Operational.evtx
+07-08-2025  18:06           151,122 BUILTIN\Administrators Microsoft-Windows-WMI-Activity_Operational_recent.csv
+07-08-2025  18:06         1,558,622 BUILTIN\Administrators powershell_scriptblocks.csv
+07-08-2025  18:06            33,946 BUILTIN\Administrators process_creation_events.csv
+07-08-2025  18:04         3,215,360 BUILTIN\Administrators Security.evtx
+07-08-2025  18:05         4,190,229 BUILTIN\Administrators Security_recent.csv
+07-08-2025  18:06         3,215,360 BUILTIN\Administrators System.evtx
+07-08-2025  18:06            38,685 BUILTIN\Administrators System_recent.csv
+              18 File(s)     53,182,768 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\FileSystem
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:07                84 BUILTIN\Administrators alternate_data_streams.csv
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators Prefetch
+07-08-2025  18:06            31,449 BUILTIN\Administrators prefetch_files.csv
+07-08-2025  18:07            36,259 BUILTIN\Administrators recent_executables.csv
+07-08-2025  18:06           205,972 BUILTIN\Administrators recent_temp_files.csv
+07-08-2025  18:07               870 BUILTIN\Administrators usn_journal_info.txt
+               5 File(s)        274,634 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\FileSystem\Prefetch
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+06-08-2025  16:42             2,379 BUILTIN\Administrators AM_BASE_PATCH1.EXE-B2ACC39D.pf
+07-08-2025  04:51             2,443 BUILTIN\Administrators AM_DELTA.EXE-78CA83B0.pf
+05-08-2025  16:36             2,265 BUILTIN\Administrators AM_DELTA_PATCH_1.433.278.0.EX-31960A44.pf
+05-08-2025  17:59             2,265 BUILTIN\Administrators AM_DELTA_PATCH_1.433.291.0.EX-57E2C4AB.pf
+06-08-2025  04:37             2,267 BUILTIN\Administrators AM_DELTA_PATCH_1.433.294.0.EX-DAE1724A.pf
+06-08-2025  22:02             2,269 BUILTIN\Administrators AM_DELTA_PATCH_1.435.11.0.EXE-DDCEC22B.pf
+07-08-2025  15:06             2,275 BUILTIN\Administrators AM_DELTA_PATCH_1.435.25.0.EXE-B871D16C.pf
+07-08-2025  14:42            10,592 BUILTIN\Administrators APPINSTALLERPYTHONREDIRECTOR.-2B94A5E9.pf
+07-08-2025  15:58            22,541 BUILTIN\Administrators APPLICATIONFRAMEHOST.EXE-8CE9A1EE.pf
+07-08-2025  16:14             3,381 BUILTIN\Administrators ARP.EXE-ED14DF84.pf
+07-08-2025  17:00             3,766 BUILTIN\Administrators ATBROKER.EXE-5CD29207.pf
+05-08-2025  22:28             1,687 BUILTIN\Administrators ATTRIB.EXE-8E9FC84B.pf
+07-08-2025  15:58             8,463 BUILTIN\Administrators AUDIODG.EXE-AB22E9A6.pf
+07-08-2025  16:00             2,545 BUILTIN\Administrators AUDITPOL.EXE-2D4A3037.pf
+04-08-2025  19:18            10,130 BUILTIN\Administrators BACKGROUNDTASKHOST.EXE-19F0C51F.pf
+06-08-2025  15:00            28,918 BUILTIN\Administrators BACKGROUNDTASKHOST.EXE-7918999C.pf
+07-08-2025  18:06            14,376 BUILTIN\Administrators BACKGROUNDTASKHOST.EXE-CAD1DF16.pf
+04-08-2025  19:18            19,401 BUILTIN\Administrators BACKGROUNDTRANSFERHOST.EXE-0F9D3546.pf
+07-08-2025  00:51            15,541 BUILTIN\Administrators BACKGROUNDTRANSFERHOST.EXE-CA63ADDB.pf
+04-08-2025  19:21             9,813 BUILTIN\Administrators BACKGROUNDTRANSFERHOST.EXE-E7B7D877.pf
+05-08-2025  19:09             4,661 BUILTIN\Administrators BDEUISRV.EXE-7BC33651.pf
+24-07-2025  20:05            36,526 BUILTIN\Administrators CHXSMARTSCREEN.EXE-B95BCB2E.pf
+26-10-2024  21:12            23,783 BUILTIN\Administrators CLEANMGR.EXE-1282D612.pf
+07-08-2025  16:13             2,824 BUILTIN\Administrators CMD.EXE-0BD30981.pf
+07-08-2025  14:23            44,073 BUILTIN\Administrators COMPATTELRUNNER.EXE-B7A68ECC.pf
+07-08-2025  17:56             7,569 BUILTIN\Administrators CONHOST.EXE-0C6456FB.pf
+07-08-2025  15:58            36,949 BUILTIN\Administrators CONSENT.EXE-40419367.pf
+10-07-2025  17:05            12,046 BUILTIN\Administrators CONTROL.EXE-6EA5489A.pf
+04-08-2025  18:54            41,118 BUILTIN\Administrators CREDENTIALUIBROKER.EXE-8CEDA3EB.pf
+07-08-2025  15:11            40,351 BUILTIN\Administrators CROSSDEVICESERVICE.EXE-507B577E.pf
+07-08-2025  17:11            10,406 BUILTIN\Administrators CSC.EXE-B6D5E435.pf
+07-08-2025  15:11             5,849 BUILTIN\Administrators CSRSS.EXE-F3C368CB.pf
+07-08-2025  17:00            11,644 BUILTIN\Administrators CTFMON.EXE-795F8130.pf
+07-08-2025  17:11             3,497 BUILTIN\Administrators CVTRES.EXE-BBD3ED93.pf
+07-08-2025  16:04            10,607 BUILTIN\Administrators DATAEXCHANGEHOST.EXE-8B66795C.pf
+07-08-2025  15:06             4,236 BUILTIN\Administrators DEFRAG.EXE-3D9E8D72.pf
+31-07-2025  05:32            10,511 BUILTIN\Administrators DLLHOST.EXE-1281DAD7.pf
+07-08-2025  14:53             9,548 BUILTIN\Administrators DLLHOST.EXE-3F9B2B1D.pf
+07-08-2025  16:58             4,543 BUILTIN\Administrators DLLHOST.EXE-6F625E57.pf
+05-08-2025  19:13            20,918 BUILTIN\Administrators DLLHOST.EXE-742E0212.pf
+07-08-2025  15:18            11,428 BUILTIN\Administrators DLLHOST.EXE-7A93D5D3.pf
+07-08-2025  17:00             4,254 BUILTIN\Administrators DLLHOST.EXE-7D5CE0CA.pf
+07-08-2025  15:58             7,076 BUILTIN\Administrators DLLHOST.EXE-C4E575FD.pf
+07-08-2025  14:22             4,440 BUILTIN\Administrators DLLHOST.EXE-D200FEC3.pf
+31-07-2025  05:31            11,269 BUILTIN\Administrators DLLHOST.EXE-D778F42C.pf
+07-08-2025  17:00             4,839 BUILTIN\Administrators DLLHOST.EXE-ECDCED3C.pf
+10-07-2025  17:08            18,332 BUILTIN\Administrators DLLHOST.EXE-F144D205.pf
+03-07-2025  19:35            11,030 BUILTIN\Administrators DLLHOST.EXE-F6E270D2.pf
+07-08-2025  17:00             5,238 BUILTIN\Administrators DLLHOST.EXE-F7FC6593.pf
+06-08-2025  22:26            19,691 BUILTIN\Administrators DRIVERQUERY.EXE-7993C987.pf
+07-08-2025  15:11            19,404 BUILTIN\Administrators DWM.EXE-314E93C5.pf
+07-08-2025  15:11             6,281 BUILTIN\Administrators ELEVATION_SERVICE.EXE-0D850C0E.pf
+07-08-2025  14:03             3,786 BUILTIN\Administrators EVENTVWR.EXE-1632B85A.pf
+10-07-2025  17:05            82,156 BUILTIN\Administrators EXPLORER.EXE-D5E97654.pf
+06-08-2025  16:52            14,148 BUILTIN\Administrators FILECOAUTH.EXE-14803EB5.pf
+06-08-2025  14:58            12,413 BUILTIN\Administrators FILECOAUTH.EXE-6813B4B9.pf
+05-08-2025  19:03            12,048 BUILTIN\Administrators FILECOAUTH.EXE-D35448FD.pf
+04-08-2025  19:18            13,296 BUILTIN\Administrators FILECOAUTH.EXE-D4ABAF8A.pf
+06-08-2025  14:58             9,153 BUILTIN\Administrators FILESYNCCONFIG.EXE-A9CC9D58.pf
+07-08-2025  16:14             1,904 BUILTIN\Administrators FIND.EXE-AE190082.pf
+07-08-2025  16:14             2,623 BUILTIN\Administrators FINDSTR.EXE-1BC2295F.pf
+07-08-2025  16:13             2,006 BUILTIN\Administrators FLTMC.EXE-0772512B.pf
+07-08-2025  15:11             2,626 BUILTIN\Administrators FONTDRVHOST.EXE-8152304A.pf
+07-08-2025  16:13             3,162 BUILTIN\Administrators FSUTIL.EXE-0B55CC80.pf
+07-08-2025  00:51            33,403 BUILTIN\Administrators GAMEBAR.EXE-00628218.pf
+18-07-2025  20:38            47,362 BUILTIN\Administrators GAMEBAR.EXE-1631B1D8.pf
+03-07-2025  17:23            23,827 BUILTIN\Administrators GAMEBAR.EXE-3E7A7C62.pf
+07-08-2025  17:56             3,028 BUILTIN\Administrators GPUPDATE.EXE-7EBA4B6F.pf
+05-08-2025  21:12             3,135 BUILTIN\Administrators HOSTNAME.EXE-03A2F198.pf
+07-08-2025  15:11            22,885 BUILTIN\Administrators IDENTITY_HELPER.EXE-94EA961F.pf
+04-08-2025  17:54            19,465 BUILTIN\Administrators IE4UINIT.EXE-693AF9DC.pf
+07-08-2025  16:14             3,839 BUILTIN\Administrators IPCONFIG.EXE-BFEC2AD0.pf
+03-07-2025  17:15            25,573 BUILTIN\Administrators LOCKAPP.EXE-1CBA3694.pf
+07-08-2025  17:00            40,666 BUILTIN\Administrators LOGONUI.EXE-F639BD7E.pf
+06-08-2025  21:56            49,612 BUILTIN\Administrators MAKECAB.EXE-FC3CBE21.pf
+04-08-2025  17:55            24,824 BUILTIN\Administrators MICROSOFT.SHAREPOINT.EXE-AA0A092D.pf
+06-08-2025  14:58            25,297 BUILTIN\Administrators MICROSOFT.SHAREPOINT.EXE-AE447DC6.pf
+07-08-2025  17:26             8,356 BUILTIN\Administrators MICROSOFTEDGEUPDATE.EXE-7A595326.pf
+06-08-2025  16:53            36,481 BUILTIN\Administrators MMC.EXE-CE6E671F.pf
+07-08-2025  15:11             8,419 BUILTIN\Administrators MOBSYNC.EXE-B307E1CC.pf
+07-08-2025  15:15             8,918 BUILTIN\Administrators MONOTIFICATIONUX.EXE-62024999.pf
+07-08-2025  17:09            31,595 BUILTIN\Administrators MOUSOCOREWORKER.EXE-44A01CE7.pf
+07-08-2025  16:13             6,235 BUILTIN\Administrators MPCMDRUN.EXE-2C9109F9.pf
+07-08-2025  18:02             7,567 BUILTIN\Administrators MPCMDRUN.EXE-5E336BEA.pf
+17-07-2025  07:20             8,305 BUILTIN\Administrators MPCMDRUN.EXE-7620A340.pf
+30-07-2025  21:39             7,556 BUILTIN\Administrators MPCMDRUN.EXE-C020B9EF.pf
+07-08-2025  15:06           205,888 BUILTIN\Administrators MPSIGSTUB.EXE-5D0450B3.pf
+06-08-2025  21:56             9,847 BUILTIN\Administrators MSCORSVW.EXE-16B291C4.pf
+06-08-2025  21:56            10,070 BUILTIN\Administrators MSCORSVW.EXE-8CE1A322.pf
+07-08-2025  15:11           172,595 BUILTIN\Administrators MSEDGE.EXE-37D25F9A.pf
+07-08-2025  14:21            77,461 BUILTIN\Administrators MSEDGE.EXE-37D25F9B.pf
+07-08-2025  15:11            47,502 BUILTIN\Administrators MSEDGE.EXE-37D25F9C.pf
+07-08-2025  15:11             5,627 BUILTIN\Administrators MSEDGE.EXE-37D25F9E.pf
+18-07-2025  07:13            45,668 BUILTIN\Administrators MSEDGE.EXE-37D25FA3.pf
+07-08-2025  15:13            21,325 BUILTIN\Administrators MSEDGE.EXE-37D25FA4.pf
+07-08-2025  15:11            67,975 BUILTIN\Administrators MSEDGE.EXE-37D25FA5.pf
+07-08-2025  15:11            30,501 BUILTIN\Administrators MSEDGE.EXE-37D25FA7.pf
+07-08-2025  15:21            11,110 BUILTIN\Administrators MSEDGE.EXE-37D25FA8.pf
+04-08-2025  18:54           141,112 BUILTIN\Administrators MSEDGE.EXE-37D25FAA.pf
+04-08-2025  07:43            13,458 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-26155FC1.pf
+07-08-2025  16:13            57,464 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-308778EA.pf
+07-08-2025  16:13            17,579 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-308778EB.pf
+07-08-2025  16:13            16,660 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-308778EC.pf
+07-08-2025  16:13             4,523 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-308778EE.pf
+07-08-2025  16:13            21,117 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-308778F5.pf
+07-08-2025  16:13             9,200 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-308778F7.pf
+10-07-2025  16:59            42,847 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-36F245E4.pf
+10-07-2025  16:59            25,502 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-36F245E5.pf
+05-08-2025  19:08            46,607 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-5C5126D3.pf
+06-08-2025  14:58            58,816 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-5C5126D4.pf
+05-08-2025  21:12            24,661 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-5C5126D5.pf
+05-08-2025  19:03             5,048 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-5C5126D7.pf
+07-08-2025  15:13            18,991 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-5C5126DD.pf
+07-08-2025  15:11            38,216 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-5C5126DE.pf
+05-08-2025  21:12            17,404 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-5C5126E0.pf
+07-08-2025  15:11            16,499 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-5C5126E1.pf
+05-08-2025  19:03            47,874 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-5C5126E3.pf
+10-07-2025  17:03            48,332 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-62BBF3CD.pf
+10-07-2025  17:08            33,863 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-62BBF3CE.pf
+10-07-2025  17:37            21,361 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-62BBF3D8.pf
+10-07-2025  17:37            43,881 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-62BBF3DD.pf
+27-10-2024  09:43            48,254 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-6FE4E3B7.pf
+06-08-2025  15:03            51,425 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-87B4E355.pf
+07-08-2025  15:16            66,070 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-87B4E356.pf
+07-08-2025  15:16            23,644 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-87B4E357.pf
+07-08-2025  15:16             5,348 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-87B4E359.pf
+07-08-2025  15:35            18,255 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-87B4E35F.pf
+07-08-2025  15:16            40,313 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-87B4E360.pf
+07-08-2025  15:16            17,795 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-87B4E362.pf
+07-08-2025  15:16            18,866 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-87B4E363.pf
+05-08-2025  21:12            52,172 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-87B4E365.pf
+05-07-2025  01:11            56,244 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-B11630D7.pf
+04-08-2025  16:07            13,927 BUILTIN\Administrators MSEDGEWEBVIEW2.EXE-FAB1A33F.pf
+07-08-2025  16:15             6,359 BUILTIN\Administrators MSIEXEC.EXE-8FFB1633.pf
+07-08-2025  14:22             6,289 BUILTIN\Administrators MSIEXEC.EXE-CDBFC0F7.pf
+06-08-2025  21:52             6,630 BUILTIN\Administrators MSMPENG.EXE-FD53C38F.pf
+04-08-2025  18:51            15,625 BUILTIN\Administrators MSTSC.EXE-2A83B7D7.pf
+07-08-2025  16:08             2,845 BUILTIN\Administrators NBTSTAT.EXE-716BD835.pf
+07-08-2025  16:14             2,596 BUILTIN\Administrators NET.EXE-A0964F30.pf
+07-08-2025  16:14             3,163 BUILTIN\Administrators NET1.EXE-509326A5.pf
+07-08-2025  16:13            13,321 BUILTIN\Administrators NETSH.EXE-A596235F.pf
+07-08-2025  16:13             3,320 BUILTIN\Administrators NETSTAT.EXE-47804A0C.pf
+06-08-2025  21:56             7,288 BUILTIN\Administrators NGEN.EXE-4A8DA13E.pf
+06-08-2025  21:56             5,666 BUILTIN\Administrators NGEN.EXE-734C6620.pf
+06-08-2025  21:56            28,936 BUILTIN\Administrators NGENTASK.EXE-0E6CEC17.pf
+06-08-2025  21:56            27,239 BUILTIN\Administrators NGENTASK.EXE-849BFD75.pf
+06-08-2025  21:52            14,502 BUILTIN\Administrators NISSRV.EXE-3F8EBD25.pf
+07-08-2025  16:04            49,818 BUILTIN\Administrators NOTEPAD.EXE-AC5DAD5F.pf
+07-08-2025  16:13            37,784 BUILTIN\Administrators OLK.EXE-F8A9FE47.pf
+05-08-2025  19:08            79,008 BUILTIN\Administrators ONEDRIVE.EXE-22149544.pf
+31-07-2025  02:06           133,418 BUILTIN\Administrators ONEDRIVE.EXE-4E39EC13.pf
+06-08-2025  14:58           143,003 BUILTIN\Administrators ONEDRIVE.EXE-5577B1EF.pf
+31-07-2025  01:10           141,158 BUILTIN\Administrators ONEDRIVE.EXE-8F1F63D0.pf
+04-08-2025  17:55            53,961 BUILTIN\Administrators ONEDRIVESETUP.EXE-2F4C4906.pf
+06-08-2025  14:58            36,812 BUILTIN\Administrators ONEDRIVESETUP.EXE-86A71997.pf
+04-08-2025  17:55            35,375 BUILTIN\Administrators ONEDRIVESETUP.EXE-C2A2E60C.pf
+31-07-2025  03:28            12,667 BUILTIN\Administrators OPENCONSOLE.EXE-B9E94980.pf
+06-08-2025  14:59            12,621 BUILTIN\Administrators OPENCONSOLE.EXE-DDA41F0C.pf
+03-08-2025  22:55            71,495 BUILTIN\Administrators OPENHANDLECOLLECTOR.EXE-68476ADF.pf
+07-08-2025  11:20            63,244 BUILTIN\Administrators OPENHANDLECOLLECTOR.EXE-96D97172.pf
+31-07-2025  00:38            44,036 BUILTIN\Administrators OPENWITH.EXE-8B50D58B.pf
+07-08-2025  15:11            61,765 BUILTIN\Administrators PHONEEXPERIENCEHOST.EXE-1B6FACDB.pf
+05-08-2025  19:13             3,558 BUILTIN\Administrators PING.EXE-4A8A6853.pf
+07-08-2025  17:11            66,896 BUILTIN\Administrators POWERSHELL.EXE-CA1AE517.pf
+07-08-2025  15:52            78,104 BUILTIN\Administrators POWERSHELL_ISE.EXE-C4180667.pf
+31-07-2025  01:15             9,145 BUILTIN\Administrators PSEXEC64.EXE-C78450C5.pf
+31-07-2025  03:29             8,626 BUILTIN\Administrators PSEXEC64.EXE-D91733D0.pf
+07-08-2025  14:22             9,620 BUILTIN\Administrators PYTHON-3.13.6-AMD64.EXE-54A5771B.pf
+07-08-2025  14:22            14,111 BUILTIN\Administrators PYTHON-3.13.6-AMD64.EXE-A2453C4B.pf
+07-08-2025  14:22             8,287 BUILTIN\Administrators PYTHON-3.13.6-AMD64.EXE-B9BCF73B.pf
+07-08-2025  14:22            42,160 BUILTIN\Administrators PYTHON.EXE-DD01751D.pf
+07-08-2025  16:14             2,705 BUILTIN\Administrators QUERY.EXE-EA64B25B.pf
+07-08-2025  16:14             4,033 BUILTIN\Administrators QUSER.EXE-4A36AD85.pf
+07-08-2025  17:00             7,156 BUILTIN\Administrators RDPCLIP.EXE-7D8DB38B.pf
+07-08-2025  18:04             3,303 BUILTIN\Administrators REG.EXE-A93A1343.pf
+07-08-2025  16:14            67,272 BUILTIN\Administrators ROBOCOPY.EXE-5A937106.pf
+07-08-2025  16:08             2,878 BUILTIN\Administrators ROUTE.EXE-121C5018.pf
+07-08-2025  04:52             5,697 BUILTIN\Administrators RUNDLL32.EXE-6F26928C.pf
+07-08-2025  16:04             3,912 BUILTIN\Administrators RUNDLL32.EXE-75313621.pf
+05-08-2025  22:23             3,881 BUILTIN\Administrators RUNDLL32.EXE-C0159C27.pf
+05-08-2025  21:16            15,537 BUILTIN\Administrators RUNTIMEBROKER.EXE-26B71132.pf
+07-08-2025  18:06             5,135 BUILTIN\Administrators RUNTIMEBROKER.EXE-2C5A250C.pf
+04-08-2025  19:18            15,918 BUILTIN\Administrators RUNTIMEBROKER.EXE-332BE1AA.pf
+05-08-2025  19:08            22,183 BUILTIN\Administrators RUNTIMEBROKER.EXE-42D5C9A2.pf
+07-08-2025  14:22            14,649 BUILTIN\Administrators RUNTIMEBROKER.EXE-4551A062.pf
+07-08-2025  16:23             4,443 BUILTIN\Administrators RUNTIMEBROKER.EXE-73F12BE9.pf
+05-08-2025  19:08            30,172 BUILTIN\Administrators RUNTIMEBROKER.EXE-7B790B15.pf
+07-08-2025  16:06             9,122 BUILTIN\Administrators RUNTIMEBROKER.EXE-7EDA1E8B.pf
+04-08-2025  19:18            11,576 BUILTIN\Administrators RUNTIMEBROKER.EXE-82C7F785.pf
+07-08-2025  00:51            16,312 BUILTIN\Administrators RUNTIMEBROKER.EXE-95675827.pf
+07-08-2025  17:09            20,326 BUILTIN\Administrators RUNTIMEBROKER.EXE-B2BB82C3.pf
+07-08-2025  15:12             7,199 BUILTIN\Administrators RUNTIMEBROKER.EXE-C072A780.pf
+07-08-2025  15:11            10,593 BUILTIN\Administrators RUNTIMEBROKER.EXE-CF59E802.pf
+07-08-2025  15:52            11,718 BUILTIN\Administrators RUNTIMEBROKER.EXE-D7A652E5.pf
+07-08-2025  15:11            19,150 BUILTIN\Administrators RUNTIMEBROKER.EXE-DAA0DF92.pf
+06-08-2025  04:40             5,756 BUILTIN\Administrators RUNTIMEBROKER.EXE-FBAA895A.pf
+07-08-2025  00:06             2,305 BUILTIN\Administrators SC.EXE-6C4D4413.pf
+07-08-2025  16:14             5,619 BUILTIN\Administrators SCHTASKS.EXE-8B6144A9.pf
+07-08-2025  17:58             3,431 BUILTIN\Administrators SDBINST.EXE-49E8B208.pf
+06-08-2025  21:56            37,383 BUILTIN\Administrators SDIAGNHOST.EXE-B3171AA1.pf
+04-08-2025  17:54             4,759 BUILTIN\Administrators SEARCHFILTERHOST.EXE-44162447.pf
+05-08-2025  19:08            64,019 BUILTIN\Administrators SEARCHHOST.EXE-19142404.pf
+03-07-2025  18:22            70,029 BUILTIN\Administrators SEARCHHOST.EXE-721D0ED6.pf
+08-07-2025  21:04            77,021 BUILTIN\Administrators SEARCHHOST.EXE-7954ABDD.pf
+05-08-2025  19:08            35,748 BUILTIN\Administrators SEARCHINDEXER.EXE-1CF42BC6.pf
+07-08-2025  15:09             4,047 BUILTIN\Administrators SEARCHPROTOCOLHOST.EXE-69C456C3.pf
+07-08-2025  15:58            39,137 BUILTIN\Administrators SECHEALTHUI.EXE-21C78B64.pf
+26-10-2024  21:03            31,809 BUILTIN\Administrators SECHEALTHUI.EXE-FF635E64.pf
+07-08-2025  17:00            13,567 BUILTIN\Administrators SECURITYHEALTHHOST.EXE-76C4EEFD.pf
+07-08-2025  15:11            14,978 BUILTIN\Administrators SECURITYHEALTHSERVICE.EXE-91B5FB98.pf
+07-08-2025  15:11             6,601 BUILTIN\Administrators SECURITYHEALTHSYSTRAY.EXE-E527A4AE.pf
+07-08-2025  17:58             4,569 BUILTIN\Administrators SENSEIMDSCOLLECTOR.EXE-3DF66D6E.pf
+07-08-2025  17:10            10,598 BUILTIN\Administrators SENSEIR.EXE-62C13871.pf
+03-08-2025  15:30             6,896 BUILTIN\Administrators SENSENDR.EXE-1ED52916.pf
+07-08-2025  16:15            18,800 BUILTIN\Administrators SENSESAMPLEUPLOADER.EXE-2DB15540.pf
+05-08-2025  21:11            13,097 BUILTIN\Administrators SESSIONMSG.EXE-DACE45E4.pf
+04-08-2025  17:54             8,384 BUILTIN\Administrators SETUP.EXE-835B980A.pf
+04-08-2025  17:54             3,526 BUILTIN\Administrators SETUP.EXE-835B980E.pf
+26-10-2024  20:59            46,115 BUILTIN\Administrators SETUP64.EXE-6C6157AB.pf
+03-07-2025  18:24            34,641 BUILTIN\Administrators SHELLEXPERIENCEHOST.EXE-C2D78DC6.pf
+07-08-2025  15:52            37,126 BUILTIN\Administrators SHELLEXPERIENCEHOST.EXE-D1F7FC12.pf
+07-08-2025  08:49            14,286 BUILTIN\Administrators SIHCLIENT.EXE-98C47F6C.pf
+07-08-2025  15:11            25,525 BUILTIN\Administrators SIHOST.EXE-115B507F.pf
+04-08-2025  15:31             9,045 BUILTIN\Administrators SLUI.EXE-3E441AEE.pf
+07-08-2025  18:06             6,517 BUILTIN\Administrators SMARTSCREEN.EXE-EACC1250.pf
+07-08-2025  15:10             1,364 BUILTIN\Administrators SMSS.EXE-B5B810DB.pf
+04-08-2025  15:31             5,341 BUILTIN\Administrators SPPEXTCOMOBJ.EXE-7D45A1AB.pf
+07-08-2025  17:53            11,253 BUILTIN\Administrators SPPSVC.EXE-96070FE0.pf
+03-07-2025  18:22            53,608 BUILTIN\Administrators STARTMENUEXPERIENCEHOST.EXE-3A2003A4.pf
+08-07-2025  21:04            62,831 BUILTIN\Administrators STARTMENUEXPERIENCEHOST.EXE-C3FCADF5.pf
+05-08-2025  19:08            73,404 BUILTIN\Administrators STARTMENUEXPERIENCEHOST.EXE-EF4F4491.pf
+07-08-2025  17:09            17,907 BUILTIN\Administrators SVCHOST.EXE-002213CE.pf
+07-08-2025  15:58             6,531 BUILTIN\Administrators SVCHOST.EXE-0506DF60.pf
+07-08-2025  16:06            20,175 BUILTIN\Administrators SVCHOST.EXE-117C4441.pf
+06-08-2025  14:29             4,525 BUILTIN\Administrators SVCHOST.EXE-1B48E245.pf
+05-08-2025  19:10             9,988 BUILTIN\Administrators SVCHOST.EXE-2FFEC382.pf
+07-08-2025  15:58             7,815 BUILTIN\Administrators SVCHOST.EXE-366169FB.pf
+07-08-2025  15:45             5,050 BUILTIN\Administrators SVCHOST.EXE-38FE68E5.pf
+07-08-2025  17:56             4,666 BUILTIN\Administrators SVCHOST.EXE-3CF81F86.pf
+07-08-2025  15:11             5,115 BUILTIN\Administrators SVCHOST.EXE-407DF59E.pf
+05-08-2025  22:35             6,087 BUILTIN\Administrators SVCHOST.EXE-4B98D760.pf
+07-08-2025  17:58             8,268 BUILTIN\Administrators SVCHOST.EXE-5F739FCE.pf
+07-08-2025  15:15             4,762 BUILTIN\Administrators SVCHOST.EXE-6867B1E5.pf
+04-08-2025  18:02            84,451 BUILTIN\Administrators SVCHOST.EXE-6A4A44E7.pf
+05-08-2025  04:35            14,874 BUILTIN\Administrators SVCHOST.EXE-78F3B282.pf
+07-08-2025  15:15            29,675 BUILTIN\Administrators SVCHOST.EXE-7AAD9645.pf
+07-08-2025  00:51            22,297 BUILTIN\Administrators SVCHOST.EXE-A2811D73.pf
+05-08-2025  19:10             5,512 BUILTIN\Administrators SVCHOST.EXE-A4B742B7.pf
+07-08-2025  17:26            10,331 BUILTIN\Administrators SVCHOST.EXE-AAD33B2E.pf
+07-08-2025  15:11            22,006 BUILTIN\Administrators SVCHOST.EXE-C38EF8DD.pf
+10-07-2025  17:04             6,690 BUILTIN\Administrators SVCHOST.EXE-E497D745.pf
+07-08-2025  17:00             5,684 BUILTIN\Administrators SVCHOST.EXE-EA9BB143.pf
+07-08-2025  16:58            19,557 BUILTIN\Administrators SVCHOST.EXE-EBBF67E6.pf
+07-08-2025  15:11             6,814 BUILTIN\Administrators SVCHOST.EXE-ED843F3F.pf
+05-08-2025  19:08            22,008 BUILTIN\Administrators SVCHOST.EXE-F6EF00D7.pf
+07-08-2025  16:13             6,090 BUILTIN\Administrators SYSTEMINFO.EXE-3EAAF1C2.pf
+05-08-2025  19:04           104,793 BUILTIN\Administrators SYSTEMSETTINGS.EXE-AD6D6913.pf
+05-08-2025  19:04            52,387 BUILTIN\Administrators SYSTEMSETTINGSADMINFLOWS.EXE-F74198E7.pf
+07-08-2025  17:00            28,904 BUILTIN\Administrators TABTIP.EXE-9740CA06.pf
+07-08-2025  17:53            25,856 BUILTIN\Administrators TASKHOSTW.EXE-2E5D4B75.pf
+04-08-2025  19:17            13,123 BUILTIN\Administrators TASKMGR.EXE-4C8500BA.pf
+07-08-2025  15:17            42,643 BUILTIN\Administrators TEXTINPUTHOST.EXE-0F8FD076.pf
+26-10-2024  20:41            30,396 BUILTIN\Administrators TEXTINPUTHOST.EXE-14EE5444.pf
+03-07-2025  19:24            37,862 BUILTIN\Administrators TEXTINPUTHOST.EXE-6898BB48.pf
+07-07-2025  19:16            43,274 BUILTIN\Administrators TEXTINPUTHOST.EXE-6FD0584F.pf
+09-07-2025  15:01            48,512 BUILTIN\Administrators TIWORKER.EXE-4C761155.pf
+07-08-2025  18:06            33,698 BUILTIN\Administrators TIWORKER.EXE-BDC45818.pf
+07-08-2025  18:06             4,791 BUILTIN\Administrators TRUSTEDINSTALLER.EXE-766EFF52.pf
+07-08-2025  17:00             5,801 BUILTIN\Administrators TSTHEME.EXE-01D23267.pf
+04-08-2025  17:54             8,588 BUILTIN\Administrators UNREGMP2.EXE-51519EBD.pf
+07-08-2025  08:49             5,445 BUILTIN\Administrators UPFC.EXE-89D4FAEB.pf
+04-08-2025  19:18             9,928 BUILTIN\Administrators USEROOBEBROKER.EXE-65584ADF.pf
+26-10-2024  20:59            26,329 BUILTIN\Administrators VCREDIST_X64.EXE-24729B74.pf
+26-10-2024  20:59            26,030 BUILTIN\Administrators VCREDIST_X86.EXE-C907DA9E.pf
+26-10-2024  20:59            13,433 BUILTIN\Administrators VC_REDIST.X64.EXE-947961E2.pf
+26-10-2024  20:59            13,140 BUILTIN\Administrators VC_REDIST.X86.EXE-E1B44A44.pf
+07-08-2025  14:22             4,511 BUILTIN\Administrators VERCLSID.EXE-AB0FD091.pf
+07-08-2025  15:11            17,895 BUILTIN\Administrators VMTOOLSD.EXE-90328040.pf
+06-08-2025  16:25             7,650 BUILTIN\Administrators VMWARERESOLUTIONSET.EXE-38A925F2.pf
+05-08-2025  22:35             6,230 BUILTIN\Administrators VSSVC.EXE-6C8F0C66.pf
+05-08-2025  11:48            18,595 BUILTIN\Administrators WAASMEDICAGENT.EXE-21F161ED.pf
+06-08-2025  21:51             5,840 BUILTIN\Administrators WERFAULTSECURE.EXE-6DAF3622.pf
+07-08-2025  18:04             4,785 BUILTIN\Administrators WEVTUTIL.EXE-1E154F39.pf
+05-08-2025  19:14             3,619 BUILTIN\Administrators WHOAMI.EXE-9D378AFE.pf
+05-08-2025  19:13            56,309 BUILTIN\Administrators WIDGETS.EXE-996A7D2A.pf
+05-08-2025  19:09            14,735 BUILTIN\Administrators WIDGETSERVICE.EXE-03CC7297.pf
+05-08-2025  19:03            27,731 BUILTIN\Administrators WIDGETSERVICE.EXE-70CEBDED.pf
+06-08-2025  21:52            27,553 BUILTIN\Administrators WINDOWSPACKAGEMANAGERSERVER.E-1DDBF1BD.pf
+06-08-2025  14:59            42,001 BUILTIN\Administrators WINDOWSTERMINAL.EXE-0D837036.pf
+03-07-2025  17:16            37,757 BUILTIN\Administrators WINDOWSTERMINAL.EXE-0DDF887E.pf
+31-07-2025  03:28            37,828 BUILTIN\Administrators WINDOWSTERMINAL.EXE-E7CB116A.pf
+07-08-2025  15:11             8,323 BUILTIN\Administrators WINLOGON.EXE-DEDDC9B6.pf
+10-07-2025  16:10             8,436 BUILTIN\Administrators WINVER.EXE-B562C594.pf
+07-08-2025  15:11             3,977 BUILTIN\Administrators WLRMDR.EXE-A7C36FDD.pf
+05-08-2025  19:12             8,613 BUILTIN\Administrators WMIADAP.EXE-BB21CD77.pf
+07-08-2025  11:20             6,343 BUILTIN\Administrators WMIAPSRV.EXE-FC8436DD.pf
+07-08-2025  16:58             9,433 BUILTIN\Administrators WMIPRVSE.EXE-E8B8DD29.pf
+07-08-2025  15:06             7,552 BUILTIN\Administrators WUAUCLTCORE.EXE-07BDE0CF.pf
+07-08-2025  17:00             8,527 BUILTIN\Administrators WUDFHOST.EXE-DEBBE5F1.pf
+10-07-2025  16:11           106,236 BUILTIN\Administrators WWAHOST.EXE-55C529F0.pf
+07-08-2025  16:14             2,831 BUILTIN\Administrators XCOPY.EXE-F5C59A8C.pf
+             301 File(s)      7,080,401 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\MDE_Report
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:07             4,930 BUILTIN\Administrators Executive_Summary.txt
+07-08-2025  18:07             9,250 BUILTIN\Administrators mde_investigation_report.json
+               2 File(s)         14,180 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\Network
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:07               370 BUILTIN\Administrators dns_client_cache.csv
+07-08-2025  18:07               157 BUILTIN\Administrators network_adapters.csv
+07-08-2025  18:07               599 BUILTIN\Administrators suspicious_open_ports.csv
+07-08-2025  18:07             2,495 BUILTIN\Administrators tcp_connections_detailed.csv
+               4 File(s)          3,621 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\Processes
+
+07-08-2025  16:08    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  16:08             3,291 BUILTIN\Administrators modules_AggregatorHost_4664.csv
+07-08-2025  16:08             7,140 BUILTIN\Administrators modules_ApplicationFrameHost_5208.csv
+07-08-2025  16:08            10,328 BUILTIN\Administrators modules_backgroundTaskHost_6248.csv
+07-08-2025  16:08             9,514 BUILTIN\Administrators modules_backgroundTaskHost_8596.csv
+07-08-2025  16:08             3,857 BUILTIN\Administrators modules_conhost_5380.csv
+07-08-2025  16:08             9,959 BUILTIN\Administrators modules_CrossDeviceResume_6160.csv
+07-08-2025  16:08            26,870 BUILTIN\Administrators modules_CrossDeviceService_6836.csv
+07-08-2025  16:08             6,064 BUILTIN\Administrators modules_ctfmon_8956.csv
+07-08-2025  16:08             5,332 BUILTIN\Administrators modules_dllhost_3772.csv
+07-08-2025  16:08             3,488 BUILTIN\Administrators modules_dllhost_8528.csv
+07-08-2025  16:08             7,291 BUILTIN\Administrators modules_dwm_1172.csv
+07-08-2025  16:08             7,585 BUILTIN\Administrators modules_dwm_1964.csv
+07-08-2025  16:08            37,051 BUILTIN\Administrators modules_explorer_3968.csv
+07-08-2025  16:08               737 BUILTIN\Administrators modules_fontdrvhost_440.csv
+07-08-2025  16:08               737 BUILTIN\Administrators modules_fontdrvhost_560.csv
+07-08-2025  16:08               737 BUILTIN\Administrators modules_fontdrvhost_5968.csv
+07-08-2025  16:08            13,961 BUILTIN\Administrators modules_LogonUI_1128.csv
+07-08-2025  16:08            10,145 BUILTIN\Administrators modules_lsass_896.csv
+07-08-2025  16:08               738 BUILTIN\Administrators modules_MicrosoftEdgeUpdate_2784.csv
+07-08-2025  16:08             5,073 BUILTIN\Administrators modules_msdtc_4052.csv
+07-08-2025  16:08             2,094 BUILTIN\Administrators modules_msedgewebview2_1184.csv
+07-08-2025  16:08             4,846 BUILTIN\Administrators modules_msedgewebview2_3228.csv
+07-08-2025  16:08             2,094 BUILTIN\Administrators modules_msedgewebview2_4196.csv
+07-08-2025  16:08             1,705 BUILTIN\Administrators modules_msedgewebview2_4312.csv
+07-08-2025  16:08            13,267 BUILTIN\Administrators modules_msedgewebview2_6656.csv
+07-08-2025  16:08             1,705 BUILTIN\Administrators modules_msedgewebview2_6676.csv
+07-08-2025  16:08            12,857 BUILTIN\Administrators modules_msedgewebview2_7704.csv
+07-08-2025  16:08             2,154 BUILTIN\Administrators modules_msedgewebview2_7820.csv
+07-08-2025  16:08             4,008 BUILTIN\Administrators modules_msedgewebview2_8128.csv
+07-08-2025  16:08             4,956 BUILTIN\Administrators modules_msedgewebview2_8136.csv
+07-08-2025  16:08             2,154 BUILTIN\Administrators modules_msedgewebview2_9332.csv
+07-08-2025  16:08             4,096 BUILTIN\Administrators modules_msedgewebview2_9660.csv
+07-08-2025  16:08             4,044 BUILTIN\Administrators modules_msedge_10120.csv
+07-08-2025  16:08             4,565 BUILTIN\Administrators modules_msedge_10128.csv
+07-08-2025  16:08             2,109 BUILTIN\Administrators modules_msedge_10160.csv
+07-08-2025  16:08            12,049 BUILTIN\Administrators modules_msedge_10168.csv
+07-08-2025  16:08             1,653 BUILTIN\Administrators modules_msedge_4160.csv
+07-08-2025  16:08            22,041 BUILTIN\Administrators modules_OneDrive_9952.csv
+07-08-2025  16:08            35,733 BUILTIN\Administrators modules_PhoneExperienceHost_9468.csv
+07-08-2025  16:08            24,779 BUILTIN\Administrators modules_powershell_ise_5068.csv
+07-08-2025  16:08             4,164 BUILTIN\Administrators modules_rdpclip_4420.csv
+07-08-2025  16:08             2,920 BUILTIN\Administrators modules_RuntimeBroker_6204.csv
+07-08-2025  16:08             4,016 BUILTIN\Administrators modules_RuntimeBroker_6592.csv
+07-08-2025  16:08            12,281 BUILTIN\Administrators modules_RuntimeBroker_6748.csv
+07-08-2025  16:08             9,174 BUILTIN\Administrators modules_RuntimeBroker_7268.csv
+07-08-2025  16:08             4,094 BUILTIN\Administrators modules_RuntimeBroker_9568.csv
+07-08-2025  16:08            18,064 BUILTIN\Administrators modules_SearchHost_6260.csv
+07-08-2025  16:08             6,013 BUILTIN\Administrators modules_SearchIndexer_1148.csv
+07-08-2025  16:08             3,568 BUILTIN\Administrators modules_SecurityHealthSystray_9760.csv
+07-08-2025  16:08             1,802 BUILTIN\Administrators modules_SenseNdr_4368.csv
+07-08-2025  16:08             2,929 BUILTIN\Administrators modules_SenseTVM_3960.csv
+07-08-2025  16:08            13,151 BUILTIN\Administrators modules_ShellExperienceHost_8340.csv
+07-08-2025  16:08             6,574 BUILTIN\Administrators modules_ShellHost_564.csv
+07-08-2025  16:08            11,065 BUILTIN\Administrators modules_sihost_2132.csv
+07-08-2025  16:08             3,971 BUILTIN\Administrators modules_smartscreen_2860.csv
+07-08-2025  16:08             8,300 BUILTIN\Administrators modules_spoolsv_2672.csv
+07-08-2025  16:08            18,575 BUILTIN\Administrators modules_StartMenuExperienceHost_6384.csv
+07-08-2025  16:08             6,251 BUILTIN\Administrators modules_svchost_1236.csv
+07-08-2025  16:08             9,812 BUILTIN\Administrators modules_svchost_1260.csv
+07-08-2025  16:08             5,936 BUILTIN\Administrators modules_svchost_1308.csv
+07-08-2025  16:08            10,259 BUILTIN\Administrators modules_svchost_1320.csv
+07-08-2025  16:08             3,618 BUILTIN\Administrators modules_svchost_1328.csv
+07-08-2025  16:08             3,991 BUILTIN\Administrators modules_svchost_1452.csv
+07-08-2025  16:08            22,207 BUILTIN\Administrators modules_svchost_1528.csv
+07-08-2025  16:08             6,823 BUILTIN\Administrators modules_svchost_1552.csv
+07-08-2025  16:08             3,970 BUILTIN\Administrators modules_svchost_1572.csv
+07-08-2025  16:08             5,555 BUILTIN\Administrators modules_svchost_1656.csv
+07-08-2025  16:08             5,244 BUILTIN\Administrators modules_svchost_1664.csv
+07-08-2025  16:08             4,016 BUILTIN\Administrators modules_svchost_1792.csv
+07-08-2025  16:08             3,049 BUILTIN\Administrators modules_svchost_2072.csv
+07-08-2025  16:08             6,547 BUILTIN\Administrators modules_svchost_2280.csv
+07-08-2025  16:08             5,159 BUILTIN\Administrators modules_svchost_2336.csv
+07-08-2025  16:08             2,479 BUILTIN\Administrators modules_svchost_2460.csv
+07-08-2025  16:08             3,730 BUILTIN\Administrators modules_svchost_2468.csv
+07-08-2025  16:08             2,663 BUILTIN\Administrators modules_svchost_2660.csv
+07-08-2025  16:08             5,626 BUILTIN\Administrators modules_svchost_2800.csv
+07-08-2025  16:08            11,267 BUILTIN\Administrators modules_svchost_2820.csv
+07-08-2025  16:08             2,177 BUILTIN\Administrators modules_svchost_3012.csv
+07-08-2025  16:08             2,660 BUILTIN\Administrators modules_svchost_3064.csv
+07-08-2025  16:08             3,375 BUILTIN\Administrators modules_svchost_3320.csv
+07-08-2025  16:08             3,473 BUILTIN\Administrators modules_svchost_3764.csv
+07-08-2025  16:08             4,027 BUILTIN\Administrators modules_svchost_4512.csv
+07-08-2025  16:08             3,602 BUILTIN\Administrators modules_svchost_4864.csv
+07-08-2025  16:08             3,522 BUILTIN\Administrators modules_svchost_5140.csv
+07-08-2025  16:08             2,773 BUILTIN\Administrators modules_svchost_5240.csv
+07-08-2025  16:08            11,079 BUILTIN\Administrators modules_svchost_540.csv
+07-08-2025  16:08             2,664 BUILTIN\Administrators modules_svchost_5776.csv
+07-08-2025  16:08             2,439 BUILTIN\Administrators modules_svchost_5852.csv
+07-08-2025  16:08            11,846 BUILTIN\Administrators modules_svchost_6100.csv
+07-08-2025  16:08             4,004 BUILTIN\Administrators modules_svchost_6128.csv
+07-08-2025  16:08             5,636 BUILTIN\Administrators modules_svchost_6852.csv
+07-08-2025  16:08             3,405 BUILTIN\Administrators modules_svchost_6972.csv
+07-08-2025  16:08             5,764 BUILTIN\Administrators modules_svchost_7172.csv
+07-08-2025  16:08             4,648 BUILTIN\Administrators modules_svchost_7484.csv
+07-08-2025  16:08             4,607 BUILTIN\Administrators modules_svchost_868.csv
+07-08-2025  16:08            12,008 BUILTIN\Administrators modules_TabTip_9012.csv
+07-08-2025  16:08             5,010 BUILTIN\Administrators modules_taskhostw_5756.csv
+07-08-2025  16:08             7,798 BUILTIN\Administrators modules_taskhostw_7436.csv
+07-08-2025  16:08            12,076 BUILTIN\Administrators modules_TextInputHost_9328.csv
+07-08-2025  16:08             5,908 BUILTIN\Administrators modules_TiWorker_3216.csv
+07-08-2025  16:08             2,310 BUILTIN\Administrators modules_TrustedInstaller_10216.csv
+07-08-2025  16:08             4,257 BUILTIN\Administrators modules_VGAuthService_2980.csv
+07-08-2025  16:08             2,834 BUILTIN\Administrators modules_vm3dservice_2988.csv
+07-08-2025  16:08             3,001 BUILTIN\Administrators modules_vm3dservice_3248.csv
+07-08-2025  16:08             9,603 BUILTIN\Administrators modules_vmtoolsd_2996.csv
+07-08-2025  16:08            10,001 BUILTIN\Administrators modules_vmtoolsd_9844.csv
+07-08-2025  16:08             6,273 BUILTIN\Administrators modules_WidgetService_6624.csv
+07-08-2025  16:08            14,523 BUILTIN\Administrators modules_Widgets_7356.csv
+07-08-2025  16:08             4,133 BUILTIN\Administrators modules_winlogon_4820.csv
+07-08-2025  16:08             3,595 BUILTIN\Administrators modules_winlogon_804.csv
+07-08-2025  16:08             2,912 BUILTIN\Administrators modules_WmiPrvSE_3088.csv
+07-08-2025  16:08             8,851 BUILTIN\Administrators modules_WmiPrvSE_3908.csv
+07-08-2025  16:08             2,806 BUILTIN\Administrators modules_WmiPrvSE_4148.csv
+07-08-2025  16:08             3,980 BUILTIN\Administrators modules_WUDFHost_5356.csv
+07-08-2025  16:08            66,170 BUILTIN\Administrators process_tree.csv
+07-08-2025  16:08            27,771 BUILTIN\Administrators running_processes.csv
+07-08-2025  16:08               486 BUILTIN\Administrators suspicious_handles.csv
+07-08-2025  16:08             3,254 BUILTIN\Administrators tcp_connections.csv
+07-08-2025  16:08             2,884 BUILTIN\Administrators udp_endpoints.csv
+             119 File(s)        895,815 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\Registry
+
+07-08-2025  18:04    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:04        16,115,354 BUILTIN\Administrators appcompat_cache.json
+07-08-2025  18:04             1,428 BUILTIN\Administrators HKCU_Run.reg
+07-08-2025  18:04             1,014 BUILTIN\Administrators HKLM_Run.reg
+07-08-2025  18:04           506,122 BUILTIN\Administrators persistence_registry.csv
+07-08-2025  18:04                 0 BUILTIN\Administrators recent_registry_changes.csv
+               5 File(s)     16,623,918 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\ScheduledTasks
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:07            36,405 BUILTIN\Administrators all_scheduled_tasks.csv
+07-08-2025  18:07             2,524 BUILTIN\Administrators recent_scheduled_tasks.csv
+07-08-2025  18:07             8,248 BUILTIN\Administrators task_MicrosoftEdgeUpdateTaskMachineCore{807C6980-834F-411A-ACF5-4FA489930ABE}.json
+07-08-2025  18:07             9,114 BUILTIN\Administrators task_MicrosoftEdgeUpdateTaskMachineUA{FB8108C4-9A5E-45F1-B8AB-0CD1A55D6DDB}.json
+07-08-2025  18:07             8,670 BUILTIN\Administrators task_OneDrive Reporting Task-S-1-5-21-3536387592-484795968-114242157-1633.json
+07-08-2025  18:07             8,668 BUILTIN\Administrators task_OneDrive Reporting Task-S-1-5-21-3536387592-484795968-114242157-1644.json
+07-08-2025  18:07             8,668 BUILTIN\Administrators task_OneDrive Reporting Task-S-1-5-21-3536387592-484795968-114242157-1654.json
+07-08-2025  18:07             8,670 BUILTIN\Administrators task_OneDrive Reporting Task-S-1-5-21-3536387592-484795968-114242157-1658.json
+07-08-2025  18:07             8,672 BUILTIN\Administrators task_OneDrive Reporting Task-S-1-5-21-382297125-3180263876-1941408969-1001.json
+07-08-2025  18:07             8,670 BUILTIN\Administrators task_OneDrive Standalone Update Task-S-1-5-21-3536387592-484795968-114242157-1633.json
+07-08-2025  18:07             8,678 BUILTIN\Administrators task_OneDrive Standalone Update Task-S-1-5-21-3536387592-484795968-114242157-1644.json
+07-08-2025  18:07             8,678 BUILTIN\Administrators task_OneDrive Standalone Update Task-S-1-5-21-3536387592-484795968-114242157-1654.json
+07-08-2025  18:07             8,680 BUILTIN\Administrators task_OneDrive Standalone Update Task-S-1-5-21-3536387592-484795968-114242157-1658.json
+07-08-2025  18:07             8,682 BUILTIN\Administrators task_OneDrive Standalone Update Task-S-1-5-21-382297125-3180263876-1941408969-1001.json
+07-08-2025  18:07             9,032 BUILTIN\Administrators task_OneDrive Startup Task-S-1-5-21-3536387592-484795968-114242157-1633.json
+07-08-2025  18:07             9,030 BUILTIN\Administrators task_OneDrive Startup Task-S-1-5-21-3536387592-484795968-114242157-1644.json
+07-08-2025  18:07             9,022 BUILTIN\Administrators task_OneDrive Startup Task-S-1-5-21-3536387592-484795968-114242157-1654.json
+07-08-2025  18:07             9,032 BUILTIN\Administrators task_OneDrive Startup Task-S-1-5-21-3536387592-484795968-114242157-1658.json
+07-08-2025  18:07             9,022 BUILTIN\Administrators task_OneDrive Startup Task-S-1-5-21-382297125-3180263876-1941408969-1001.json
+07-08-2025  18:07             8,526 BUILTIN\Administrators task_SvcUpdater.json
+07-08-2025  18:07             8,452 BUILTIN\Administrators task_TelemetryHost.json
+07-08-2025  18:07             8,850 BUILTIN\Administrators task_UpdaterServiceTask.json
+07-08-2025  18:07             8,452 BUILTIN\Administrators task_UpdaterTask_20250806_162551.json
+07-08-2025  18:07             8,292 BUILTIN\Administrators task_UpdaterTask_20250806_175454.json
+07-08-2025  18:07             8,292 BUILTIN\Administrators task_UpdaterTask_20250807_000612.json
+07-08-2025  18:07             8,888 BUILTIN\Administrators task_WindowsUpdaterSvc.json
+              26 File(s)        247,917 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\Services
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:07            17,256 BUILTIN\Administrators all_services.csv
+07-08-2025  18:07               602 BUILTIN\Administrators non_microsoft_services.csv
+07-08-2025  18:07             1,166 BUILTIN\Administrators recently_modified_services.csv
+07-08-2025  18:07            85,603 BUILTIN\Administrators service_details.csv
+               4 File(s)        104,627 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\SystemInfo
+
+07-08-2025  16:08    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  16:08               992 BUILTIN\Administrators arp_cache.txt
+07-08-2025  16:08               726 BUILTIN\Administrators computer_details.json
+07-08-2025  16:08            25,266 BUILTIN\Administrators dns_cache.txt
+07-08-2025  16:08            53,328 BUILTIN\Administrators firewall_rules.csv
+07-08-2025  16:08             2,928 BUILTIN\Administrators ipconfig.txt
+07-08-2025  16:08               182 BUILTIN\Administrators netbios_cache.txt
+07-08-2025  16:08            20,400 BUILTIN\Administrators netstat.txt
+07-08-2025  16:08             3,956 BUILTIN\Administrators routing_table.txt
+07-08-2025  16:08             5,700 BUILTIN\Administrators systeminfo.txt
+               9 File(s)        113,478 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\Timeline
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:07           115,359 BUILTIN\Administrators forensic_timeline.csv
+07-08-2025  18:07             1,238 BUILTIN\Administrators timeline_summary.json
+               2 File(s)        116,597 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_160810\WMI
+
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:07    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:07               126 BUILTIN\Administrators wmi_bindings.csv
+07-08-2025  18:07                63 BUILTIN\Administrators wmi_event_consumers.csv
+07-08-2025  18:07               107 BUILTIN\Administrators wmi_event_filters.csv
+07-08-2025  18:07            27,060 BUILTIN\Administrators wmi_persistence_detected.json
+               4 File(s)         27,356 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_182824
+
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+07-08-2025  18:28               957 BUILTIN\Administrators collection_log.txt
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators Processes
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators Registry
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators SystemInfo
+               1 File(s)            957 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_182824\Processes
+
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:28             3,291 BUILTIN\Administrators modules_AggregatorHost_4664.csv
+07-08-2025  18:28             6,674 BUILTIN\Administrators modules_ApplicationFrameHost_5208.csv
+07-08-2025  18:28             9,978 BUILTIN\Administrators modules_backgroundTaskHost_6248.csv
+07-08-2025  18:28             9,514 BUILTIN\Administrators modules_backgroundTaskHost_8596.csv
+07-08-2025  18:28             3,857 BUILTIN\Administrators modules_conhost_5380.csv
+07-08-2025  18:28            11,395 BUILTIN\Administrators modules_CrossDeviceResume_6160.csv
+07-08-2025  18:28            26,870 BUILTIN\Administrators modules_CrossDeviceService_6836.csv
+07-08-2025  18:28             5,826 BUILTIN\Administrators modules_ctfmon_3420.csv
+07-08-2025  18:28             5,332 BUILTIN\Administrators modules_dllhost_3772.csv
+07-08-2025  18:28             3,488 BUILTIN\Administrators modules_dllhost_8528.csv
+07-08-2025  18:28             7,291 BUILTIN\Administrators modules_dwm_1172.csv
+07-08-2025  18:28             7,585 BUILTIN\Administrators modules_dwm_1964.csv
+07-08-2025  18:28            37,118 BUILTIN\Administrators modules_explorer_3968.csv
+07-08-2025  18:28               737 BUILTIN\Administrators modules_fontdrvhost_440.csv
+07-08-2025  18:28               737 BUILTIN\Administrators modules_fontdrvhost_560.csv
+07-08-2025  18:28               737 BUILTIN\Administrators modules_fontdrvhost_5968.csv
+07-08-2025  18:28            13,961 BUILTIN\Administrators modules_LogonUI_1128.csv
+07-08-2025  18:28            10,145 BUILTIN\Administrators modules_lsass_896.csv
+07-08-2025  18:28               738 BUILTIN\Administrators modules_MicrosoftEdgeUpdate_2784.csv
+07-08-2025  18:28             5,073 BUILTIN\Administrators modules_msdtc_4052.csv
+07-08-2025  18:28             2,094 BUILTIN\Administrators modules_msedgewebview2_1184.csv
+07-08-2025  18:28             4,846 BUILTIN\Administrators modules_msedgewebview2_3228.csv
+07-08-2025  18:28             2,094 BUILTIN\Administrators modules_msedgewebview2_4196.csv
+07-08-2025  18:28             1,705 BUILTIN\Administrators modules_msedgewebview2_4312.csv
+07-08-2025  18:28            13,453 BUILTIN\Administrators modules_msedgewebview2_6656.csv
+07-08-2025  18:28             1,705 BUILTIN\Administrators modules_msedgewebview2_6676.csv
+07-08-2025  18:28            12,966 BUILTIN\Administrators modules_msedgewebview2_7704.csv
+07-08-2025  18:28             2,154 BUILTIN\Administrators modules_msedgewebview2_7820.csv
+07-08-2025  18:28             4,008 BUILTIN\Administrators modules_msedgewebview2_8128.csv
+07-08-2025  18:28             4,956 BUILTIN\Administrators modules_msedgewebview2_8136.csv
+07-08-2025  18:28             2,154 BUILTIN\Administrators modules_msedgewebview2_9332.csv
+07-08-2025  18:28             4,096 BUILTIN\Administrators modules_msedgewebview2_9660.csv
+07-08-2025  18:28             4,044 BUILTIN\Administrators modules_msedge_10120.csv
+07-08-2025  18:28             4,565 BUILTIN\Administrators modules_msedge_10128.csv
+07-08-2025  18:28             2,109 BUILTIN\Administrators modules_msedge_10160.csv
+07-08-2025  18:28            12,049 BUILTIN\Administrators modules_msedge_10168.csv
+07-08-2025  18:28             1,653 BUILTIN\Administrators modules_msedge_4160.csv
+07-08-2025  18:28            22,041 BUILTIN\Administrators modules_OneDrive_9952.csv
+07-08-2025  18:28            35,733 BUILTIN\Administrators modules_PhoneExperienceHost_9468.csv
+07-08-2025  18:28            25,511 BUILTIN\Administrators modules_powershell_ise_5068.csv
+07-08-2025  18:28             4,164 BUILTIN\Administrators modules_rdpclip_4420.csv
+07-08-2025  18:28             2,571 BUILTIN\Administrators modules_RuntimeBroker_6204.csv
+07-08-2025  18:28             4,016 BUILTIN\Administrators modules_RuntimeBroker_6592.csv
+07-08-2025  18:28            12,281 BUILTIN\Administrators modules_RuntimeBroker_6748.csv
+07-08-2025  18:28             9,174 BUILTIN\Administrators modules_RuntimeBroker_7268.csv
+07-08-2025  18:28             4,094 BUILTIN\Administrators modules_RuntimeBroker_9568.csv
+07-08-2025  18:28             3,063 BUILTIN\Administrators modules_SearchFilterHost_2544.csv
+07-08-2025  18:28            18,064 BUILTIN\Administrators modules_SearchHost_6260.csv
+07-08-2025  18:28             6,013 BUILTIN\Administrators modules_SearchIndexer_1148.csv
+07-08-2025  18:28             4,331 BUILTIN\Administrators modules_SearchProtocolHost_4396.csv
+07-08-2025  18:28             3,704 BUILTIN\Administrators modules_SecurityHealthSystray_9760.csv
+07-08-2025  18:28             1,802 BUILTIN\Administrators modules_SenseNdr_4368.csv
+07-08-2025  18:28             2,929 BUILTIN\Administrators modules_SenseTVM_3960.csv
+07-08-2025  18:28            13,151 BUILTIN\Administrators modules_ShellExperienceHost_8340.csv
+07-08-2025  18:28             6,574 BUILTIN\Administrators modules_ShellHost_564.csv
+07-08-2025  18:28            11,003 BUILTIN\Administrators modules_sihost_2132.csv
+07-08-2025  18:28             3,971 BUILTIN\Administrators modules_smartscreen_7384.csv
+07-08-2025  18:28             8,393 BUILTIN\Administrators modules_spoolsv_2672.csv
+07-08-2025  18:28            18,575 BUILTIN\Administrators modules_StartMenuExperienceHost_6384.csv
+07-08-2025  18:28             6,251 BUILTIN\Administrators modules_svchost_1236.csv
+07-08-2025  18:28            12,186 BUILTIN\Administrators modules_svchost_1260.csv
+07-08-2025  18:28             5,936 BUILTIN\Administrators modules_svchost_1308.csv
+07-08-2025  18:28            10,357 BUILTIN\Administrators modules_svchost_1320.csv
+07-08-2025  18:28             3,618 BUILTIN\Administrators modules_svchost_1328.csv
+07-08-2025  18:28             3,991 BUILTIN\Administrators modules_svchost_1452.csv
+07-08-2025  18:28            22,872 BUILTIN\Administrators modules_svchost_1528.csv
+07-08-2025  18:28             6,823 BUILTIN\Administrators modules_svchost_1552.csv
+07-08-2025  18:28             3,970 BUILTIN\Administrators modules_svchost_1572.csv
+07-08-2025  18:28             5,555 BUILTIN\Administrators modules_svchost_1656.csv
+07-08-2025  18:28             6,232 BUILTIN\Administrators modules_svchost_1664.csv
+07-08-2025  18:28             7,454 BUILTIN\Administrators modules_svchost_1792.csv
+07-08-2025  18:28             3,049 BUILTIN\Administrators modules_svchost_2072.csv
+07-08-2025  18:28             6,547 BUILTIN\Administrators modules_svchost_2280.csv
+07-08-2025  18:28             5,159 BUILTIN\Administrators modules_svchost_2336.csv
+07-08-2025  18:28             2,479 BUILTIN\Administrators modules_svchost_2460.csv
+07-08-2025  18:28             3,730 BUILTIN\Administrators modules_svchost_2468.csv
+07-08-2025  18:28             2,663 BUILTIN\Administrators modules_svchost_2660.csv
+07-08-2025  18:28             5,626 BUILTIN\Administrators modules_svchost_2800.csv
+07-08-2025  18:28            11,267 BUILTIN\Administrators modules_svchost_2820.csv
+07-08-2025  18:28             2,660 BUILTIN\Administrators modules_svchost_3064.csv
+07-08-2025  18:28             3,375 BUILTIN\Administrators modules_svchost_3320.csv
+07-08-2025  18:28             3,473 BUILTIN\Administrators modules_svchost_3764.csv
+07-08-2025  18:28             4,027 BUILTIN\Administrators modules_svchost_4512.csv
+07-08-2025  18:28             3,602 BUILTIN\Administrators modules_svchost_4864.csv
+07-08-2025  18:28             3,522 BUILTIN\Administrators modules_svchost_5140.csv
+07-08-2025  18:28             2,773 BUILTIN\Administrators modules_svchost_5240.csv
+07-08-2025  18:28            11,174 BUILTIN\Administrators modules_svchost_540.csv
+07-08-2025  18:28             2,439 BUILTIN\Administrators modules_svchost_5852.csv
+07-08-2025  18:28            11,846 BUILTIN\Administrators modules_svchost_6100.csv
+07-08-2025  18:28             4,004 BUILTIN\Administrators modules_svchost_6128.csv
+07-08-2025  18:28             2,664 BUILTIN\Administrators modules_svchost_6288.csv
+07-08-2025  18:28             5,636 BUILTIN\Administrators modules_svchost_6852.csv
+07-08-2025  18:28             3,405 BUILTIN\Administrators modules_svchost_6972.csv
+07-08-2025  18:28             5,764 BUILTIN\Administrators modules_svchost_7172.csv
+07-08-2025  18:28             6,743 BUILTIN\Administrators modules_svchost_7484.csv
+07-08-2025  18:28             4,607 BUILTIN\Administrators modules_svchost_868.csv
+07-08-2025  18:28            11,883 BUILTIN\Administrators modules_TabTip_2296.csv
+07-08-2025  18:28             5,010 BUILTIN\Administrators modules_taskhostw_5756.csv
+07-08-2025  18:28             7,798 BUILTIN\Administrators modules_taskhostw_7436.csv
+07-08-2025  18:28            12,076 BUILTIN\Administrators modules_TextInputHost_9328.csv
+07-08-2025  18:28             5,711 BUILTIN\Administrators modules_TiWorker_8524.csv
+07-08-2025  18:28             2,310 BUILTIN\Administrators modules_TrustedInstaller_2636.csv
+07-08-2025  18:28             4,371 BUILTIN\Administrators modules_VGAuthService_2980.csv
+07-08-2025  18:28             2,834 BUILTIN\Administrators modules_vm3dservice_2988.csv
+07-08-2025  18:28             3,001 BUILTIN\Administrators modules_vm3dservice_3248.csv
+07-08-2025  18:28             9,603 BUILTIN\Administrators modules_vmtoolsd_2996.csv
+07-08-2025  18:28            10,001 BUILTIN\Administrators modules_vmtoolsd_9844.csv
+07-08-2025  18:28             6,273 BUILTIN\Administrators modules_WidgetService_6624.csv
+07-08-2025  18:28            14,523 BUILTIN\Administrators modules_Widgets_7356.csv
+07-08-2025  18:28             4,537 BUILTIN\Administrators modules_winlogon_4820.csv
+07-08-2025  18:28             3,595 BUILTIN\Administrators modules_winlogon_804.csv
+07-08-2025  18:28             9,522 BUILTIN\Administrators modules_WmiPrvSE_3908.csv
+07-08-2025  18:28             3,005 BUILTIN\Administrators modules_WmiPrvSE_7624.csv
+07-08-2025  18:28             3,473 BUILTIN\Administrators modules_WmiPrvSE_9016.csv
+07-08-2025  18:28             3,595 BUILTIN\Administrators modules_WmiPrvSE_9928.csv
+07-08-2025  18:28             3,980 BUILTIN\Administrators modules_WUDFHost_10216.csv
+07-08-2025  18:28            66,803 BUILTIN\Administrators process_tree.csv
+07-08-2025  18:28            28,261 BUILTIN\Administrators running_processes.csv
+07-08-2025  18:28               550 BUILTIN\Administrators suspicious_handles.csv
+07-08-2025  18:28             2,540 BUILTIN\Administrators tcp_connections.csv
+07-08-2025  18:28             2,896 BUILTIN\Administrators udp_endpoints.csv
+             121 File(s)        917,786 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_182824\Registry
+
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ForensicCollection_20250807_182824\SystemInfo
+
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:28               992 BUILTIN\Administrators arp_cache.txt
+07-08-2025  18:28               726 BUILTIN\Administrators computer_details.json
+07-08-2025  18:28            13,534 BUILTIN\Administrators dns_cache.txt
+07-08-2025  18:28            53,328 BUILTIN\Administrators firewall_rules.csv
+07-08-2025  18:28             2,928 BUILTIN\Administrators ipconfig.txt
+07-08-2025  18:28               182 BUILTIN\Administrators netbios_cache.txt
+07-08-2025  18:28            19,190 BUILTIN\Administrators netstat.txt
+07-08-2025  18:28             3,956 BUILTIN\Administrators routing_table.txt
+07-08-2025  18:28             5,700 BUILTIN\Administrators systeminfo.txt
+               9 File(s)        100,536 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ListSync
+
+04-08-2025  19:18    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+07-08-2025  14:22    <DIR>          AVIRUP-1\Admin         Common
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\ListSync\Common
+
+07-08-2025  14:22    <DIR>          AVIRUP-1\Admin         .
+04-08-2025  19:18    <DIR>          AVIRUP-1\Admin         ..
+07-08-2025  14:22           425,984 AVIRUP-1\Admin         Microsoft.ListSync.Thumbnails.db
+               1 File(s)        425,984 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\Low
+
+03-07-2025  19:33    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\MDEAdvancedTest_20250807182733
+
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+07-08-2025  18:27             4,662 BUILTIN\Administrators account_discovery_advanced.json
+07-08-2025  18:28            11,743 BUILTIN\Administrators AdvancedSimulation_8bdd81b5-86e8-4dd4-9613-9dfe427be5e7.log
+07-08-2025  18:27               324 BUILTIN\Administrators apc_injection.json
+07-08-2025  18:27               570 BUILTIN\Administrators attack_fingerprint.json
+07-08-2025  18:28               336 BUILTIN\Administrators c2_exfil_1884008292.json
+07-08-2025  18:28               344 BUILTIN\Administrators c2_exfil_1957332214.json
+07-08-2025  18:28               340 BUILTIN\Administrators c2_exfil_262278765.json
+07-08-2025  18:28               350 BUILTIN\Administrators cloud_exfil_AWS S3.json
+07-08-2025  18:28               350 BUILTIN\Administrators cloud_exfil_Dropbox.json
+07-08-2025  18:28               364 BUILTIN\Administrators cloud_exfil_GoogleDrive.json
+07-08-2025  18:28               394 BUILTIN\Administrators cloud_exfil_OneDrive.json
+07-08-2025  18:27               536 BUILTIN\Administrators credential_dump_attempt.json
+07-08-2025  18:27               238 BUILTIN\Administrators decoded_payload.ps1
+07-08-2025  18:27               318 BUILTIN\Administrators encoded_payload.txt
+07-08-2025  18:28               364 BUILTIN\Administrators encrypted_channel.json
+07-08-2025  18:28                22 BUILTIN\Administrators exfil_data.cab
+07-08-2025  18:28                19 BUILTIN\Administrators exfil_data.rar
+07-08-2025  18:28             1,551 BUILTIN\Administrators exfil_data.zip
+07-08-2025  18:28               722 BUILTIN\Administrators HOW_TO_DECRYPT.txt
+07-08-2025  18:27               584 BUILTIN\Administrators injection_T1055.001.json
+07-08-2025  18:27               584 BUILTIN\Administrators injection_T1055.002.json
+07-08-2025  18:27               588 BUILTIN\Administrators injection_T1055.003.json
+07-08-2025  18:27               600 BUILTIN\Administrators injection_T1055.012.json
+07-08-2025  18:28               334 BUILTIN\Administrators log_clear_Application.json
+07-08-2025  18:28               450 BUILTIN\Administrators log_clear_Microsoft-Windows-PowerShell_Operational.json
+07-08-2025  18:28               322 BUILTIN\Administrators log_clear_Security.json
+07-08-2025  18:28               314 BUILTIN\Administrators log_clear_System.json
+07-08-2025  18:27               344 BUILTIN\Administrators lolbas_certutil.json
+07-08-2025  18:27               314 BUILTIN\Administrators lolbas_mshta.json
+07-08-2025  18:27               328 BUILTIN\Administrators lolbas_regsvr32.json
+07-08-2025  18:27               378 BUILTIN\Administrators lolbas_rundll32.json
+07-08-2025  18:28             4,806 BUILTIN\Administrators MDE_Alert_Report.html
+07-08-2025  18:28            62,120 BUILTIN\Administrators MDE_Correlation_8bdd81b5-86e8-4dd4-9613-9dfe427be5e7.json
+07-08-2025  18:27             1,636 BUILTIN\Administrators mimikatz_simulation_advanced.log
+07-08-2025  18:27            19,806 BUILTIN\Administrators network_configuration.json
+07-08-2025  18:27               776 BUILTIN\Administrators ntds_access_attempt.json
+07-08-2025  18:27               244 BUILTIN\Administrators obfuscation_1379809597.json
+07-08-2025  18:27               256 BUILTIN\Administrators obfuscation_1433171128.json
+07-08-2025  18:27               280 BUILTIN\Administrators obfuscation_489249268.json
+07-08-2025  18:27               268 BUILTIN\Administrators obfuscation_813663311.json
+07-08-2025  18:27               636 BUILTIN\Administrators privileged_groups.json
+07-08-2025  18:27               256 BUILTIN\Administrators ps_execution_EncodedCommand.json
+07-08-2025  18:27               262 BUILTIN\Administrators ps_execution_InvokeExpression.json
+07-08-2025  18:27               252 BUILTIN\Administrators ps_execution_ScriptBlock.json
+07-08-2025  18:27               130 BUILTIN\Administrators rdp_configuration.json
+07-08-2025  18:28               356 BUILTIN\Administrators recovery_inhibit_154471479.json
+07-08-2025  18:28               400 BUILTIN\Administrators recovery_inhibit_1888694303.json
+07-08-2025  18:28               368 BUILTIN\Administrators recovery_inhibit_1922755157.json
+07-08-2025  18:28               344 BUILTIN\Administrators recovery_inhibit_608174682.json
+07-08-2025  18:27            47,378 BUILTIN\Administrators registry_HKCU__Software_Microsoft_Windows_CurrentVersion_Internet Settings.json
+07-08-2025  18:27            48,354 BUILTIN\Administrators registry_HKLM__SOFTWARE_Microsoft_Windows NT_CurrentVersion_Winlogon.json
+07-08-2025  18:27            47,594 BUILTIN\Administrators registry_HKLM__SOFTWARE_Microsoft_Windows_CurrentVersion_Policies_System.json
+07-08-2025  18:27            48,134 BUILTIN\Administrators registry_HKLM__SYSTEM_CurrentControlSet_Control_Lsa.json
+07-08-2025  18:27            46,358 BUILTIN\Administrators registry_HKLM__SYSTEM_CurrentControlSet_Services_W32Time_Parameters.json
+07-08-2025  18:28               300 BUILTIN\Administrators secure_delete_cipher.json
+07-08-2025  18:28               300 BUILTIN\Administrators secure_delete_format.json
+07-08-2025  18:28               342 BUILTIN\Administrators secure_delete_sdelete.json
+07-08-2025  18:27               324 BUILTIN\Administrators security_enum_MsMpEng.json
+07-08-2025  18:27               352 BUILTIN\Administrators security_enum_SecurityHealthService.json
+07-08-2025  18:27                 0 BUILTIN\Administrators sensitive_file_discovery.json
+07-08-2025  18:27             6,142 BUILTIN\Administrators service_discovery.json
+07-08-2025  18:27               322 BUILTIN\Administrators smb_test_1271485568.json
+07-08-2025  18:27               314 BUILTIN\Administrators smb_test_1640826034.json
+07-08-2025  18:27               318 BUILTIN\Administrators smb_test_2049667159.json
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators staged_data_8bdd81b5
+07-08-2025  18:28                88 BUILTIN\Administrators test_file.crypto
+07-08-2025  18:28                88 BUILTIN\Administrators test_file.enc
+07-08-2025  18:28                88 BUILTIN\Administrators test_file.encrypted
+07-08-2025  18:28                88 BUILTIN\Administrators test_file.locked
+07-08-2025  18:28                88 BUILTIN\Administrators test_file.WNCRY
+07-08-2025  18:27               208 BUILTIN\Administrators winrm_configuration.json
+07-08-2025  18:27             1,002 BUILTIN\Administrators wmi_persistence_advanced.json
+07-08-2025  18:27               290 BUILTIN\Administrators wmi_query_49583989.json
+07-08-2025  18:27               356 BUILTIN\Administrators wmi_query_539614389.json
+07-08-2025  18:27               344 BUILTIN\Administrators wmi_query_827981587.json
+07-08-2025  18:27                68 BUILTIN\Administrators xor_encrypted.dat
+              75 File(s)        371,123 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\MDEAdvancedTest_20250807182733\staged_data_8bdd81b5
+
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:28    <DIR>          BUILTIN\Administrators ..
+07-08-2025  18:28               124 BUILTIN\Administrators api_keys.json
+07-08-2025  18:28               772 BUILTIN\Administrators collection_manifest.json
+07-08-2025  18:28               716 BUILTIN\Administrators collection_script.ps1
+07-08-2025  18:28               116 BUILTIN\Administrators database.sql
+07-08-2025  18:28               140 BUILTIN\Administrators financial_data.csv
+07-08-2025  18:28               108 BUILTIN\Administrators passwords.txt
+07-08-2025  18:28               182 BUILTIN\Administrators private_key.pem
+               7 File(s)          2,158 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\MDETestArtifacts
+
+07-08-2025  16:08    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+07-08-2025  16:07             1,404 BUILTIN\Administrators account_activity.json
+07-08-2025  16:08               394 BUILTIN\Administrators antiforensics.json
+07-08-2025  15:54             3,047 BUILTIN\Administrators AttackSimulation_20250807_155426.log
+07-08-2025  16:08             3,047 BUILTIN\Administrators AttackSimulation_20250807_160752.log
+07-08-2025  16:08             6,784 BUILTIN\Administrators attack_timeline.json
+07-08-2025  16:08               392 BUILTIN\Administrators aws_credentials.json
+07-08-2025  16:08               376 BUILTIN\Administrators credential_dump.json
+07-08-2025  16:08               596 BUILTIN\Administrators destruction_indicators.json
+07-08-2025  16:07             1,024 BUILTIN\Administrators encoded_payload.b64
+07-08-2025  16:08               548 BUILTIN\Administrators exfiltration_activity.json
+07-08-2025  16:08               847 BUILTIN\Administrators exfil_package.zip
+07-08-2025  16:08             1,044 BUILTIN\Administrators file_discovery.json
+07-08-2025  16:08             1,254 BUILTIN\Administrators group_discovery.json
+07-08-2025  16:08             3,464 BUILTIN\Administrators indicators_of_compromise.json
+07-08-2025  16:08               586 BUILTIN\Administrators lateral_movement.json
+07-08-2025  16:08               642 BUILTIN\Administrators log_clearing.json
+07-08-2025  16:08               868 BUILTIN\Administrators mimikatz_simulation.log
+07-08-2025  16:08               932 BUILTIN\Administrators network_discovery.json
+07-08-2025  16:08             7,002 BUILTIN\Administrators process_discovery.json
+07-08-2025  16:08               404 BUILTIN\Administrators process_hollowing.json
+07-08-2025  16:07               346 BUILTIN\Administrators process_injection.json
+07-08-2025  16:08               558 BUILTIN\Administrators ransomware_simulation.json
+07-08-2025  16:08               784 BUILTIN\Administrators README_RANSOMWARE_SIMULATION.txt
+07-08-2025  16:08               754 BUILTIN\Administrators security_tools_enum.json
+07-08-2025  16:07               490 BUILTIN\Administrators service_creation.json
+07-08-2025  16:07             1,024 BUILTIN\Administrators stage2_loader.ps1
+07-08-2025  15:54    <DIR>          BUILTIN\Administrators staged_data
+07-08-2025  16:08             1,822 BUILTIN\Administrators stix_indicators.json
+07-08-2025  16:07             1,024 BUILTIN\Administrators totally_not_malware.exe.txt
+07-08-2025  16:07               606 BUILTIN\Administrators wmi_persistence.json
+              29 File(s)         42,063 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\MDETestArtifacts\staged_data
+
+07-08-2025  15:54    <DIR>          BUILTIN\Administrators .
+07-08-2025  16:08    <DIR>          BUILTIN\Administrators ..
+07-08-2025  16:08                88 BUILTIN\Administrators customer_data.csv
+07-08-2025  16:08                76 BUILTIN\Administrators financial_report.txt
+07-08-2025  16:08                64 BUILTIN\Administrators passwords.txt
+07-08-2025  16:08               130 BUILTIN\Administrators source_code.ps1
+               4 File(s)            358 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\msedge_url_fetcher_6284_958532291
+
+06-08-2025  14:59    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\WinGet
+
+03-07-2025  19:26    <DIR>          AVIRUP-1\Admin         .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\WinSAT
+
+03-07-2025  19:12    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Admin\AppData\Local\Temp\WPF
+
+07-08-2025  15:52    <DIR>          BUILTIN\Administrators .
+07-08-2025  18:29    <DIR>          AVIRUP-1\Admin         ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+            1300 File(s)    381,325,835 bytes
+             173 Dir(s)  12,561,960,960 bytes free
