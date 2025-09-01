@@ -1,7 +1,7 @@
 # 🛰️ Telecom SOC 
 
 ## 🔍 Overview
-This project is a **Security Operations Center (SOC) Copilot**.  
+This project is a **Security Operations Center (SOC)**.  
 It combines:
 - **Hybrid Scoring** → Rules + ML model (`model_pipeline.joblib`)  
 - **RAG (Retrieval-Augmented Generation)** → Knowledge base + MITRE mappings  
